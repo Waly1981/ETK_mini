@@ -1044,7 +1044,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910576702;unbekannt;;Rolle VSL Ø50/10×15 mm VU 93° Stahl
 1910576703;unbekannt;;Einlage EEL 16 PE 300×36,5×38 mm
 1910576704;unbekannt;;Ventilator 230VAC 67m³/h IP54
-1910576705;unbekannt;;Schmiereinheit ETN 100 + ETN 120
+1910576705;batch5;;Schmiereinheit ETN 100 + ETN 120
 1910576706;unbekannt;;Einlage EEL 19 PE 300×36,5×38 mm
 1910561275;unbekannt;;TESYS D/F ZEITBLOCK AV 0,1-30S
 1910576707;unbekannt;;Detektor-Set E10 36 NoDiag TOD 2,7m
@@ -1609,7 +1609,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910564088;5120350;;Lampe Z 24V 5W E14
 1910206955;5120360;;Lampe C11 24V 3W
 1910206956;5120370;;Lampe J 12V 1,2W
-1910206957;5120380;;Lampe J 24V 1,2W
+1910206957;batch5;;Lampe J 24V 1,2W
 1910362684;5120390;;Leuchtstofflampe 10W D26 470mm Interna
 1910365848;5120450;;Glimmlampe 220V BA 9S
 1910362685;5120470;;Leuchtstofflampe 23W D26 740mm Warmton
@@ -1897,7 +1897,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910363296;5372950;;Abstandsbolzen M4x12
 8001332371;5372960;;Duebel M16/25 Durchsteckanker
 1910207046;5373020;;Schlitzbeilage 1mm für Tür S8
-1910561283;unbekannt;;SCHÜTZ 3P 9A AC3 230V 50/60HZ 1S
+1910561283;batch5;;SCHÜTZ 3P 9A AC3 230V 50/60HZ 1S
 1910561284;unbekannt;;TESYS D/F HILFSSCHALTERBLOCK 3S1Ö
 8000920991;5500170;;Kappe 3/4 Zoll-T2
 8001346156;5500690;;Winkelverschraubung 3/4 Zoll U
@@ -3802,7 +3802,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910364030;6194082110;;ZB Schwelle M2T/M4TZS8 QRL<=500
 1910364033;6194094110;;ZB Schwelle M4TZK8 QRL<=500
 1910364034;6194097110;;ZB Schwelle mit Konsole M2TK8 QRL<=500
-1910561287;unbekannt;;SCHÜTZ 4P 40A AC1 230V 50/60HZ 1S1Ö
+1910561287;batch5;;SCHÜTZ 4P 40A AC1 230V 50/60HZ 1S1Ö
 1910365917;620159;;Hutschiene 35x15 gelocht St gelbchro.
 8001332334;62300000508;;Waelzlagerfett Tribol 3785
 1910368726;62300009202;;ZB Bremsbacke lackiert variabel
@@ -7183,7 +7183,7 @@ Vulkol."""
 1910363913;8850003766;;Führungsschuh unten, gelocht
 1910208051;8850003767;;Seilrolle  64x8,7 mm
 1910208052;8850003771;;Mitnehmerrollefür Türverriegelung
-1910367742;8850003798;;Laufrolle oben 3201.05.0032
+1910367742;batch5;;Laufrolle oben 3201.05.0032
 1910208053;8850003799;;Gegenrolle mit Exzenterachse
 1910363914;8850003899;;Führungsschuh, Gleitstück
 1910208054;8850003900;;Antriebsmotor m. optischem Encoder 1 Nm
@@ -8795,7 +8795,7 @@ Vulkol."""
 1910367488;99500012485;;Steuergeraet Lichtgitter 03.G5.PWS.FD2
 1910367489;99500012486;;Leitung LWL OM2 Multimode LC/ST 5m
 1910369570;99500012491;;Kabelkanaldeckel ver. 100x3000 m.Drehr.
-1910368754;99500012496;;Türsteuergeraet VF7 CAN TK
+1910368754;batch5;;Türsteuergeraet VF7 CAN TK
 1910368755;99500012506;;"Taster Blueton EN81-70 ""Tuer Zu"""
 1910368756;99500012507;;"Taster Blueton EN81-70 ""Tuer Auf"""
 1910368757;99500012508;;"Taster Blueton EN81-70 ""Telefon"""
@@ -10041,3 +10041,400 @@ Vulkol."""
 8000804614;;;ZB GBTK 6024-300M
 1000262273;unbekannt;;LED-Röhre T9,Ring, D=216mm Tageslicht
 1000099485;10082623;batch 4;KARTE PIA CMC4+ 20.50
+1000234736;10085572 Nr. SBC Spain;batch 4;Steuerplatine UBF-CMC4+
+1910497121;10077442 Nr. SBC Spain;batch 4;SEILBUCHSE  6, 6 MM MIT FEDER (SYNERGY)
+1910499062;10077204 Nr. SBC Spain;batch 4;NIVELLIERMAGNET L=280 mm
+1910499295;10082606 Nr. SBC Spain;batch 4;LED Leuchtfeld PIC 100x100
+1910499316;10085658 Nr. SBC Spain;batch 4;VORHANGVERANKERUNGSSATZ KOMPAKT ZENTRAL
+1910002925;batch5;;UPS IDG1600 (1600VA) 20/50 IDG1600
+1910052762;batch5;;Relais Finder 40.52
+1910052905;batch5;;Türkontakt Brücke zu TK5 Langlöcher
+1910163145;batch5;;Gegengewichtspufferkasten
+1910163214;batch5;;Seilspannroll-Baugr Ex2-L-keine Gewichte
+1910163597;batch5;;Bügelriemen ohne Feder
+1910163598;batch5;;Bügelriemen mit Feder
+1910163601;batch5;;BPSTK 5300N AL O40-12.5 0.6m USB
+1910163620;batch5;;LED-Feld-Baugruppe (280 x 280)
+1910165019;batch5;;CIB-KARTE
+1910165020;batch5;;EA241 WARTUNGS-HANDLAMPE
+1910165027;batch5;;INSPEK.STEUERUNG FAHRKORB OHNE STECKDOSE
+1910165034;batch5;;FAHRKORB NOTLEUCHTE EA200
+1910165036;batch5;;KURZER MAGNET
+1910165039;batch5;;BG270 ZONENPOSITIONSSENSOR
+1910165041;batch5;;BG282D UNTERER SENSOR FÜR LANGS ABSENKEN
+1910165042;batch5;;BG282U UNTERER SENSOR FÜR LANGS ANHEBEN
+1910165052;batch5;;BG281T OBERER FÜLLSTANDSSENSOR
+1910165053;batch5;;BG281B UNTERER FÜLLSTANDSSENSOR
+1910165076;batch5;;CIO-KARTE
+1910165077;batch5;;WLAN-KARTE
+1910165078;batch5;;ECB (SOM) KARTE
+1910165085;batch5;;LONG WAY 6FM9-12V 9A/H BATTERY
+1910165088;batch5;;TKE.PWB NETZKARTE
+1910165089;batch5;;ICB1-KARTE
+1910165097;batch5;;SZ310  BED.FELD F-STECKER/LEUCHTE L=0,5M
+1910165098;batch5;;SZ310  BED.FELD E-STECKER/LEUCHTE L=0,5M
+1910165104;batch5;;SG100 GRUBEN-NOTAUS-SCHALTER L=0,5M
+1910165132;batch5;;SG100.1 MASCHINE NOTAUSSCHALTER
+1910165146;batch5;;7'' ANZEIGE +XPU-KARTE
+1910165153;batch5;;ANZEIGE-SCHAUGLAS
+1910165155;batch5;;COP SPRECHMODUL DISC301-C2
+1910165162;batch5;;COP NOTLEUCHTENMODUL
+1910165163;batch5;;CPB-KARTE
+1910165177;batch5;;LOP31 TASTE NACH UNTEN m/LBI
+1910165179;batch5;;LOP31 TASTE NACH OBEN+ UNTEN m/LBI
+1910165187;batch5;;LIDC31 STOCKWERK FAHRKORB-PFEILANZEIGE
+1910165188;batch5;;UMRICHTER HVI-6
+1910165198;batch5;;KAMERA-SET V1
+1910165199;batch5;;BESCHLEUNIGUNGSMESSER
+1910165205;batch5;;LED-BAND-SCHACHTBELEUCHTUNG L=X
+1910165216;batch5;;MAXi+ANTENNEN (VODAFONE)
+1910165254;batch5;;DMC 6 USB
+1910165255;batch5;;MAXi+ANTENNEN (ORANGE)
+1910165256;batch5;;SCHRANKSPRECHANLAGE DISC301-D2
+1910165417;batch5;;WD140.1+BG141 SCHÜRZE KONTAKT KIT
+1910165428;batch5;;HVI-6 I/0 ELEKTRONIKPLATINE
+1910165429;batch5;;HVI-6 BREMSSTEUERPLATINE
+1910165430;batch5;;HVI-6 LÜFTER
+1910197753;batch5;;NB1 Leistungsschutzschlater 4 polig
+1910197754;batch5;;NB1L Fehlerstrom-Schutzschalter
+1910197755;batch5;;NB1 Hilfskontaktschalter
+1910197756;batch5;;NB1 Hilfskontaktschalter
+1910197757;batch5;;Impulsrelias, 1P,1NO, 16A,230-240VAC
+1910197758;batch5;;Relais mit Fassung  HFA4
+1910197759;batch5;;Steckdose Serie MSC IP54 BLACK Rail
+1910197760;batch5;;NB1L Fehlerstrom-Schutzschalter
+1910197761;batch5;;NB1L Fehlerstrom-Schutzschalter
+1910197762;batch5;;SOP (Service-Bedienfeld)
+1910197763;batch5;;Schützausrüstung
+1910197764;batch5;;Sicherheitsschalter  (Schachtleiter)
+1910197765;batch5;;Endschalter
+1910197766;batch5;;Endschalter
+1910197767;batch5;;EIT Schutz + Schalttafelabdeckung
+1910197768;batch5;;EIT CB Module
+1910197769;batch5;;Werkzeuge Handlauf
+1910197770;batch5;;EIT-Kabelbaum
+1910197771;batch5;;LIP (Board)
+1910197773;batch5;;Gleitschiene für Rollen ASA0002AL
+1910197775;batch5;;ZUBEHÖR FÜR LADEAUFZUG XCA.0075
+1910197777;batch5;;Gleitschuhhalter MACLA ASA 0015
+1910197779;batch5;;Brugg-Gurt 43 kN
+1910498317;batch5;;Relais Finder 40.52
+1910668161;batch5;;Luftfilter Set RAS-Wagner
+1910668162;batch5;;Luftfilter
+1910668163;batch5;;Rauchspray
+1910668164;batch5;;Rauchstift
+1910668165;batch5;;Schlüssel
+1910668166;batch5;;Rauchmelderkopf CT 3000
+1910668167;batch5;;Rauchmelderkopf Esser SD-O 371
+1910668168;batch5;;Rauchmelderkopf
+1910668169;batch5;;UBM 20, Detektormodul SSD 533
+1910668170;batch5;;Detektionseinheit
+1910668171;batch5;;Akku 1,2 A 12V
+1910668172;batch5;;Akku 2,3 A 12V
+1910668173;batch5;;Akku 3,4 A 12V
+1910668174;batch5;;Akku 0,8 A 12V
+1910668175;batch5;;UBM 20, Detektormodul SSD 535
+1910668176;batch5;;UBM 21, RWA
+1910668177;batch5;;Akku 12V 12Ah
+1910668178;batch5;;UBM 401 BTR Maschinenraum
+1910668179;batch5;;USV-Anlage 1200VA/720W
+1910668180;batch5;;Batterie 12 V 18 Ah ARD
+1910668181;batch5;;Pendelrolle
+1910668182;batch5;;Ersatzfilter RAS
+1910668183;batch5;;Notstrombatterie 12 V, 3,4 Ah
+1910668184;batch5;;Führungsrolle für RFP D125 mm
+1910668185;batch5;;Gleitführung
+1910668186;batch5;;Rolle VSL 50/10x15 VU 93° Lager 6000
+1910668187;batch5;;Türführung PE 100x36,2x7,6
+1910668189;batch5;;Anschlagdämpfer D20/10,3 x 20
+1910668190;batch5;;Rolle VSL 75/17x20/10 VU 93° Lager 6203
+1910668191;batch5;;Einlage TPU 5mm
+1910668192;batch5;;Führungsschuheinlage 1414 NE, L140mm
+1910668193;batch5;;Führungsschuheinlage EM 10 PA, L140mm
+1910668194;batch5;;Türführung 100/94x35x10mm
+1910668195;batch5;;Führungseinlage 9 PEC 140x29,5x30mm
+1910668196;batch5;;Türlaufrolle PA6G Lager 6202
+1910668197;batch5;;Türführung 35x10,5x18mm
+1910668198;batch5;;Rolle VSL 100/20x30 VU 93° Lager 6204
+1910668199;batch5;;Führungseinlage EM 10 PE
+1910668200;batch5;;Führungseinlage EM 16 PA
+1910668201;batch5;;Führungsschuheinlage, Cell-VU
+1910668202;batch5;;Führungsschuh VS-60 TPU
+1910668203;batch5;;Futterblech für Halteschuh 140mm
+1910668204;batch5;;Führungseinlage grün EM 14 PA
+1910668205;batch5;;Führungseinlage rot EM 14 PU
+1910668206;batch5;;Einlage EK 5 PU 100x20x30mm
+1910668207;batch5;;Führungseinlage rot EK 9 PU
+1910668208;batch5;;Führungseinlage EKU 5 PU
+1910668209;batch5;;Führungseinlage TPU 1416 NE
+1910668210;batch5;;Führungseinlage grün EK 5 PA
+1910668211;batch5;;Führungseinlage rot EL 16 PU
+1910668212;batch5;;Führungseinlage EMU 16 PE
+1910668213;batch5;;Führungseinlage TPU 1409 NE
+1910668214;batch5;;Türblattführung 100x35x11,5
+1910668215;batch5;;Schienenöler Kunststoff
+1910668216;batch5;;Schienenöler 5mm
+1910668217;batch5;;Schienenöler 16mm
+1910668218;batch5;;Ölauffangbehälter 16mm
+1910668219;batch5;;Führungsschuheinlage EM 5 PU
+1910668220;batch5;;Ölauffangbehälter, rund D160
+1910668221;batch5;;Ölauffangbehälter ,eckig
+1910668222;batch5;;Türlaufrolle PAG
+1910668223;batch5;;Türblattführung PE
+1910668224;batch5;;Türlaufrolle VF92 PA6G Lager 6201
+1910668225;batch5;;Einlage 15 PEC Cell-VU
+1910668226;batch5;;Türkontakt und Brücke 60mm
+1910668227;batch5;;Zahnriemen HTD 5M 1
+1910668229;batch5;;Zahnriemen RPP5
+1910668230;batch5;;Synchronisationsseil
+1910668231;batch5;;Rolle, PFR-04
+1910668232;batch5;;Rolle, PFR-38
+1910668233;batch5;;Rolle, PFR-62
+1910668234;batch5;;Rolle, PFR-08
+1910668235;batch5;;Rolle, PFR-09
+1910668236;batch5;;Ritzel
+1910668237;batch5;;Mitnehmerrolle Satz 915mm
+1910668238;batch5;;Mitnehmerrolle Satz
+1910668239;batch5;;Sicherheitsfeder, L442 mm
+1910668240;batch5;;Gummianschlag Türverriegelung M6x25 mm
+1910668241;batch5;;Führungsschuh 8mm
+1910668242;batch5;;Führungsschuh 25mm Turflügel
+1910668243;batch5;;Führungsschuh 16mm
+1910668244;batch5;;Führungsschuh
+1910668245;batch5;;Führungsschuh 140mm
+1910668246;batch5;;Führungsschuh 90mm
+1910668247;batch5;;Türkontakt und Brücke 40mm
+1910668248;batch5;;Türkontakt und Brücke 50mm
+1910668249;batch5;;Türkontakt und Brücke
+1910668250;batch5;;Türsteuergerät VF4+
+1910668251;batch5;;Türsteuergerät VF5
+1910668252;batch5;;Gegendruckrolle S/K T2, C4
+1910668253;batch5;;Führungsschuh T2,C4
+1910668255;batch5;;Mitnehmerschwert mit Kontakt
+1910668256;batch5;;Akkumulator 12 V 1,2 Ah
+1910668257;batch5;;Notentriegelungsschlüssel Dreikant M5
+1910668258;batch5;;Schachtumschalter 3-polig
+1910668260;batch5;;Betätigungskralle Sicherheitsschalter WZ
+1910668262;batch5;;Brücke
+1910668263;batch5;;Notentriegelungsschlüssel CS
+1910668264;batch5;;Kontaktbrücke PZ 24
+1910668265;batch5;;Unterlage PZ - U5
+1910668266;batch5;;Türverriegelung Riegelbüchse 'B'
+1910668267;batch5;;Notentriegelungsschlüssel D12
+1910668268;batch5;;Schlüssel MAP
+1910668269;batch5;;Türverriegelung SE7/SBE6
+1910668270;batch5;;Puffer D20
+1910668271;batch5;;Einlage L200
+1910668272;batch5;;Türkontakt ADL
+1910668273;batch5;;Notentriegelungsschlüssel
+1910668274;batch5;;Riegelbüchse transparent
+1910668275;batch5;;Führung 6mm
+1910668276;batch5;;Filzstreifen
+1910668277;batch5;;Keilriemennabe, D38 mm
+1910668278;batch5;;Zugfeder C82
+1910668279;batch5;;Notentriegelungsschlüssel L230
+1910668280;batch5;;Schlüssel Notentr. M6 re Gew. L70
+1910668281;batch5;;Schlüssel Notentr. M6 li Gew. L70
+1910668282;batch5;;Türkontaktbrücke (keine Langlöcher)
+1910668284;batch5;;Signallampe BA9S 24V 1W
+1910668285;batch5;;Türkontakt Kone Schiebetür
+1910668286;batch5;;Positionsschalter
+1910668287;batch5;;Notentriegelungsschlüssel M6
+1910668288;batch5;;Gummipuffer D11
+1910668289;batch5;;Türführung groß
+1910668290;batch5;;Türführung komplett (Satz = 2)
+1910668291;batch5;;Türverriegelung L2 (TV02/247)
+1910668292;batch5;;Zugfeder TS6
+1910668293;batch5;;Feder zu Drehtüre
+1910668294;batch5;;Laufrolle D56 mm
+1910668295;batch5;;Türkontak PZ73D/B 18mm
+1910668296;batch5;;Türverriegelung DR0
+1910668297;batch5;;Führungseinlage 5,5
+1910668298;batch5;;Notentriegelungsschlüssel L193 mm
+1910668299;batch5;;Nylonkordel L1540 mm
+1910668300;batch5;;Gummipuffer Laufwagenschlange
+1910668301;batch5;;Türverriegelung
+1910668302;batch5;;Berührschutz für Türkontakt 5KS
+1910668303;batch5;;Türrolle D45
+1910668304;batch5;;Nylonkordel D 3mm
+1910668305;batch5;;Umlenkrolle
+1910668306;batch5;;Laufrolle D 54 mm
+1910668307;batch5;;Führungseinlage 16mm
+1910668308;batch5;;Führungseinlage 10mm
+1910668309;batch5;;Laufrolle D 50 mm
+1910668310;batch5;;Türführung
+1910668311;batch5;;Türkontakt C3
+1910668312;batch5;;Rollenschalter
+1910668313;batch5;;Notentriegelung
+1910668314;batch5;;Notentriegelungsschlüssel Dreikant
+1910668315;batch5;;Magnetschalter BN 32-R
+1910668316;batch5;;Türkontakt AZ07 K mit Brücke
+1910668318;batch5;;Magnetschalter BN 65-RZ
+1910668319;batch5;;Auslösemagnet Kpl.
+1910668320;batch5;;Leuchttaster ELAN
+1910668321;batch5;;Magnetschalter BN 325-R-1279
+1910668322;batch5;;Türkontaktbrücke AZ 02 B/16
+1910668323;batch5;;Magnetschalter MKF24ARAKX
+1910668324;batch5;;Notlichtgerät KNSG 300 V002
+1910668325;batch5;;Motor für Türantrieb
+1910668326;batch5;;Türsteuergerät TSG V4
+1910668327;batch5;;Gegendruckrolle für Blechtürblatt
+1910668329;batch5;;Kontaktbrücke AZ 06/07 B/21
+1910668330;batch5;;Zwangstürkontakt rund
+1910668331;batch5;;Zugfeder mit Öse
+1910668332;batch5;;Gummipuffer Typ A
+1910668333;batch5;;Anschlagpuffer
+1910668334;batch5;;Mikro - Schalter
+1910668335;batch5;;Türblattführung
+1910668336;batch5;;Türkontakt
+1910668337;batch5;;Schließfeder (Zugfeder)
+1910668338;batch5;;Rollenschließgewicht ohne Kugellager
+1910668339;batch5;;Gummipuffer mit Gewinde
+1910668340;batch5;;Rolle für Hakenriegel
+1910668341;batch5;;Verstellbare Türverkleidungsführung
+1910668342;batch5;;Teleskopseil Tür
+1910668343;batch5;;O - Ring
+1910668344;batch5;;Türkontakt zwang
+1910668346;batch5;;Schließgewichtsseil Perlon
+1910668347;batch5;;Seilbefestigung 1
+1910668348;batch5;;Verriegelungsrolle für TA 9V
+1910668349;batch5;;Teleskopseil 1000mm
+1910668350;batch5;;Beipackbeutel für Seile
+1910668351;batch5;;Rolle für Teleskopseil
+1910668352;batch5;;Laufrolle Ø 65 komplett langsam
+1910668353;batch5;;Laufrolle D65 komplett schnell
+1910668354;batch5;;Seilbefestigung
+1910668355;batch5;;Gummipuffer
+1910668356;batch5;;Gegendruckrolle
+1910668357;batch5;;Klemmplatte für Zahnriemen
+1910668358;batch5;;Türkontakt Typ PZ 73 / IP20
+1910668359;batch5;;Führungsblech
+1910668361;batch5;;Schließgewichtsseil Perlonseil
+1910668362;batch5;;Steuergerät
+1910668363;batch5;;Verriegelung links
+1910668364;batch5;;Schließfeder TTS 5
+1910668365;batch5;;Gegendruckrolle komplett mit Bolzen 1
+1910668366;batch5;;Verriegelung komplett, links
+1910668367;batch5;;Gegendruckrolle komplett mit Schraube
+1910668368;batch5;;Teleskopseil
+1910668369;batch5;;Kontaktbrücke Typ PZ 21
+1910668370;batch5;;Schließgewichtsseil
+1910668371;batch5;;Gummipuffer für Schließgewicht
+1910668372;batch5;;Gegendruckrolle komplett mit Bolzen
+1910668373;batch5;;Türkontakt Typ AZ 06 KT
+1910668374;batch5;;Zugfeder für Mitnehmer
+1910668375;batch5;;Hilfsstromgerät HSG 121.2 G
+1910668376;batch5;;LED Röhre, T8, 20 W, 840, L: 1200 mm
+1910668377;batch5;;LED Röhre, T8, 22 W, 840, L: 1500 mm
+1910668378;batch5;;LED Modul Clio
+1910668379;batch5;;Türverriegelung LR 180
+1910668380;batch5;;S1D Riegel links, Ersatzriegel
+1910668381;batch5;;Hilfsstromquelle 12V 2Ah waagerechte
+1910668382;batch5;;Hilfsstromquelle 12V 7.2Ah
+1910668383;batch5;;Hilfsstromquelle 24 VDC 2Ah
+1910668384;batch5;;USV-Anlage IDG800
+1910668385;batch5;;Glühlampe, 30 V, 1,4 W, BA7s
+1910668386;batch5;;"Taster VB 42 XI rot, ""neutral"""
+1910668387;batch5;;"Taster VB 42 XI rot, ""Pfeil"""
+1910668388;batch5;;"Taster Schäfer B50R XL ""Pfeil"""
+1910668389;batch5;;"Taster VB42 M rot, ""neutral"""
+1910668390;batch5;;"Taster Schäfer B50R XL ""neutral"""
+1910668391;batch5;;Schlüsselschalter Standard
+1910668392;batch5;;Kurzhubtaster MT56
+1910668393;batch5;;Kurzhubtaster
+1910668394;batch5;;Taster rund VB42M
+1910668395;batch5;;KT40 TH, 1NO+1NC, db gelb, S039 TH Alarm
+1910668396;batch5;;Akku 12V 6.0AH
+1910668397;batch5;;Hilfsschütz 1S+1Ö, 230V 50/60Hz
+1910668398;batch5;;Relais 12 V DC (Typ DOLD)
+1910668399;batch5;;Schaltnetzteil SNSNT10024DS
+1910668400;batch5;;Relaisesockel
+1910668401;batch5;;Sicherheitsrelais
+1910668402;batch5;;Magnetschalter MKF24ARAF
+1910668403;batch5;;Magnetschalter, 250V-MCO74AAP SEMATIC
+1910668404;batch5;;Schließfeder Schachttüre
+1910668406;batch5;;Notentriegelung für Schachttüren (Satz)
+1910668407;batch5;;Obere Rolle für Schwert (mit Exzenter)
+1910668408;batch5;;Untere Rolle für Schwert (ohne Exzenter)
+1910668409;batch5;;Seilrollen-Träger
+1910668410;batch5;;Türsteuergerät
+1910668411;batch5;;Schwingmetall-Befestigung AT 18 / AT 25
+1910668412;batch5;;Montagewinkel
+1910668413;batch5;;Türmitnehmer (12 mm) 2 Stück
+1910668414;batch5;;Umlenkvorrichtung
+1910668415;batch5;;Zahnriemen STS (12 mm)
+1910668416;batch5;;Türantrieb AT 40 komplett, 30 V, rechts,
+1910668417;batch5;;Türantrieb AT 40 komplett, 30 V, links
+1910668418;batch5;;Türantrieb AT 40 komplett, 30 V, rechts
+1910668419;batch5;;Türsteuergerät AT 40, CAN
+1910668420;batch5;;Schmierkartusche Fett
+1910668421;batch5;;Gleitführung Einlage
+1910668422;batch5;;Guide position ref. system PRS-2
+1910668423;batch5;;Guide shoe insert
+1910668424;batch5;;Akku 6 V / 4,5 Ah
+1910668425;batch5;;Notstromgerät NSG 230 / 6 V, 4,5 Ah
+1910668426;batch5;;Akku 12 V 5 Ah / 20 hr
+1910668427;batch5;;Hupe Typ 631
+1910668428;batch5;;LED-Lampe  8 W, E27, matt
+1910668429;batch5;;Niedervolt-Halogenlampe 12 V DC, 50 W
+1910668430;batch5;;Hilfsschütz EATON DILER-31
+1910668431;batch5;;Relais Serie 41.61 Finder
+1910668432;batch5;;Lampe 240 V, 5 W, 840
+1910668433;batch5;;Stromversorgung TRIO POWER
+1910668434;batch5;;Zeitblock
+1910668435;batch5;;ESE Adapter
+1910668436;batch5;;Microschalter M697, rechts
+1910668437;batch5;;Microschalter M697, links
+1910668438;batch5;;Führungsschuh komplett mit Trägerelement
+1910668439;batch5;;Rolle  D = 200
+1910668440;batch5;;Türkontakt AST821
+1910668441;batch5;;Feder für automatische Türschließung
+1910668442;batch5;;Feder
+1910668443;batch5;;Zahnscheibe konisch
+1910668444;batch5;;Türseil
+1910668445;batch5;;Kontakt Hydrabelt KF-2V
+1910668446;batch5;;Flachrillenriemen PJ965
+1910668447;batch5;;Führungsschuh-Set
+1910668448;batch5;;Türkontakt Wittur
+1910668449;batch5;;Laufrollen Set
+1910668450;batch5;;Schließgewichtseil
+1910668451;batch5;;Riegelrolle
+1910668452;batch5;;Rolleneinheit, rechts
+1910668453;batch5;;Art. 89627G02
+1910668454;batch5;;Schließfeder
+1910668455;batch5;;Feder f Schachttürschließung
+1910668456;batch5;;Rolle
+1910668457;batch5;;Rillenriemen
+1910668458;batch5;;Türführung VF92
+1910668459;batch5;;MIDI/SUPRA V2 ERSATZTEILKIT EN 81-20/50
+1910668460;batch5;;UMRÜSTUNGSSATZ FÜR SDS DC-PWM
+1910668461;batch5;;VERKABELT DC MOTOR GR 63X25,24VCC-1500MM
+1910668462;batch5;;ECO+ STEUERGERÄT
+1910668463;batch5;;EBRA Steuerungsplatine
+1910668464;batch5;;HAKENRIEGEL KOMPLETT FUER TYP 11/41 LINK
+1910668465;batch5;;ROLLER DIAMETER 200MM WRG WIDE 38MM.
+1910668466;batch5;;CALL BUT.L-BDU INT.WHITE/BLUE1
+1910668467;batch5;;ROPE PULLEY, TENSION WEIGHT, D214X20MM
+1910668469;batch5;;ROLLER DIAMETER 150MM WRG WIDE 27MM.
+1910668470;batch5;;OBERE HD PREMIUM LAUFROLLE, D56 MM HYDRA
+1910668471;batch5;;ROLLER DIAMETER 100MM. WRG
+1910668472;batch5;;2 X ROLLER DIAMETER 53MM (EXTERNAL 60MM)
+1910668473;batch5;;LAUFROLLE D44MM FINELINE
+1910668474;batch5;;HAKENRIEGELROLLEN STANDARD L21,3 SCHWARZ
+1910668475;batch5;;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L440 MM
+1910668476;batch5;;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L315 MM
+1910668477;batch5;;UNTERE GEGENROLLE FÜR LAUFWAGEN D.36MM
+1910668478;batch5;;DOORS CONTACT KF9074
+1910668479;batch5;;FILZ FÜR GEGENGEWICHT L=1000 MM
+1910668480;batch5;;SYNCHRON/SCHLIEßROLLE HYDRA D64MM
+1910668481;batch5;;TOOTH BELT, HDT5M 12
+1910668482;batch5;;SAFETY SWITCH SEL1-A1Z (S274093)
+1910668483;batch5;;EBRA SLIDING JAW, GDE RAIL 16MM
+1910668484;batch5;;GEGENROLLE EXZENTER FÜR ARIES
+1910668485;batch5;;CONTACT BRIDGE KF 9075
+1910668486;batch5;;DOOR PANEL SHOES KIT (4PCS)
+1910668487;batch5;;EXTENSION SPRING STEEL WIRE
+1910668488;batch5;;TRÄGERELEMENT / FÜHRUNGSSCHUH
+1910668489;batch5;;SLIDING ELEMENT EBRA 20
+1910668490;batch5;;FÜHRUNGSSCHUH GELOCHT
+1910668491;batch5;;ÖFFNUNG GERÄTE-ETIKETT, 95X110MM
