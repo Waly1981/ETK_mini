@@ -9379,7 +9379,7 @@ Vulkol."""
 1000219396;unbekannt;;AY GOVERNOR GBTK 6024-500S 60240000133
 1000234961;unbekannt;;UCM OVERSPEED FREQUENCYMETER
 1000236487;unbekannt;;2N DB-Antenne  GSM/UMTS
-1000246846;unbekannt;;Governor 6024 60240000092
+1000246846;P1E=EU Löschvermerk;;Governor 6024 60240000092
 1000256840;unbekannt;;ZB Leiterplatte MC3 I/O
 1000258054;unbekannt;;Umreifungsband 9x0,55mm weiß,1 Rolle=4km
 1910003023;unbekannt;;GOVERNER TIGHTENER SYNERGY ELEMENT
@@ -9443,9 +9443,9 @@ Vulkol."""
 1910206897;unbekannt;;Sicherungsring 20x1,2 Federstahl
 1910206909;unbekannt;;Faecherscheibe A8,4 Federstahl vz
 1910206919;unbekannt;;SKT Mutter M68 vz
-1910206954;unbekannt;;Leuchtstofflampe U 36W Universal
-1910206958;unbekannt;;Leuchtstofflampe 30W D26 895mm Interna
-1910206959;unbekannt;;Leuchtstofflampe 36W D26 970mm Univ-w.
+1910206954;P1E=EU Löschvermerk;;Leuchtstofflampe U 36W Universal
+1910206958;P1E=EU Löschvermerk;;Leuchtstofflampe 30W D26 895mm Interna
+1910206959;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 970mm Univ-w.
 1910206960;unbekannt;;Leuchtstofflampe 38W D26 1047mm Lumilux
 1910206973;unbekannt;;Stift Combicon 4pol ger RM5,08 schraub
 1910206980;unbekannt;;Kegelstopfen GPN600 B890
@@ -9458,10 +9458,10 @@ Vulkol."""
 1910207166;unbekannt;;Taster Bremskontrolle 24VDC 200mA IP65
 1910207172;unbekannt;;Sicherheitsschalter m.Bügelbetät. IP54
 1910207198;unbekannt;;Leuchtstofflampe 18W D26 590mm -840
-1910207211;unbekannt;;Profilhalbzylinder 10x30
-1910207223;unbekannt;;Ersatzwanne 350x350
-1910207304;unbekannt;;Ladewiderstand 100 O
-1910207305;unbekannt;;IGBT Modul BSM 150 V1-4
+1910207211;P1E=EU Löschvermerk;;Profilhalbzylinder 10x30
+1910207223;P1E=EU Löschvermerk;;Ersatzwanne 350x350
+1910207304;P1E=EU Löschvermerk;;Ladewiderstand 100 O
+1910207305;P1E=EU Löschvermerk;;IGBT Modul BSM 150 V1-4
 1910207343;unbekannt;;ZB Schachtfahne 1/99
 1910207471;unbekannt;;Fuehrungsschuheinlage 127x34 9mm
 1910207478;unbekannt;;Fuehrungsschuheinlage 127x34 5mm
@@ -9470,26 +9470,26 @@ Vulkol."""
 1910207538;unbekannt;;ZB Hakenriegel R M2TS8
 1910207556;unbekannt;;Rolle D30xd15,2x21
 1910207564;unbekannt;;Huelse fuer Hakenriegel S8
-1910207581;unbekannt;;Türschalter mit Brücke
-1910207653;unbekannt;;Bremse DAF210M
+1910207581;P1E=EU Löschvermerk;;Türschalter mit Brücke
+1910207653;P1E=EU Löschvermerk;;Bremse DAF210M
 1910207761;unbekannt;;ZB Leiterplatte MA 4 Standanzeige
-1910207763;unbekannt;;ZB Leiterplatte MV1 Rueckwandplatte
+1910207763;P1E=EU Löschvermerk;;ZB Leiterplatte MV1 Rueckwandplatte
 1910207768;unbekannt;;ZB Eprom Satz MZ1
 1910207776;unbekannt;;ZB Leiterplatte MZ1 Zentralplatte Gruppe
 1910207793;unbekannt;;Netzgeraet MN6 24V/4A 90/180V 3,4A
 1910207794;unbekannt;;Netzgeraet 400V/ 24VDC/ 10A
-1910207829;unbekannt;;ZB Magnetschalter
+1910207829;P1E=EU Löschvermerk;;ZB Magnetschalter
 1910207873;unbekannt;;ZB Alarmtaster Basic
-1910207877;unbekannt;;ZB Standanzeige MA7 Gruen
-1910207879;unbekannt;;ZB Lautsprecherelement vandalensicher
-1910207951;unbekannt;;ZB Leitung Lokalbus
-1910207987;unbekannt;;ZB Taster 2 S
-1910208146;unbekannt;;Puffer 165x80 A
+1910207877;P1E=EU Löschvermerk;;ZB Standanzeige MA7 Gruen
+1910207879;P1E=EU Löschvermerk;;ZB Lautsprecherelement vandalensicher
+1910207951;P1E=EU Löschvermerk;;ZB Leitung Lokalbus
+1910207987;P1E=EU Löschvermerk;;ZB Taster 2 S
+1910208146;P1E=EU Löschvermerk;;Puffer 165x80 A
 1910208181;unbekannt;;ZB Schienenoeler AK5 FK NC91/NC71
 1910208182;unbekannt;;Lagerbolzen
-1910208186;unbekannt;;ZB Hakenriegel R S12
+1910208186;P1E=EU Löschvermerk;;ZB Hakenriegel R S12
 1910208278;unbekannt;;ZB Leiterplatte Bering. Delta Contr. Hyd
-1910208308;unbekannt;;Zielwahl Elektroniksatz eckig ohne Kabel
+1910208308;P1E=EU Löschvermerk;;Zielwahl Elektroniksatz eckig ohne Kabel
 1910208328;unbekannt;;Beschriftungselem. I ThyssenKrupp Basic
 1910208344;unbekannt;;ZB Taster STEP C flach blau 1
 1910208347;unbekannt;;ZB Taster STEP C flach blau 0
@@ -9514,98 +9514,98 @@ Vulkol."""
 1910208396;unbekannt;;ZB Taster STEP C fl Tak bla Pfeil
 1910208397;unbekannt;;ZB Taster STEP C Tak blau Pfeil auf/ab
 1910208398;unbekannt;;ZB Taster STEP C fl Tak bla Tür auf
-1910208512;unbekannt;;Handleuchte mit 5m Kabel
-1910208514;unbekannt;;Leitungsschutzschalter 60N C6
-1910208520;unbekannt;;Trafo 230/28,5 V
-1910208525;unbekannt;;Trafo 11,2-11,7 V
-1910208535;unbekannt;;Leuchtanzeige MA6434P
+1910208512;P1E=EU Löschvermerk;;Handleuchte mit 5m Kabel
+1910208514;P1E=EU Löschvermerk;;Leitungsschutzschalter 60N C6
+1910208520;P1E=EU Löschvermerk;;Trafo 230/28,5 V
+1910208525;P1E=EU Löschvermerk;;Trafo 11,2-11,7 V
+1910208535;P1E=EU Löschvermerk;;Leuchtanzeige MA6434P
 1910208544;unbekannt;;Leuchtstoffröhre TLD 30 W/29
-1910208640;unbekannt;;E/A Baugruppe 40/40
+1910208640;P1E=EU Löschvermerk;;E/A Baugruppe 40/40
 1910208641;unbekannt;;Etagenmodul LEM2 voll bestückt
-1910208693;unbekannt;;Bedienanleitung TCI/TCM Tester Englisch
-1910208710;unbekannt;;Geländerverlängerung FKD
-1910208711;unbekannt;;Fussleiste yellowtool-flex
-1910208715;unbekannt;;Lotdrahtaufnahme
-1910208718;unbekannt;;Traegertraverse
-1910208725;unbekannt;;Endschalter mit Winkel
-1910208730;unbekannt;;Schienen Ziehvorrichtung
-1910208731;unbekannt;;Orsy-Box
-1910208732;unbekannt;;ZB Hebevorrichtung MRE EVO F Q>1600kg
-1910208733;unbekannt;;Haken für Kabine
-1910208734;unbekannt;;Motorhalterung für GG
-1910208735;unbekannt;;Bügel- und Seilschutz
-1910208738;unbekannt;;ZB Trägertraverse Yellow beams
+1910208693;P1E=EU Löschvermerk;;Bedienanleitung TCI/TCM Tester Englisch
+1910208710;P1E=EU Löschvermerk;;Geländerverlängerung FKD
+1910208711;P1E=EU Löschvermerk;;Fussleiste yellowtool-flex
+1910208715;P1E=EU Löschvermerk;;Lotdrahtaufnahme
+1910208718;P1E=EU Löschvermerk;;Traegertraverse
+1910208725;P1E=EU Löschvermerk;;Endschalter mit Winkel
+1910208730;P1E=EU Löschvermerk;;Schienen Ziehvorrichtung
+1910208731;P1E=EU Löschvermerk;;Orsy-Box
+1910208732;P1E=EU Löschvermerk;;ZB Hebevorrichtung MRE EVO F Q>1600kg
+1910208733;P1E=EU Löschvermerk;;Haken für Kabine
+1910208734;P1E=EU Löschvermerk;;Motorhalterung für GG
+1910208735;P1E=EU Löschvermerk;;Bügel- und Seilschutz
+1910208738;P1E=EU Löschvermerk;;ZB Trägertraverse Yellow beams
 1910208741;unbekannt;;Gliedermaßstab 2m transluzent grün
-1910208747;unbekannt;;PSDW Seil 10,2mm für Lasttest 5m
-1910208753;unbekannt;;Motorhebearm
-1910208754;unbekannt;;Seilsicherungsbolzen Synergy Set6&7Seile
-1910208755;unbekannt;;Seilsicherungsbolzen Set Synergy 10Seile
-1910208756;unbekannt;;ZB Fanghebeladapter
+1910208747;P1E=EU Löschvermerk;;PSDW Seil 10,2mm für Lasttest 5m
+1910208753;P1E=EU Löschvermerk;;Motorhebearm
+1910208754;P1E=EU Löschvermerk;;Seilsicherungsbolzen Synergy Set6&7Seile
+1910208755;P1E=EU Löschvermerk;;Seilsicherungsbolzen Set Synergy 10Seile
+1910208756;P1E=EU Löschvermerk;;ZB Fanghebeladapter
 1910208760;unbekannt;;ZB Montagekoffer für Hängekabel
-1910208833;unbekannt;;Temperaturregler TP 7010
+1910208833;P1E=EU Löschvermerk;;Temperaturregler TP 7010
 1910208872;unbekannt;;Magnetschalter 1S M8 (Reed-Sensor)
 1910208876;unbekannt;;Hilfsschuetz 230V AC 4S
 1910208877;unbekannt;;Hilfsschalter 4OE
 1910208891;unbekannt;;Steuerplatine can Türantrieb RT301
-1910208900;unbekannt;;Leuchtstofflampe 36W
+1910208900;P1E=EU Löschvermerk;;Leuchtstofflampe 36W
 1910208920;unbekannt;;Drehgeber2048 SSI Baumer Konus 5m 3rs
-1910208940;unbekannt;;Laufrollen Set rechts
-1910208962;unbekannt;;Drehgeber Kübler
-1910208964;unbekannt;;Blindelement SM1
-1910208965;unbekannt;;Taster SM1 Braille Mf Bez. -1
-1910208966;unbekannt;;Taster SM1 Braille Mf Bez. 0
-1910208967;unbekannt;;Taster SM1 Braille Mf Bez. 1
-1910208968;unbekannt;;Taster SM1 Braille Mf Bez. 2
-1910208969;unbekannt;;Taster SM1 Braille Mf Bez. 3
-1910208970;unbekannt;;Taster SM1 Braille Mf Bez. 4
-1910208971;unbekannt;;Taster SM1 Braille Bez. -1
-1910208972;unbekannt;;Taster SM1 Braille Bez. 0
-1910208973;unbekannt;;Taster SM1 Braille Bez. 1
-1910208974;unbekannt;;Taster SM1 Braille Bez. 2
-1910208975;unbekannt;;Taster SM1 Braille Bez. 3
-1910208976;unbekannt;;Taster SM1 Braille Bez. 4
-1910208992;unbekannt;;Türmotor OP14
-1910209044;unbekannt;;ZB Frequenzumrichter CPI40E V3 synchron
-1910209046;unbekannt;;ZB Frequenzumrichter CPI60E V3 synchron
+1910208940;P1E=EU Löschvermerk;;Laufrollen Set rechts
+1910208962;P1E=EU Löschvermerk;;Drehgeber Kübler
+1910208964;P1E=EU Löschvermerk;;Blindelement SM1
+1910208965;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. -1
+1910208966;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 0
+1910208967;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 1
+1910208968;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 2
+1910208969;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 3
+1910208970;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 4
+1910208971;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. -1
+1910208972;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 0
+1910208973;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 1
+1910208974;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 2
+1910208975;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 3
+1910208976;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 4
+1910208992;P1E=EU Löschvermerk;;Türmotor OP14
+1910209044;P1E=EU Löschvermerk;;ZB Frequenzumrichter CPI40E V3 synchron
+1910209046;P1E=EU Löschvermerk;;ZB Frequenzumrichter CPI60E V3 synchron
 1910209055;unbekannt;;Grundgeraet CPI15E V3
 1910209058;unbekannt;;Frequenzumrichter CPI/MFC32 Grund V3
 1910209062;unbekannt;;ZB Display RPI
 1910209087;unbekannt;;Sensor Barcode Positioniersyst. BPS34
 1910209103;unbekannt;;Getriebeoel Optigear 20L
-1910209107;unbekannt;;Scheibe 4,5/8x8,5
+1910209107;P1E=EU Löschvermerk;;Scheibe 4,5/8x8,5
 1910209112;unbekannt;;DICHTUNGSSATZ KOMPLETT
 1910209137;unbekannt;;Kugelgelenk
 1910209138;unbekannt;;Fuehrungsschuheinlage 127x34 16mm
-1910209142;unbekannt;;ZBLaufrolleS8/K8 D71 LF61 o.Sr
+1910209142;P1E=EU Löschvermerk;;ZBLaufrolleS8/K8 D71 LF61 o.Sr
 1910209143;unbekannt;;ZB Mitnehmerrolle fuer Hakenriegel S8
 1910209163;unbekannt;;Magnetschalter bistabil 2-polig 3,5m
 1910209173;unbekannt;;Schlüssel Manchette U03674
-1910209187;unbekannt;;E/A Baugruppe 24/24
-1910209202;unbekannt;;BKS PMC 145L und Platine CPI
-1910209212;unbekannt;;Leuchtstofflampe 36W D26 mit Schutzrohr
-1910209226;unbekannt;;ZB Begrenzerspannrolle <=2,5m/s d6,5
+1910209187;P1E=EU Löschvermerk;;E/A Baugruppe 24/24
+1910209202;P1E=EU Löschvermerk;;BKS PMC 145L und Platine CPI
+1910209212;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 mit Schutzrohr
+1910209226;P1E=EU Löschvermerk;;ZB Begrenzerspannrolle <=2,5m/s d6,5
 1910209251;unbekannt;;ZB Leiterplatte MP Portmodul
-1910209274;unbekannt;;Frequenzumrichter CPI10E Grundg V3
+1910209274;P1E=EU Löschvermerk;;Frequenzumrichter CPI10E Grundg V3
 1910209276;unbekannt;;Frequenzumrichter CPI09F synchron
 1910210252;6519030660;;ZB Leiterplatte MT Türmodul
 1910210253;unbekannt;;Netzgeraet MN6 24V/4A 90/180V 3,4A
 1910318323;unbekannt;;Dichtungssatz  Ventilblock AZSTBII
 1910362676;unbekannt;;Kondensator 2µF 4000VAC
-1910362681;unbekannt;;Leuchtstofflampe 40W D32 Ring DA413mm
+1910362681;P1E=EU Löschvermerk;;Leuchtstofflampe 40W D32 Ring DA413mm
 1910362717;unbekannt;;Pendelrollenlager 22224E
 1910362718;unbekannt;;Zylinderrollenlager NJ 2316 E
-1910362767;unbekannt;;ZB Zusatzteile T125/B Klemmplatte
-1910362830;unbekannt;;Netzgeraet Aufbau API
-1910362831;unbekannt;;Netzgeraet Aufbau API72
-1910362843;unbekannt;;Schwellenprofil 42x23xca.3,5
-1910362860;unbekannt;;ZB Leiterplatte Rechner Aufzug
-1910362861;unbekannt;;ZB Leiterplatte Ansteuerung Abtaktwid.
-1910362862;unbekannt;;ZB Leiterplatte FDI
-1910362863;unbekannt;;ZB Leiterplatte FEI Steuerspannungserfas
-1910362864;unbekannt;;ZB Leiterplatte FMC2 Rechner C166
-1910362872;unbekannt;;ZB Leiterplatte HSR
-1910362878;unbekannt;;ZB Leiterplatte Interface
-1910362881;unbekannt;;ZB Leiterplatte Ansteuerung L1,2,3 API
+1910362767;P1E=EU Löschvermerk;;ZB Zusatzteile T125/B Klemmplatte
+1910362830;P1E=EU Löschvermerk;;Netzgeraet Aufbau API
+1910362831;P1E=EU Löschvermerk;;Netzgeraet Aufbau API72
+1910362843;P1E=EU Löschvermerk;;Schwellenprofil 42x23xca.3,5
+1910362860;P1E=EU Löschvermerk;;ZB Leiterplatte Rechner Aufzug
+1910362861;P1E=EU Löschvermerk;;ZB Leiterplatte Ansteuerung Abtaktwid.
+1910362862;P1E=EU Löschvermerk;;ZB Leiterplatte FDI
+1910362863;P1E=EU Löschvermerk;;ZB Leiterplatte FEI Steuerspannungserfas
+1910362864;P1E=EU Löschvermerk;;ZB Leiterplatte FMC2 Rechner C166
+1910362872;P1E=EU Löschvermerk;;ZB Leiterplatte HSR
+1910362878;P1E=EU Löschvermerk;;ZB Leiterplatte Interface
+1910362881;P1E=EU Löschvermerk;;ZB Leiterplatte Ansteuerung L1,2,3 API
 1910362940;unbekannt;;Buchse 40x65x34
 1910362963;unbekannt;;Zylinderschraube M6x16  8.8 verzinkt
 1910362970;unbekannt;;SKT Schraube M6x20 8.8 vz
@@ -9613,16 +9613,16 @@ Vulkol."""
 1910362990;unbekannt;;Sicherungsschraube M8x25
 1910362995;unbekannt;;SKT Schraube M12x140 8.8 vz
 1910363013;unbekannt;;Flachkopfschraube AM4x30 4.8 vz
-1910363022;unbekannt;;Senkschraube M8x16 4.8 vz
-1910363038;unbekannt;;Gewindestift M8x25 14H St vz
-1910363051;unbekannt;;Schaftschraube M8x175 9S20K vz
+1910363022;P1E=EU Löschvermerk;;Senkschraube M8x16 4.8 vz
+1910363038;P1E=EU Löschvermerk;;Gewindestift M8x25 14H St vz
+1910363051;P1E=EU Löschvermerk;;Schaftschraube M8x175 9S20K vz
 1910363061;6073903980;;Halteblech 40x35x2 entgratet
 1910363122;unbekannt;;Scheibe 10 St vz
 1910363130;unbekannt;;Scheibe 17/33x0,5 St2K50 GK vz
 1910363132;unbekannt;;Sicherungsscheibe S10 Federstahl vz
 1910363146;unbekannt;;Sicherungsscheibe S12 Federstahl vz
 1910363199;unbekannt;;Jumper 2,54mm MAX
-1910363271;unbekannt;;Schild Tragfaehigkeitsschild
+1910363271;P1E=EU Löschvermerk;;Schild Tragfaehigkeitsschild
 1910363284;unbekannt;;Passfeder A14x9x63
 1910363363;unbekannt;;ZB Schachtfahne 41-50
 1910363364;unbekannt;;ZB Schachtfahne 51-59
@@ -9634,59 +9634,59 @@ Vulkol."""
 1910363604;unbekannt;;Buchse 60x80x19
 1910363628;unbekannt;;ZB Typenschild C
 1910363657;unbekannt;;ZB Spreizschwert R
-1910363708;unbekannt;;Gewicht fuer Schliessgewicht S1
+1910363708;P1E=EU Löschvermerk;;Gewicht fuer Schliessgewicht S1
 1910363839;unbekannt;;ZB Seilrolle D800x240 / zxd
-1910363877;unbekannt;;Achse D40x186
-1910363878;unbekannt;;Achse D60/70x220
+1910363877;P1E=EU Löschvermerk;;Achse D40x186
+1910363878;P1E=EU Löschvermerk;;Achse D60/70x220
 1910363888;unbekannt;;Seilrolle D400x80 4x10
-1910364019;unbekannt;;ZB Rollenplatte schnell S12 TB900
+1910364019;P1E=EU Löschvermerk;;ZB Rollenplatte schnell S12 TB900
 1910364072;unbekannt;;ZB Fuehrung fuer Tuerblatt
 1910364126;unbekannt;;Zugfeder 680
-1910364133;unbekannt;;ZB Zubehoer S8 M8x20 und Scheibe
-1910364230;unbekannt;;ZB Beschriftungselement 5C
+1910364133;P1E=EU Löschvermerk;;ZB Zubehoer S8 M8x20 und Scheibe
+1910364230;P1E=EU Löschvermerk;;ZB Beschriftungselement 5C
 1910364354;unbekannt;;ZB Abstreifer für Türblattaufhängung
 1910364387;unbekannt;;ZB Seilrolle HL D700 DAB530
-1910364415;unbekannt;;Fuehrungsleiste fuer Rollen SB150
+1910364415;P1E=EU Löschvermerk;;Fuehrungsleiste fuer Rollen SB150
 1910364424;unbekannt;;Laufrolle ohne Seilrille D50
 1910364441;unbekannt;;Achse D80x252
 1910364445;unbekannt;;Schutzgitter SC400
-1910364447;unbekannt;;Frequenzumrichter CPI 09 V3
+1910364447;P1E=EU Löschvermerk;;Frequenzumrichter CPI 09 V3
 1910364456;unbekannt;;ZB Seilrolle D540 ZxD DAF380
 1910364465;unbekannt;;Achse D80x322
 1910364466;unbekannt;;ZB Transportkit Maschine SC400
 1910364467;unbekannt;;ZB Seilrolle D600 DAB450
-1910364469;unbekannt;;ZB Stator SC400M008 SD
+1910364469;P1E=EU Löschvermerk;;ZB Stator SC400M008 SD
 1910364474;unbekannt;;Fettzufuhrrohr SC400B AS
 1910364475;unbekannt;;Fettauffang SC400B
 1910364477;unbekannt;;Rohr Fettzufuhr SW-H 2 SC400B
 1910364498;unbekannt;;Bremsabdeckung PMB285 L001-002
 1910364578;unbekannt;;ZB Schachtfahne Geschw.kontr. v<=6m/s
 1910364615;unbekannt;;ZB Bremsbacke TW63B
-1910364628;unbekannt;;Abdeckung F9 Tuerantrieb
+1910364628;P1E=EU Löschvermerk;;Abdeckung F9 Tuerantrieb
 1910364629;unbekannt;;ZB Bremsbacke TW130 2x200Nm
 1910364638;unbekannt;;ZB Bremsbacke TW130 2x125 Nm
 1910364648;unbekannt;;ZB Bremsbacke TW160
-1910364680;unbekannt;;Aufnahmeleiste Rollenfuehrung SB150
+1910364680;P1E=EU Löschvermerk;;Aufnahmeleiste Rollenfuehrung SB150
 1910364703;unbekannt;;Schwellenprofil Alu zwischen Zargen S12
 1910364738;unbekannt;;ZB Druckstueck Aushebung SC400
-1910364739;unbekannt;;ZB Zentralseil Türbreite 900mm
-1910364765;unbekannt;;Edelstahlprofil Schwelle M2T/M4TZ S8
+1910364739;P1E=EU Löschvermerk;;ZB Zentralseil Türbreite 900mm
+1910364765;P1E=EU Löschvermerk;;Edelstahlprofil Schwelle M2T/M4TZ S8
 1910364766;unbekannt;;ZB Seilrolle DW D1100 zxd
-1910364770;unbekannt;;Leitung mit Steckverbinder M12 SF1000
-1910364775;unbekannt;;Lochblech fuer Zugfeder M2T S12
+1910364770;P1E=EU Löschvermerk;;Leitung mit Steckverbinder M12 SF1000
+1910364775;P1E=EU Löschvermerk;;Lochblech fuer Zugfeder M2T S12
 1910364818;unbekannt;;ZB Seilklemme DW 14x13 DAF380M1xx SC400
 1910364819;unbekannt;;ZB Seilklemme DW 14x12 DAF380M1xx
 1910364820;unbekannt;;ZB Seilklemme DW 14x10 DAF380M1xx
-1910364826;unbekannt;;ZB Bremsbacke DAB530
+1910364826;P1E=EU Löschvermerk;;ZB Bremsbacke DAB530
 1910364846;65680009227;;Rahmen 3C flach
 1910364941;unbekannt;;Flachdichtung SC400B Lagerdeckel
-1910365041;unbekannt;;Schwellenprofil TB900 S11
+1910365041;P1E=EU Löschvermerk;;Schwellenprofil TB900 S11
 1910365118;unbekannt;;ZB Taster RT42 Sammelbestell. Graviert
 1910365185;unbekannt;;Aufsetzpuffer T4 165 X 80 mm
-1910365315;unbekannt;;Einlegeschild 12
-1910365436;unbekannt;;"ZB Taster STEP C flach blau ""P"""
+1910365315;P1E=EU Löschvermerk;;Einlegeschild 12
+1910365436;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""P"""
 1910365682;unbekannt;;Modem analog steckbar mit Voice-Funktion
-1910365770;unbekannt;;ZB Leiterplatte MPSP Portmodul
+1910365770;P1E=EU Löschvermerk;;ZB Leiterplatte MPSP Portmodul
 1910365800;unbekannt;;ZB Trennschaltverstaerker KFD2-SR-Ex2
 1910365802;unbekannt;;ZB Leiterplatte MP Portmodul
 1910365833;unbekannt;;Stift 0,5-2
@@ -9694,14 +9694,14 @@ Vulkol."""
 1910366471;2200980;;Kabelkanal BA6 80040x2000
 1910366472;2200940;;Kabelkanal BA6 80025x2000
 1910366516;0099339660;;FI Schutzschalter 25A 30mA 2pol.230VAC
-1910366556;unbekannt;;"ZB Taster STEP C flach blau ""O"""
+1910366556;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""O"""
 1910366580;unbekannt;;"ZB Taster STEP C fla. Brail/Tak blau""-1"""
 1910366656;unbekannt;;BA Antrieb TW45C fr
-1910366678;unbekannt;;Pendelrollenlager BS2 2214 2CSW/GEN4
-1910366682;unbekannt;;Makrolon opal 1050x860x3
+1910366678;P1E=EU Löschvermerk;;Pendelrollenlager BS2 2214 2CSW/GEN4
+1910366682;P1E=EU Löschvermerk;;Makrolon opal 1050x860x3
 1910366693;unbekannt;;Schraubendreher Gr.6 nach DIN 911
 1910366721;unbekannt;;ZB Taster neutral S
-1910366736;unbekannt;;Abdeckrahmen Bedienkasten DZS lang
+1910366736;P1E=EU Löschvermerk;;Abdeckrahmen Bedienkasten DZS lang
 1910366738;unbekannt;;Pendelrollenlager 23134
 1910366742;unbekannt;;Tastplatte C vergoldet neutral
 1910366796;unbekannt;;ZB CPI100R Ersatzgerät
@@ -9710,14 +9710,14 @@ Vulkol."""
 1910366810;unbekannt;;Scheibenbremse RSQ800 2x550Nm
 1910366811;unbekannt;;Frequenzumrichter CPI/MFC32 Grundgeraet
 1910366824;unbekannt;;Rohrverschraubung Winkel 90 NW08 D10
-1910366825;unbekannt;;Bodenbelag Concrete Dark Grey
+1910366825;P1E=EU Löschvermerk;;Bodenbelag Concrete Dark Grey
 1910367014;unbekannt;;ZB Leitung Schachtlicht 10m
 1910367162;unbekannt;;Geblaese Radial SC400 CSA
 1910367240;unbekannt;;Netzfilter 180A, 3x480V CPI310R
 1910367243;unbekannt;;Netzfilter 3x36A 480VAC
-1910367286;unbekannt;;Stahlseil 30m
-1910367288;unbekannt;;Stahlseil 60m
-1910367290;unbekannt;;Stahlseil 100m
+1910367286;P1E=EU Löschvermerk;;Stahlseil 30m
+1910367288;P1E=EU Löschvermerk;;Stahlseil 60m
+1910367290;P1E=EU Löschvermerk;;Stahlseil 100m
 1910367410;unbekannt;;Naeherungsschalter NJ8-18GM50-E2
 1910367414;unbekannt;;Wellendichtring CR 130x170x12 CRW1 R
 1910367426;unbekannt;;LS-3 Hauptbaugruppe 48V
@@ -9725,22 +9725,22 @@ Vulkol."""
 1910367439;unbekannt;;Drehgeber2048 BISSC Baumer Konus 3m 2rs
 1910367627;unbekannt;;Passscheibe DIN 988 28x40x0,1
 1910367678;unbekannt;;ZB Taster neutral
-1910367726;unbekannt;;Umrichter MFC 31-26 SM V3
-1910367727;unbekannt;;Umrichter MFC 21-48 SM V1
-1910367728;unbekannt;;Umrichter MFC 31-60 SM V3
-1910367736;unbekannt;;Umrichter MFC 31-40 SM V3
-1910367819;unbekannt;;Seil für Personenwinde auf Trommel 150m
-1910367841;unbekannt;;ZB Fanglöseseil
+1910367726;P1E=EU Löschvermerk;;Umrichter MFC 31-26 SM V3
+1910367727;P1E=EU Löschvermerk;;Umrichter MFC 21-48 SM V1
+1910367728;P1E=EU Löschvermerk;;Umrichter MFC 31-60 SM V3
+1910367736;P1E=EU Löschvermerk;;Umrichter MFC 31-40 SM V3
+1910367819;P1E=EU Löschvermerk;;Seil für Personenwinde auf Trommel 150m
+1910367841;P1E=EU Löschvermerk;;ZB Fanglöseseil
 1910367893;unbekannt;;V Ring V 130A
-1910367921;unbekannt;;Arretierbolzen M10x1
+1910367921;P1E=EU Löschvermerk;;Arretierbolzen M10x1
 1910367950;unbekannt;;Taster Bremskontrolle 24VDC 200mA IP65
 1910367979;unbekannt;;Zylinderschraube M10x110-8.8-A2F
-1910368028;unbekannt;;Rillenkugellager 6315-2RS-C3
+1910368028;P1E=EU Löschvermerk;;Rillenkugellager 6315-2RS-C3
 1910368092;unbekannt;;SKT Schraube M10x120 10.9 vz
-1910368107;unbekannt;;ZB Schwellenheizung S8 Nachlieferung
-1910368235;unbekannt;;Diode 1N4148 100V 200mA
+1910368107;P1E=EU Löschvermerk;;ZB Schwellenheizung S8 Nachlieferung
+1910368235;P1E=EU Löschvermerk;;Diode 1N4148 100V 200mA
 1910368269;unbekannt;;V Ring V 180A NBR
-1910368326;unbekannt;;Kombischraube M6x20 Z4-1 8.8 vz
+1910368326;P1E=EU Löschvermerk;;Kombischraube M6x20 Z4-1 8.8 vz
 1910368393;unbekannt;;Zylinderschraube M8x30 8.8 verzinkt
 1910368403;unbekannt;;Scheibe 46/70x1 St1203
 1910368406;unbekannt;;Zylinderrollenlager NJ2324 E C3
@@ -9774,25 +9774,25 @@ Vulkol."""
 1910368801;unbekannt;;Treibscheibe SC400 D560 z x d
 1910368803;unbekannt;;ZB Blockierungsklemme SC400
 1910368805;unbekannt;;ZB Seilrolle SC400 D540
-1910368901;unbekannt;;Flanschplatte Bremse SC400 Guss
-1910369030;unbekannt;;ZB Treibscheibe K1 D240 L mit FS mit US
+1910368901;P1E=EU Löschvermerk;;Flanschplatte Bremse SC400 Guss
+1910369030;P1E=EU Löschvermerk;;ZB Treibscheibe K1 D240 L mit FS mit US
 1910369043;unbekannt;;Conduithalteblech PMB285 L002
-1910369080;unbekannt;;Laufrolle II50/150I50/1
-1910369185;unbekannt;;Begrenzer-Sp.Ø200 494N T90 Linksseitig
+1910369080;P1E=EU Löschvermerk;;Laufrolle II50/150I50/1
+1910369185;P1E=EU Löschvermerk;;Begrenzer-Sp.Ø200 494N T90 Linksseitig
 1910369276;unbekannt;;ZB Leitung AWG26 4pol var. FBL stecker e
-1910369339;unbekannt;;ZB Leiterplatte FRP Feldregler
-1910369340;unbekannt;;ZB Leiterplatte FSK Snubber API26
-1910369341;unbekannt;;ZB Leiterplatte Impulsgenerator 50Hz
-1910369342;unbekannt;;ZB Leiterplatte Netzteil GPI
-1910369343;unbekannt;;ZB Leiterplatte Ueberwachung I
-1910369346;unbekannt;;ZB Rollenfuehrung RTK300
-1910369347;unbekannt;;ZB Rollenfuehrung Unterkette
-1910369376;unbekannt;;Treibscheibe W149B
-1910369410;unbekannt;;Treibscheibe TW130 D900 6x11 S100
+1910369339;P1E=EU Löschvermerk;;ZB Leiterplatte FRP Feldregler
+1910369340;P1E=EU Löschvermerk;;ZB Leiterplatte FSK Snubber API26
+1910369341;P1E=EU Löschvermerk;;ZB Leiterplatte Impulsgenerator 50Hz
+1910369342;P1E=EU Löschvermerk;;ZB Leiterplatte Netzteil GPI
+1910369343;P1E=EU Löschvermerk;;ZB Leiterplatte Ueberwachung I
+1910369346;P1E=EU Löschvermerk;;ZB Rollenfuehrung RTK300
+1910369347;P1E=EU Löschvermerk;;ZB Rollenfuehrung Unterkette
+1910369376;P1E=EU Löschvermerk;;Treibscheibe W149B
+1910369410;P1E=EU Löschvermerk;;Treibscheibe TW130 D900 6x11 S100
 1910369418;unbekannt;;ZB Treibscheibe mit Bremsscheibe SC400
-1910369446;unbekannt;;Umrichter MFC 21-32 SM V1
+1910369446;P1E=EU Löschvermerk;;Umrichter MFC 21-32 SM V1
 1910369451;unbekannt;;ZB Leiterplatte MC3 Microcomputer TCM
-1910369498;unbekannt;;ZB Leitung Spannungsversorgung ADAP
+1910369498;P1E=EU Löschvermerk;;ZB Leitung Spannungsversorgung ADAP
 1910369533;unbekannt;;ZB Seilrolle D740x228 zxd
 8001409494;99000011923;;Set Scheibenbremse SC500L
 1910369546;unbekannt;;Scheibenbremse SC400 3200Nm RSD9 DA
@@ -9839,7 +9839,7 @@ Vulkol."""
 1910499069;unbekannt;;Magnethalter-Baugruppe CMC-4
 1910499202;unbekannt;;Lichtgehäuse CMC4+ 20.50
 1910499209;unbekannt;;Lichtanzeige 600X600 niedriges Profil
-1910499258;unbekannt;;LED-Beleuchtungsanzeige 300X300
+1910499258;P1E=EU Löschvermerk;;LED-Beleuchtungsanzeige 300X300
 1910499268;unbekannt;;LED-Beleuchtungsanzeige 600x600 NEU
 1910499275;unbekannt;;Auto-LED-Streifen 24V 250MM
 1910499276;unbekannt;;LED-Streifen Auto 24V 500MM
@@ -9915,7 +9915,7 @@ Vulkol."""
 1910512164;unbekannt;;Scheibe 52/68x4 PVC
 1910512165;unbekannt;;Scheibe 62/80x4 PVC
 1910512166;unbekannt;;Scheibe 82/100x4 PVC
-1910512170;unbekannt;;Pendelrollenlager 23220-2CS
+1910512170;P1E=EU Löschvermerk;;Pendelrollenlager 23220-2CS
 1910561510;unbekannt;;EasyGate LTE IP-Gateway ohne Modem
 1910561995;unbekannt;;Fangzange
 1910563947;unbekannt;;Achse D50x190
@@ -10450,3 +10450,4 @@ Vulkol."""
 8001414701;5601390;;Zylinderrollenlager NJ310E
 8001253856;unbekannt;;Set Bremsenleitung PMB300M/XM A17
 1910163399;unbekannt;;Fenac-Ersatzteilkit FNC 58SC
+1000260871;4002586;;Fuehrungsschuh GG25
