@@ -729,7 +729,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910561397;unbekannt;batch4;HSM Führungsschuh METAL 2xM6
 1910561398;unbekannt;batch4;Einlage FSFG-16 ACLASYN MWG 10 schw.
 1910561399;unbekannt;batch4;FSF-14 P-Einlage ACLAMID
-1910561250;unbekannt;batch4;NRT2NX M. BATTERIE
+1910561250;unbekannt;batch4;NRT 1 XT – Notrufgerät für Aufzüge
 1910561400;unbekannt;batch4;FSF-14-Einlage ACLATHAN-KH 96A rot
 1910561401;unbekannt;batch4;FSF-16 P-Einlage ACLASYN grau
 1910561402;unbekannt;batch4;FSF-16-B-Einlage ACLATHAN-KH 96A rot
@@ -2020,7 +2020,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910362730;5992300;;Eprom Box 98x60x14
 1910207094;5992520;;Tasche fuer Diagnosegeraet 1
 1910362731;5992600;;Tasche fuer TCI/TCM Tester
-1910561239;unbekannt;batch4;GSM100XT/SIM
+1910561239;unbekannt;batch4;Gateway for lift emergency call IPG141-4G
 1910561293;unbekannt;batch4;Lichtgitter Set Panachrome+,10mm,3D
 1910363337;60000007875;;Seil DRAKO 250T bk D6,5
 1910364537;60000009203;;Seil PAWO F3 bk D8
@@ -9375,7 +9375,7 @@ Vulkol."""
 8001346052;6234002430;;ZB Schneckenrad TW160 50:1
 8001360408;6581015011;;Haftmagnet D180 100/50VDC Mayr
 8001346086;6581014011;-;Haftmagnet D160 100/50VDC Mayr
-1000218090;unbekannt;batch4;B68-X346 EWD-H-DSV10 loadweight L=5'5m
+1000218090;unbekannt;batch4;Sensor-Gegengewicht EWD-H-DSV10
 1000219396;unbekannt;;AY GOVERNOR GBTK 6024-500S 60240000133
 1000234961;unbekannt;batch4;UCM OVERSPEED FREQUENCYMETER
 1000236487;unbekannt;;2N DB-Antenne  GSM/UMTS
