@@ -6628,7 +6628,7 @@ Vulkol."""
 1910208662;68101704883;;Drehimpulsgeber Hohlwelle Kübler
 1910208663;68102400437;;Magnetschalter M12/50 W & 2 Muttern
 1910208664;68102400551;;Phasenüberwachungsrelais
-1910367430;68102485013;68102485013_L;LS-3 Hauptbaugruppe 230V
+1910367430;68102485013;;LS-3 Hauptbaugruppe 230V ohne Software
 1910367431;68102485047;;Anzeigeplatine Bedienmodul 230V
 1910208665;68102485051;;Klemmenmodul 4 Fahrkorbplatine V2.2
 1910561490;68340000001;batch4;Spezial-Aufzugseil 300T 13,00 IWRC 1570
@@ -10456,3 +10456,4 @@ Vulkol."""
 1000264076;unbekannt;;Papier-Packband Nature 50mmx50m K730
 1000264077;unbekannt;;Paketband tesa Eco Strong braun 50mm 66m
 1000264075;unbekannt;;Stretchfolie 500mm 270m 23µ 20501-1045
+1000264090;68102485013_L;;LS-3 Hauptbaugruppe 230V mit Software
