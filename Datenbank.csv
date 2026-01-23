@@ -4427,7 +4427,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910364970;65100009287;;ZB Leiterplatte A89 Summer EVO-F
 1910364971;65100009288;;ZB Leiterplatte CAN2CAN
 1910364594;65100009293;;Haltewinkel
-1000231596;65100009298;65100009298_L;ZB Leiterplatte MHC2 Grundsoftware
+1000231596;65100009298;;ZB Leiterplatte MHC2 ohne Software
 1910369450;65100009298-01;;ZB Leiterplatte MHC2 Anlagen Spez.
 1000092375;65100009300;;ZB Leiterplatte MPSP Portmodul
 1910364972;65100009302;;ZB Leiterplatte RJA Schacht-Adap. PHOEN
@@ -10457,3 +10457,4 @@ Vulkol."""
 1000264077;unbekannt;;Paketband tesa Eco Strong braun 50mm 66m
 1000264075;unbekannt;;Stretchfolie 500mm 270m 23µ 20501-1045
 1000264090;68102485013_L;;LS-3 Hauptbaugruppe 230V mit Software
+1000264130;65100009298_L;;ZB Leiterplatte MHC2 mit Grundsoftware
