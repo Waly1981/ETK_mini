@@ -340,7 +340,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext
 1910207237;0099397010;;Glasscheibe fuer Schl. Kasten
 1910368109;0099399010;;Schlüsselkasten
 1910207238;0099501750;;Ventilator Typ1550
-1910363464;0099501800;;Magnet 40V für Fahrkorbtüre
+1910363464;0099501800;;Magnet 40V Vierkant-Hubmagnet
 1910368112;0099502210;;Relais BV2102 rund
 1910207239;0099503820;;Magnetschalter Gmom16-AS
 1910207240;0099504750;;Ventilator KA L160D
@@ -9488,7 +9488,7 @@ Vulkol."""
 1910208181;unbekannt;;ZB Schienenoeler AK5 FK NC91/NC71
 1910208182;unbekannt;;Lagerbolzen
 1910208186;P1E=EU Löschvermerk;;ZB Hakenriegel R S12
-1910208278;unbekannt;;ZB Leiterplatte Bering. Delta Contr. Hyd
+1910208278;65100004578;;ZB Leiterplatte Bering. Delta Contr. Hyd
 1910208308;P1E=EU Löschvermerk;;Zielwahl Elektroniksatz eckig ohne Kabel
 1910208328;unbekannt;;Beschriftungselem. I ThyssenKrupp Basic
 1910208344;unbekannt;;ZB Taster STEP C flach blau 1
@@ -9585,7 +9585,7 @@ Vulkol."""
 1910209212;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 mit Schutzrohr
 1910209226;P1E=EU Löschvermerk;;ZB Begrenzerspannrolle <=2,5m/s d6,5
 1910209251;unbekannt;;ZB Leiterplatte MP Portmodul
-1910209274;P1E=EU Löschvermerk;;Frequenzumrichter CPI10E Grundg V3
+1910209274;66110009219 P1E=EU Löschvermerk;;Frequenzumrichter CPI10E Grundg V3
 1910209276;unbekannt;;Frequenzumrichter CPI09F synchron
 1910210252;6519030660;;ZB Leiterplatte MT Türmodul
 1910210253;unbekannt;;Netzgeraet MN6 24V/4A 90/180V 3,4A
@@ -10460,3 +10460,5 @@ Vulkol."""
 1000264130;65100009298_L;;ZB Leiterplatte MHC2 mit Grundsoftware
 1000264205;0098843400;;Zugfeder 59,4x13,5x1,0
 1000240178;65280009214_L;;AGILE Terminal Ausführung 2
+1000264243;5151060;;O Ring 172x4 72NBR/872
+1910676987;unbekannt;;Steuerkarte Delcon‑2 LRV‑Hydraulikven.
