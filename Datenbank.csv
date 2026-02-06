@@ -9138,7 +9138,7 @@ Vulkol."""
 1910208958;99800000065;;ZB Tasterplatine BMC-3A
 1910208959;99800000066;;ZB Tasterplatine BMC-3
 1910208960;99800000067;;Lichtvorhang 03 . 05 . CL 174
-1910208961;99800000069;;Notstromversorgung 600VA
+1910208961;99800000069;;Notstromversorgung 800VA
 1910367548;99800000071;;Bremswiderstand 63R 1500W
 1910367549;99800000072;;Begrenzer SGN-200 Vn 1m/s
 1910367550;99800000073;;Magnet 40mm
@@ -9431,7 +9431,7 @@ Vulkol."""
 1910165906;unbekannt;batch4;WD320 LOP TASTERKABEL 3M
 1910197772;unbekannt;;DB02 Drucktaster Rauf-Runter Inox
 1910197774;unbekannt;batch4;Gleitschiene IGANPE9IG (safety gear)
-1910197776;unbekannt;batch4;Gleitschiene
+1910197776;unbekannt;batch4;Führungsschuh‑Belag T70 G‑100 9,5 mm
 1910197778;unbekannt;batch4;Gleitschuhhalter für Gegenwicht
 1910197781;unbekannt;batch4;Endschalter XCNR2510P20
 1910206841;unbekannt;;Zylinderschraube M3x12 8.8 vz
@@ -10470,3 +10470,4 @@ Vulkol."""
 8001401822;unbekannt;;Türantriebssteuerung Reparaturzubehör K8
 8000717576;unbekannt;;Türantrieb C/Kabel
 1910207784;6531406430;;Treibscheibe D84x14 2x3,2
+1000264667;99500004165;;Echtzeit RTC-8564JE Bauform VSOJ-20
