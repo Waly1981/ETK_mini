@@ -1,2 +1,4 @@
-neue Version V2.0.0
-
+neue Version V2.1.0
++ Automatisches Datenbank-Update: 1x pro Tag beim ersten Start 
++ Neue Spalte: Material Status GE EU...
++ Neue Spalte: Disponent SP1 SP2....
