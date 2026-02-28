@@ -1062,7 +1062,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910576718;unbekannt;;Zubehör-Set Typ 8 FP komplett;Z0;
 1910576719;unbekannt;;Drücker DR2D 45×45 inkl. Einbau;Z0;
 1910576720;unbekannt;;Seilaufhängungen Gr. 352 8;Z0;
-1910576721;unbekannt;;USV 3000VA/2700W Sentinel SDH 3000-5;Z0;SP1
+1910576721;batch1+2 Tepper + Schweiz batch1;;USV 3000VA/2700W Sentinel SDH 3000-5;Z0;SP1
 1910576722;unbekannt;;Gehäuse ABOX 85 leer grau IP55;Z0;
 1910576723;unbekannt;;Seilaufhängungen vz. Größe 8;Z0;
 1910576724;unbekannt;;Seilaufhängungen vz. Größe 6,5;Z0;
@@ -10529,3 +10529,203 @@ Vulkol.""";GE;SP1
 1910668158;batch5;8850005484;Lichtgitter Panachrome 3D TX + RX 10mm;GE;SP1
 1910668159;batch5;8850005485;Steuergerät Panachrome 2D Memco;GE;SP1
 1910668160;batch5;8850005550;GLASSCHEIBE RWA-BEDIENSTELLE 10ER PACK;GE;SP1
+1910670939;batch1+2 Tepper + Schweiz batch1;;Abzweigdose D4095;Z0;SP1
+1910670940;batch1+2 Tepper + Schweiz batch1;;Relaissockel Finder 24V 48.52.9.024.0050;Z0;SP1
+1910670941;batch1+2 Tepper + Schweiz batch1;;Führung für Kabinentüre TTK5/TTK8/STK6;Z0;SP1
+1910670942;batch1+2 Tepper + Schweiz batch1;;Gleitstück 65mm;Z0;SP1
+1910670943;batch1+2 Tepper + Schweiz batch1;;Gleitstück 45mm;Z0;SP1
+1910670944;batch1+2 Tepper + Schweiz batch1;;Akku 2N 1,2V 2100mAh NiMH;Z0;SP1
+1910670945;batch1+2 Tepper + Schweiz batch1;;Batterie/Akku Typ 512V/7Ah,4,8mm;Z0;SP1
+1910670946;batch1+2 Tepper + Schweiz batch1;;Schließung für Schlüsselbehälter;Z0;SP1
+1910670947;batch1+2 Tepper + Schweiz batch1;;Schlüsselbehälter;Z0;SP1
+1910670948;batch1+2 Tepper + Schweiz batch1;;2N Antenne 10M 9db GSM/UMTS gateway;Z0;SP1
+1910670949;batch1+2 Tepper + Schweiz batch1;;Injektionsmörtel Allrounder WIT-VM 250;Z0;SP1
+1910670950;batch1+2 Tepper + Schweiz batch1;;Gleitstück 77mm;Z0;SP1
+1910670951;batch1+2 Tepper + Schweiz batch1;;Türkontakt brücke PZ 21 (kurz) 21mm;Z0;SP1
+1910670952;batch1+2 Tepper + Schweiz batch1;;Glühlampe 30V/0.04A, Typ BA7;Z0;SP1
+1910670953;batch1+2 Tepper + Schweiz batch1;;Wollfilz 3150GY, grau;Z0;SP1
+1910670954;batch1+2 Tepper + Schweiz batch1;;Dübel-Montagesockel für Kabelbinder;Z0;SP1
+1910670955;batch1+2 Tepper + Schweiz batch1;;Hängekabel Aufhängung rund Typ S-LAR 1;Z0;SP1
+1910670956;batch1+2 Tepper + Schweiz batch1;;Laufrolle 2K, V0 zweirillig max 35kg;Z0;SP1
+1910670957;batch1+2 Tepper + Schweiz batch1;;Laufrolle 2K, V0 1R D65 max 35Kg;Z0;SP1
+1910670958;batch1+2 Tepper + Schweiz batch1;;LED-Leuchtmittel Spot 2700KGU5.3 3,0Watt;Z0;SP1
+1910670959;batch1+2 Tepper + Schweiz batch1;;2N EasyGate LTE/4G IP-Gateway;Z0;SP1
+1910670960;batch1+2 Tepper + Schweiz batch1;;Klebesockel;Z0;SP1
+1910670961;batch1+2 Tepper + Schweiz batch1;;Magnet m. Markierung Typ ZMM 'S' D20mm;Z0;SP1
+1910670962;batch1+2 Tepper + Schweiz batch1;;Leuchtmittel MR16 50mm GU5.3 20W/12V;Z0;SP1
+1910670963;batch1+2 Tepper + Schweiz batch1;;Leuchtstoffröhre 18W 840 weiß;Z0;SP1
+1910670964;batch1+2 Tepper + Schweiz batch1;;LED Röhre 9W=18W 600mm840,4000K T8 G13;Z0;SP1
+1910670965;batch1+2 Tepper + Schweiz batch1;;Türkontakt Z 73-B;Z0;SP1
+1910670966;batch1+2 Tepper + Schweiz batch1;;Federpuffer Typ 11 mit Bund D17 mm;Z0;SP1
+1910670967;batch1+2 Tepper + Schweiz batch1;;Führungsrolle Mit Exzenterbolzen, D42;Z0;SP1
+1910670968;batch1+2 Tepper + Schweiz batch1;;Laufrolle 2K V0 kpl.1R Bolzen verz.;Z0;SP1
+1910670969;batch1+2 Tepper + Schweiz batch1;;Netzteil 24V DC 5A;Z0;SP1
+1910670970;batch1+2 Tepper + Schweiz batch1;;Lichtgitter kpl. Typ SG TRC 210-032;Z0;SP1
+1910670971;batch1+2 Tepper + Schweiz batch1;;Universalklemme Typ UK5N;Z0;SP1
+1910670972;batch1+2 Tepper + Schweiz batch1;;Ölbindemittel Sack 10 KG;Z0;SP1
+1910670973;batch1+2 Tepper + Schweiz batch1;;USV 800VA/450W;Z0;SP1
+1910670974;batch1+2 Tepper + Schweiz batch1;;Leuchtstoffstarter4-65WST111;Z0;SP1
+1910670975;batch1+2 Tepper + Schweiz batch1;;Steckdose Aufputz;Z0;SP1
+1910670976;batch1+2 Tepper + Schweiz batch1;;Führungsschuheinlage Typ FS 9 P;Z0;SP1
+1910670977;batch1+2 Tepper + Schweiz batch1;;Schlüssel StandardTyp XN 47069;Z0;SP1
+1910670978;batch1+2 Tepper + Schweiz batch1;;Türkontakt AZ 07 K 08106;Z0;SP1
+1910670979;batch1+2 Tepper + Schweiz batch1;;LampeSlimLicht  T5 Röhre 24W 6400K;Z0;SP1
+1910670980;batch1+2 Tepper + Schweiz batch1;;Distanzblech 1.0 x 50 x 160;Z0;SP1
+1910670981;batch1+2 Tepper + Schweiz batch1;;Schlüssel f Schließung Schlüsselbehälter;Z0;SP1
+1910670982;batch1+2 Tepper + Schweiz batch1;;Batterie/Akku Typ 16V/3,3Ah;Z0;SP1
+1910670983;batch1+2 Tepper + Schweiz batch1;;Magnetschalter BN 325-r -1279 -5 m;Z0;SP1
+1910670984;batch1+2 Tepper + Schweiz batch1;;Aderendhülse mit Kunststoffhülse;Z0;SP1
+1910670985;batch1+2 Tepper + Schweiz batch1;;Türkontakt brücke PZ 18 (kurz) 18 mm;Z0;SP1
+1910670986;batch1+2 Tepper + Schweiz batch1;;Notlichtgerät KNSG 300 V002 230VAC;Z0;SP1
+1910670987;batch1+2 Tepper + Schweiz batch1;;OBERE LAUFROLLE FÜR LAUFWAGEN D.50MM;Z0;SP1
+1910670988;batch1+2 Tepper + Schweiz batch1;;Aufsetzpuffer Acla D100x85mm;Z0;SP1
+1910670989;batch1+2 Tepper + Schweiz batch1;;Leuchtstoff Starter 4-22 WST151;Z0;SP1
+1910670990;batch1+2 Tepper + Schweiz batch1;;Federpuffer Typ 11 und Bund D17 mm;Z0;SP1
+1910670991;batch1+2 Tepper + Schweiz batch1;;Hilfsschütz 230Vac;Z0;SP1
+1910670992;batch1+2 Tepper + Schweiz batch1;;Gegenmutter M50x1,5 Typ 116/M50;Z0;SP1
+1910670993;batch1+2 Tepper + Schweiz batch1;;Würgestopfen (Dichtungsnippel) M50;Z0;SP1
+1910670994;batch1+2 Tepper + Schweiz batch1;;Führungsschuheinlage Typ FS 16 LP;Z0;SP1
+1910670995;batch1+2 Tepper + Schweiz batch1;;Halogenlampe 42W 2700K;Z0;SP1
+1910670996;batch1+2 Tepper + Schweiz batch1;;Federpuffer Typ 8 mit Bund D13 mm;Z0;SP1
+1910671267;batch1+2 Tepper + Schweiz batch1;;Gummipuffer 39007084;Z0;SP1
+1000253566;batch1+2 Tepper + Schweiz batch1;;HLB Liftbox;Z0;SP1
+1910049221;batch1+2 Tepper + Schweiz batch1;;Kettenöl C1-150 (5 Liter);Z0;SP1
+1910060462;batch1+2 Tepper + Schweiz batch1;;Türkontaktbrücke zu TK5;Z0;SP1
+1910178737;batch1+2 Tepper + Schweiz batch1;;Hochleistungsnagel X-P 20 B3 MX;Z0;SP1
+1910178748;batch1+2 Tepper + Schweiz batch1;;Hochleistungsnagel X-P 24 B3 MX;Z0;SP1
+1910565183;batch1+2 Tepper + Schweiz batch1;;Teflonstück;Z0;SP1
+1910670997;batch1+2 Tepper + Schweiz batch1;;REG.FREQ.UMR.7,5 KW 400 V;Z0;SP1
+1910670998;batch1+2 Tepper + Schweiz batch1;;HYDRAULIKÖL H2  HYD HLP-D ISO VG 46;Z0;SP1
+1910670999;batch1+2 Tepper + Schweiz batch1;;BEL.FAHRKORB NOTBEL.BOX230VAC/12VDC INKL;Z0;SP1
+1910671000;batch1+2 Tepper + Schweiz batch1;;"TÜRANT.UMBAUSATZ TSG200 ELEKTR; D6C ÖSTE";Z0;SP1
+1910671001;batch1+2 Tepper + Schweiz batch1;;REG.SEILSPANNVORRICHTUNG INKL.POSITIONSS;Z0;SP1
+1910671002;batch1+2 Tepper + Schweiz batch1;;Fehlstromschalter Typ B 40A/0,3A/FU fest;Z0;SP1
+1910671003;batch1+2 Tepper + Schweiz batch1;;SCHLÜSSELBOX AP 150X150MM ZYL.882AME513;Z0;SP1
+1910671004;batch1+2 Tepper + Schweiz batch1;;Türsteuergerät  VF5+ Links  TKAW;Z0;SP1
+1910671005;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter 32A FB-10-D-400-32-B;Z0;SP1
+1910671006;batch1+2 Tepper + Schweiz batch1;;SCHMIERSTOFFSPENDER SL14 125ML SIMALUBE;Z0;SP1
+1910671007;batch1+2 Tepper + Schweiz batch1;;TÜRANT.AT40 400KG LINKS MOT., STEUERGER.;Z0;SP1
+1910671008;batch1+2 Tepper + Schweiz batch1;;LICHTGITTER TELCO IR SENDER+EMPF. 40LS;Z0;SP1
+1910671009;batch1+2 Tepper + Schweiz batch1;;Notrufaufbautableau für 2N 280x120x32;Z0;SP1
+1910671010;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter 52A FB-10-D-400-52-B;Z0;SP1
+1910671011;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter 16A FB-10-D-400-16-B;Z0;SP1
+1910671012;batch1+2 Tepper + Schweiz batch1;;Rollenband komplett;Z0;SP1
+1910671013;batch1+2 Tepper + Schweiz batch1;;PLAT.TSG ELEKTRONISCHE PLATTE;Z0;SP1
+1910671014;batch1+2 Tepper + Schweiz batch1;;FREQ.UMR.MC 50A 400V LS M.VERPACK.,M.NET;Z0;SP1
+1910671015;batch1+2 Tepper + Schweiz batch1;;VSO 180V SCHNELLERREGUNG MIT SCHMITT+SOH;Z0;SP1
+1910671016;batch1+2 Tepper + Schweiz batch1;;Hängekabel für Notruf geschirmt 4x2x0,34;Z0;SP1
+1910671017;batch1+2 Tepper + Schweiz batch1;;REINIGER R3 FETT- ETIKETTENLÖSER;Z0;SP1
+1910671018;batch1+2 Tepper + Schweiz batch1;;GETRIEBEÖL W1 RESA CLP 220;Z0;SP1
+1910671019;batch1+2 Tepper + Schweiz batch1;;BEF.MK7/1X KONSOLE EINFACHHALTERUNG F.MA;Z0;SP1
+1910671020;batch1+2 Tepper + Schweiz batch1;;SCHIENEN-GLEITBAHNÖL RESA CGLP 220;Z0;SP1
+1910671021;batch1+2 Tepper + Schweiz batch1;;BREMSENREINIGER;Z0;SP1
+1910671022;batch1+2 Tepper + Schweiz batch1;;KABEL H05VV-F (YMM) 3G1,5;Z0;SP1
+1910671023;batch1+2 Tepper + Schweiz batch1;;KABEL YSLY-JZ 10G0,5 PVC-STEUERLEITUNG;Z0;SP1
+1910671024;batch1+2 Tepper + Schweiz batch1;;SCHLEPPKABEL 12X1,0MM² MIR GEGR;Z0;SP1
+1910671025;batch1+2 Tepper + Schweiz batch1;;KLEMME # FED.KLEMME 2,5 MM2 WAGO;Z0;SP1
+1910671026;batch1+2 Tepper + Schweiz batch1;;AUFKLEBER EN81 BRANDFALL D=50MM;Z0;SP1
+1910671027;batch1+2 Tepper + Schweiz batch1;;GLÜHLAMPE 60W KLAR# 230 V, E27;Z0;SP1
+1910671028;batch1+2 Tepper + Schweiz batch1;;PVC-STEUERLEITUNG YSLY-OZ-2X1MM²;Z0;SP1
+1910671029;batch1+2 Tepper + Schweiz batch1;;Kabelbinderhalter X-ECT MX;Z0;SP1
+1910671030;batch1+2 Tepper + Schweiz batch1;;Bolzenanker HST3 M12x115 40/20;Z0;SP1
+1910671031;batch1+2 Tepper + Schweiz batch1;;Befestigungsmaterial - Kabelbinderdübel;Z0;SP1
+1910671032;batch1+2 Tepper + Schweiz batch1;;Verbindungsklemme Wago Compact 221-415;Z0;SP1
+1910671033;batch1+2 Tepper + Schweiz batch1;;Bolzenanker HST3 M8x95 -/30;Z0;SP1
+1910671034;batch1+2 Tepper + Schweiz batch1;;Inspektionsschild Haftnotizen 50 Blatt;Z0;SP1
+1910671035;batch1+2 Tepper + Schweiz batch1;;Schlagdübel HPS-1 6/40x65;Z0;SP1
+1910671036;batch1+2 Tepper + Schweiz batch1;;Wago Verbindungsklemme 3 Draht;Z0;SP1
+1910671037;batch1+2 Tepper + Schweiz batch1;;Hochleistungsnagel X-P 17 B3 MX;Z0;SP1
+1910671038;batch1+2 Tepper + Schweiz batch1;;SOCKELTEIL (KABELBINDERHALTER) ABM M-A-C;Z0;SP1
+1910671039;batch1+2 Tepper + Schweiz batch1;;Abzweigverbinder 0,5 - 1,0m;Z0;SP1
+1910671040;batch1+2 Tepper + Schweiz batch1;;KABEL YSLY-OZ 4X1 GRAU# STEUERLEITUNG;Z0;SP1
+1910671041;batch1+2 Tepper + Schweiz batch1;;Verbindungsklemme Wago Compact 221-412;Z0;SP1
+1910671042;batch1+2 Tepper + Schweiz batch1;;WAGO-Durchgangsverbinder;Z0;SP1
+1910671043;batch1+2 Tepper + Schweiz batch1;;PVC-STEUERLEITUNG # LIYY 4X0,22 (0,25);Z0;SP1
+1910671044;batch1+2 Tepper + Schweiz batch1;;DRAHT H05V-K (YSF) 1X1 RT;Z0;SP1
+1910671045;batch1+2 Tepper + Schweiz batch1;;Stahlnagel X-S 14 B3 MX;Z0;SP1
+1910671046;batch1+2 Tepper + Schweiz batch1;;H05V-K (YSF) 1X0,5 PVC-ADERLEITUNG;Z0;SP1
+1910671047;batch1+2 Tepper + Schweiz batch1;;DRAHT H07V-K (YSF) 1X1,5 SW;Z0;SP1
+1910671048;batch1+2 Tepper + Schweiz batch1;;DRAHT H05V-K (YSF) 1X1 BL;Z0;SP1
+1910671049;batch1+2 Tepper + Schweiz batch1;;PVC-Aderleitung H05V-K 0,5mm² (YSf) GN;Z0;SP1
+1910671050;batch1+2 Tepper + Schweiz batch1;;H05V-K(YSF) 1X0,5 PVC-ADERLEITUNG;Z0;SP1
+1910671051;batch1+2 Tepper + Schweiz batch1;;PVC-Aderleitung H05V-K 0,5mm² (YSf) RT;Z0;SP1
+1910671052;batch1+2 Tepper + Schweiz batch1;;PVC-Aderleitung H05V-K 0,5mm² (YSf) SW;Z0;SP1
+1910671053;batch1+2 Tepper + Schweiz batch1;;PVC-Aderleitung H05V-K 0,5mm² (YSf) BL;Z0;SP1
+1910671054;batch1+2 Tepper + Schweiz batch1;;KABELBAND-DÜBEL DM 8MM;Z0;SP1
+1910671055;batch1+2 Tepper + Schweiz batch1;;tke Aufzüge set Lift8 4G;Z0;SP1
+1910671056;batch1+2 Tepper + Schweiz batch1;;Schlagdübel HPS-1 C 6/5SPBX30;Z0;SP1
+1910671057;batch1+2 Tepper + Schweiz batch1;;PETROLEUM GERUCHSNEUTRAL IM KARTON À 4X;Z0;SP1
+1910671058;batch1+2 Tepper + Schweiz batch1;;4G LTE ROUTER SERV24 4G LTE ROUTER;Z0;SP1
+1910671059;batch1+2 Tepper + Schweiz batch1;;4G NANO NACHRÜSTPLATINE LEITRONIC 4G VOL;Z0;SP1
+1910671060;batch1+2 Tepper + Schweiz batch1;;READY KONTAKT - USB RELAIS;Z0;SP1
+1910671062;batch1+2 Tepper + Schweiz batch1;;Lichtgitte cegard/Miini MOD SY-2000-24;Z0;SP1
+1910671063;batch1+2 Tepper + Schweiz batch1;;ROLLE D=47MM/ID=6MM UMLENKROLLE SYNCHRO.;Z0;SP1
+1910671064;batch1+2 Tepper + Schweiz batch1;;Hydrauliköl HVLP Z ISO 46 50kg Tonnelet;Z0;SP1
+1910671065;batch1+2 Tepper + Schweiz batch1;;Lift 1 Nachrüstsett I 4G;Z0;SP1
+1910671066;batch1+2 Tepper + Schweiz batch1;;REG.FREQ.UMR.MCOMFORT MC 25A/400V/LS OHN;Z0;SP1
+1910671067;batch1+2 Tepper + Schweiz batch1;;Tragseil DP9 13mm Kreuzschlag rechts;Z0;SP1
+1910671068;batch1+2 Tepper + Schweiz batch1;;PROFILSCHIENE DIN HUTSCHIENE 14 CM H. 7.;Z0;SP1
+1910671069;batch1+2 Tepper + Schweiz batch1;;Pufferkonsole Grundausf. H=180;Z0;SP1
+1910671070;batch1+2 Tepper + Schweiz batch1;;SCHLÜSSELSCHALTER SCHALTER 90° SYN.SMP;Z0;SP1
+1910671071;batch1+2 Tepper + Schweiz batch1;;Regelung RST ARC-2 65A Motor ca. 29kW;Z0;SP1
+1910671072;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter FB-10-D-400-32 o.Bw;Z0;SP1
+1910671073;batch1+2 Tepper + Schweiz batch1;;TD-Verlängerung 3 m;Z0;SP1
+1910671074;batch1+2 Tepper + Schweiz batch1;;Schaltzyl.ZI;Z0;SP1
+1910671075;batch1+2 Tepper + Schweiz batch1;;SCHL.ROHR D 48MM/ EINB.TIEFE 110MM KOMPL;Z0;SP1
+1910671076;batch1+2 Tepper + Schweiz batch1;;Lift 1 Nachrüstsett II 4G;Z0;SP1
+1910671077;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter FB-10-D-400-52 o.Bw;Z0;SP1
+1910671078;batch1+2 Tepper + Schweiz batch1;;EASY ALARM EA8 DPX LMC70C TASTATUR SCHW.;Z0;SP1
+1910671079;batch1+2 Tepper + Schweiz batch1;;FLUKE 177 Multimeter CAT III;Z0;SP1
+1910671080;batch1+2 Tepper + Schweiz batch1;;HLB Liftbox;Z0;SP1
+1910671081;batch1+2 Tepper + Schweiz batch1;;Tragseil HRS 10mm 1570 N/mm2;Z0;SP1
+1910671082;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter FB-10-D-400-82 o.Bw;Z0;SP1
+1910671083;batch1+2 Tepper + Schweiz batch1;;Easy Alarm 8-DPX ohne Sprechstelle;Z0;SP1
+1910671084;batch1+2 Tepper + Schweiz batch1;;MOD KIT Türantrieb für Meiller rechts;Z0;SP1
+1910671085;batch1+2 Tepper + Schweiz batch1;;Magnetband 35M für AWG;Z0;SP1
+1910671086;batch1+2 Tepper + Schweiz batch1;;Befestigungsdübel CH - 5  PA schwarz;Z0;SP1
+1910671087;batch1+2 Tepper + Schweiz batch1;;Befestigungssockel TM-3-S10C 9mm für KBi;Z0;SP1
+1910671088;batch1+2 Tepper + Schweiz batch1;;Schlagdübel HPS-1 5/5X25;Z0;SP1
+1910671090;batch1+2 Tepper + Schweiz batch1;;Reglerseil 6x19 Seale;Z0;SP1
+1910671091;batch1+2 Tepper + Schweiz batch1;;Tragseil DP9 8mm Kreuzschlag rechts;Z0;SP1
+1910671092;batch1+2 Tepper + Schweiz batch1;;Reglerseil 6,5x19 Seale;Z0;SP1
+1910671093;batch1+2 Tepper + Schweiz batch1;;Tragseil DP9 9mm Kreuzschlag rechts;Z0;SP1
+1910671095;batch1+2 Tepper + Schweiz batch1;;Tragseil HRS 8 mm;Z0;SP1
+1910671096;batch1+2 Tepper + Schweiz batch1;;Installationskabel G51 4x1mm2 flexibel;Z0;SP1
+1910671098;batch1+2 Tepper + Schweiz batch1;;Universalnagel X-P 24 B3 MX;Z0;SP1
+1910671099;batch1+2 Tepper + Schweiz batch1;;Tragseil DP9 11mm Kreuzschlag rechts;Z0;SP1
+1910671100;batch1+2 Tepper + Schweiz batch1;;Tragseil HRS 11mm;Z0;SP1
+1910671101;batch1+2 Tepper + Schweiz batch1;;DRUCKVERSCH.BTL 300X400 PE NEUTRAL 50 MY;Z0;SP1
+1910671102;batch1+2 Tepper + Schweiz batch1;;Schraube und Rondelle Beton 100mm;Z0;SP1
+1910671103;batch1+2 Tepper + Schweiz batch1;;Schienenöl ISO 220;Z0;SP1
+1910671104;batch1+2 Tepper + Schweiz batch1;;Hydrauliköl HLP Z ISO 68 Tonnelet 50kg;Z0;SP1
+1910671105;batch1+2 Tepper + Schweiz batch1;;Reglerseil 8 MM 8x19 Trommeln à 300m;Z0;SP1
+1910671106;batch1+2 Tepper + Schweiz batch1;;DRUCKVERSCH.BTL TRANSPARENT 75MY OHNE BE;Z0;SP1
+1910671107;batch1+2 Tepper + Schweiz batch1;;Industriegetriebeöl SYNTHGEAR460 180kg;Z0;SP1
+1910671108;batch1+2 Tepper + Schweiz batch1;;Unterlegscheibe 90x70x1,0mm Zinkorblech;Z0;SP1
+1910671109;batch1+2 Tepper + Schweiz batch1;;Unterlegscheibe 90 x 70 x 1,5mm;Z0;SP1
+1910671110;batch1+2 Tepper + Schweiz batch1;;KLEMME LOGILINK MP0049;Z0;SP1
+1910671111;batch1+2 Tepper + Schweiz batch1;;Siebhülse HIT-SC 16x85;Z0;SP1
+1910671113;batch1+2 Tepper + Schweiz batch1;;KETTENÖL SYNTLUB 2031;Z0;SP1
+1910671115;batch1+2 Tepper + Schweiz batch1;;Industriegetreibeöl IG CLP ISO 220 180kg;Z0;SP1
+1910671116;batch1+2 Tepper + Schweiz batch1;;Glühlampe BA9 60V 20mA;Z0;SP1
+1910671117;batch1+2 Tepper + Schweiz batch1;;"AUFKL.BRANDFALL LOGO: ""AUFZUG IM BRANDFA";Z0;SP1
+1910671118;batch1+2 Tepper + Schweiz batch1;;Dämpfungspuffer 8mm für Antriebsrad;Z0;SP1
+1910671120;batch1+2 Tepper + Schweiz batch1;;Erste Hilfe-Tafel EHT 210x432x1mm deutsc;Z0;SP1
+1910671121;batch1+2 Tepper + Schweiz batch1;;"Abzweigdose ""ENSTO"" KS grau Deckel Schna";Z0;SP1
+1910671122;batch1+2 Tepper + Schweiz batch1;;Industriegetriebeöl Vulcogear 460 60L;Z0;SP1
+1910671123;batch1+2 Tepper + Schweiz batch1;;Unterlegscheibe A 17/40mm verz.;Z0;SP1
+1910671124;batch1+2 Tepper + Schweiz batch1;;Hydrauliköl HVLP UNI 46;Z0;SP1
+1910671125;batch1+2 Tepper + Schweiz batch1;;Alarmtaster Zuleitung 5m 1S 1Ö W-63121;Z0;SP1
+1910671126;batch1+2 Tepper + Schweiz batch1;;BAT.LITHIUM KN.ZELLE CR2032 3V;Z0;SP1
+1910671128;batch1+2 Tepper + Schweiz batch1;;ANKERSTANGE HIT-V-5.8 M12X110;Z0;SP1
+1910671129;batch1+2 Tepper + Schweiz batch1;;SYNTHGEAR 220 vollsynthetisch, 4,4l;Z0;SP1
+1910671130;batch1+2 Tepper + Schweiz batch1;;ANKERSTANGE HIT-V-R M10X115MM;Z0;SP1
+1910671131;batch1+2 Tepper + Schweiz batch1;;GEGENDRUCKROLLE MIT EXCENTER D=29MM, AUS;Z0;SP1
+1910671132;batch1+2 Tepper + Schweiz batch1;;Klingelschlauchleitung 3x0,8mm weiss;Z0;SP1
+1910671133;batch1+2 Tepper + Schweiz batch1;;Hydrauliköl HVLP Z ISO 46 180kg/200l;Z0;SP1
+1910671134;batch1+2 Tepper + Schweiz batch1;;Trennscheiben AC-D 125x1mm inox 22mm-B.;Z0;SP1
+1910671135;batch1+2 Tepper + Schweiz batch1;;Schild Auf-Ab im Stirnsockel/Schlüssels.;Z0;SP1
+1910671136;batch1+2 Tepper + Schweiz batch1;;FÜHRUNGSSCHUHEINLAGE 2116 U Schiene 16mm;Z0;SP1
+1910671137;batch1+2 Tepper + Schweiz batch1;;RC-GLIED/CIRCUIT RC LAD4 RCU 110-250 V;Z0;SP1
+1910671268;batch1+2 Tepper + Schweiz batch1;;tke Aufzüge set Lift8 3G;Z0;SP1
+1910671269;batch1+2 Tepper + Schweiz batch1;;Umrichter 9114LB;Z0;SP1
