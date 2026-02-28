@@ -451,7 +451,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910369163;0099858140;0099858140_L;IC DIG Eprom 128Kx8 27C1001/27C010 DIP32;GE;SP2
 1910368246;0099864050;;Leuchtdiode 28V AC/DC grün T10/28 BA9s;GE;SP2
 1910368249;0099875140;;IC DIG 28C64 DIP28 Eprom o.akt.Schreibs;GE;SP1
-1910576777;0099884150;;IC DIG SMD SRAM 1Kx8 DP 25ns;;
+1910576777;0099884150;;IC DIG SMD SRAM 1Kx8 DP 25ns;GE;SP1
 1910368250;0099888150;;IC DIG Eprom 27C1024 <=55NS DIP40;GE;SP2
 1910368251;0099895050;;IC Opto Ana Iso HCPL7800 DIP8;GE;SP1
 1910368252;0220069;;Glashalteleiste 15x18;EU;SP5
@@ -653,7 +653,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561333;unbekannt;batch4;Magnetschalter Halter inkl. Magneten;GE;SP1
 1910165154;1029013801;batch4;COP LAUTSPRECHER KDMG36008-10B;GE;SP1
 1910561325;unbekannt;batch4;Hilfsschütz 230V 2S+2Ö Telemecanique;GE;SP1
-1910561386;unbekannt;batch4;Sprachausgabe LISY-7/8/9 aufsteckbar;;
+1910561386;unbekannt;batch4;Sprachausgabe LISY-7/8/9 aufsteckbar;GE;SP1
 1910561336;unbekannt;batch4;Schutzraumampel Halteblech 24V 5m;GE;SP1
 1910561337;unbekannt;batch4;Einlage EL 16 PE HSML+WSML Schiene 16mm;GE;SP1
 1910561338;unbekannt;batch4;Laufrolle schneller Hänger TTS/TTK45;GE;SP1
@@ -669,7 +669,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561387;unbekannt;batch4;Drücker Tastplatte R50 50mm LED rot;;
 1910561348;unbekannt;batch4;Einlage EEL 28 PE WSMEL Schiene 28,6mm;GE;SP1
 1910561349;unbekannt;batch4;Infofeld 55x150mm Plexi Logo Brandfall;GE;SP1
-1910561388;unbekannt;batch4;Drücker Tastplatte Q32 32x32mm LED rot;;
+1910561388;unbekannt;batch4;Drücker Tastplatte Q32 32x32mm LED rot;GE;SP1
 1910561243;unbekannt;batch4;HILFSSCHALTER 1Ö;;SP1
 1910561389;unbekannt;batch4;Drücker Tastplatte Q50 50x50mm LED rot;;
 1910561352;unbekannt;batch4;Beschriftungsfeld 60x32mm V2A weiß;GE;SP1
@@ -678,16 +678,16 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561355;unbekannt;batch4;Schlüsseltaster QK32 LED rot V2A ST;GE;SP1
 1910561390;unbekannt;batch4;Drücker DR90 Tastplatte 33x33mm LED rot;;
 1910561357;unbekannt;batch4;Schlüsselschalter QK32 LED rot V2A;;SP1
-1910561394;unbekannt;batch4;Etagenplatine LED rot Buselektronik;;
-1910561396;unbekannt;batch4;Etagenplatine LED rot Weiterfahrtanzeige;;
+1910561394;unbekannt;batch4;Etagenplatine LED rot Buselektronik;GE;SP1
+1910561396;unbekannt;batch4;Etagenplatine LED rot Weiterfahrtanzeige;GE;SP1
 1910561360;unbekannt;batch4;Rolle Hakenriegel 8mm Verriegelung TTS5;GE;SP1
 1910561246;unbekannt;batch4;Hängekabel-Halter;GE;SP2
-1910561361;unbekannt;batch4;Flach-Rundkabel 14pol. 5m Zugentlastung;;
-1910561423;unbekannt;batch4;Drücker DR30V Vandalensicher IP54;;
+1910561361;unbekannt;batch4;Flach-Rundkabel 14pol. 5m Zugentlastung;GE;SP1
+1910561423;unbekannt;batch4;Drücker DR30V Vandalensicher IP54;GE;SP1
 1910362840;1320739;;C Profil 20x40x20x5 Al;GE;SP2
 1910362841;1320959;;Profil S4 ALMGSI0 5 F25  29,5 mm;GE;SP2
 1910362842;1320969;;Profil S4 ALMGSI0 5 F25  73 mm;GE;SP2
-1910561363;unbekannt;batch4;TFT-Display 4,3 Zoll 480x272 pixel;;
+1910561363;unbekannt;batch4;TFT-Display 4,3 Zoll 480x272 pixel;GE;SP1
 1910561364;unbekannt;batch4;Rolle VSL ø125/20x30mm Kugellager;;SP1
 1910561365;unbekannt;batch4;Notrufsystem 2N® Lift1 Grundgerät COP;GE;SP1
 1910561366;unbekannt;batch4;Notrufsystem 2N® Lift1 Grundgerät m.Alt.;GE;SP1
@@ -697,7 +697,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561247;unbekannt;batch4;Türführung Selcom;;SP1
 1910561370;unbekannt;batch4;2N® Lift8 RS232 board;GE;SP1
 1910561371;unbekannt;batch4;2N® Lift8 Machine room unit;GE;SP1
-1910561372;unbekannt;batch4;Winkleführungsschuh Licht Metall;;
+1910561372;unbekannt;batch4;Winkleführungsschuh Licht Metall;GE;SP1
 1910561373;unbekannt;batch4;Stoßdämpfer AUTAN HE TYPE A QR D.125;;SP1
 1910561374;unbekannt;batch4;Stoßdämpfer AUTAN HE TYPE A D.165;;SP1
 1910561334;unbekannt;batch4;AKKU 12VOLT SYNERGY S NOTBEFREIUNGSGER.P;GE;SP1
@@ -708,9 +708,9 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561248;unbekannt;batch4;Batterie/Akku Typ4;GE;SP1
 1910561380;unbekannt;batch4;Batterie/Akku Typ3;GE;SP1
 1910561381;unbekannt;batch4;BEL.FAHRKORB NOTBEL.BOX230VAC/12VDC INKL;GE;SP1
-1910561382;unbekannt;batch4;cegard/Lift Tx/Rx-1730-16,;;
-1910561383;unbekannt;batch4;Connection pkg for brake resistor 1.5mm²;;
-1910561384;unbekannt;batch4;Control unit plug-in cegard/Lift LX, LY;;
+1910561382;unbekannt;batch4;cegard/Lift Tx/Rx-1730-16,;GE;SP1
+1910561383;unbekannt;batch4;Connection pkg for brake resistor 1.5mm²;GE;SP1
+1910561384;unbekannt;batch4;Control unit plug-in cegard/Lift LX, LY;GE;SP1
 1910561385;unbekannt;batch4;Sicherheitssystem Lichtschranke;;
 1910561343;unbekannt;batch4;PCB Türsteuerung VF5+ Relay Links;GE;SP1
 1910209132;1560441445;;ZB Parametriertableau;GE;SP4
@@ -720,18 +720,18 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561351;unbekannt;batch4;PCB Türsteuerung VF7+ Relay Rechts;GE;SP1
 1910561249;unbekannt;batch4;Batterie/Akku Typ6;GE;SP1
 1910561356;unbekannt;batch4;PCB Türsteuerung VF7+ Relay Links;GE;SP1
-1910561391;unbekannt;batch4;AB-VORST SITZ/KEGEL;;
+1910561391;unbekannt;batch4;AB-VORST SITZ/KEGEL;GE;SP1
 1910561392;unbekannt;batch4;Notendschalter - Kurve;;
 1910561393;unbekannt;batch4;Notlichtfeld Typ Schäfer LF 99x24mm;GE;SP2
 1910561358;unbekannt;batch4;Bodenplatte LED rot BusLOPM-V8;GE;SP1
-1910561395;unbekannt;batch4;Mountingkit Backsite stainless steel;;
+1910561395;unbekannt;batch4;Mountingkit Backsite stainless steel;GE;SP1
 1910561359;unbekannt;batch4;GSM90XT/SIM;EU;SP5
-1910561397;unbekannt;batch4;HSM Führungsschuh METAL 2xM6;;
-1910561398;unbekannt;batch4;Einlage FSFG-16 ACLASYN MWG 10 schw.;;
-1910561399;unbekannt;batch4;FSF-14 P-Einlage ACLAMID;;
+1910561397;unbekannt;batch4;HSM Führungsschuh METAL 2xM6;GE;SP1
+1910561398;unbekannt;batch4;Einlage FSFG-16 ACLASYN MWG 10 schw.;GE;SP1
+1910561399;unbekannt;batch4;FSF-14 P-Einlage ACLAMID;GE;SP1
 1910561250;unbekannt;batch4;NRT 1 XT – Notrufgerät für Aufzüge;GE;SP1
-1910561400;unbekannt;batch4;FSF-14-Einlage ACLATHAN-KH 96A rot;;
-1910561401;unbekannt;batch4;FSF-16 P-Einlage ACLASYN grau;;
+1910561400;unbekannt;batch4;FSF-14-Einlage ACLATHAN-KH 96A rot;GE;SP1
+1910561401;unbekannt;batch4;FSF-16 P-Einlage ACLASYN grau;GE;SP1
 1910561402;unbekannt;batch4;FSF-16-B-Einlage ACLATHAN-KH 96A rot;;
 1910362732;1721430002;;Bremswiderstand 12R 585W;EU;SP5
 1910368365;1721445001;;Widerstand Draht 100R 10% 40W GS16x63A;AE;SP6
@@ -739,11 +739,11 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362734;1721445014;;Bremswiderstand 3R5 1950W;GE;SP2
 1910362735;1721445022;;Widerstand Draht 1K5 10% 35W Loet;EU;SP5
 1910362736;1721445030;;Ladewiderstand 1,9R 7900W;GE;SP2
-1910561403;unbekannt;batch4;FS-24-L-Einlage schwarz;;
+1910561403;unbekannt;batch4;FS-24-L-Einlage schwarz;GE;SP1
 1910362737;1737445023;;Kuehlkoerper CPI40;EU;SP5
 1910207306;1738425000;;Varistor 460V mit Anschluss;EU;SP5
-1910561404;unbekannt;batch4;Einlage ACLATHAN-N blau;;
-1910561405;unbekannt;batch4;FSF-16 P-Einlage ACLAMID grün;;
+1910561404;unbekannt;batch4;Einlage ACLATHAN-N blau;GE;SP1
+1910561405;unbekannt;batch4;FSF-16 P-Einlage ACLAMID grün;GE;SP1
 1910207307;1750445000;;Trafo 1Ph 230/400V 23V 2,2A 50VA;GE;SP2
 1910207308;1750445001;;Trafo 1Ph 230V/400V 23V 2,8A 66VA;GE;SP2
 1910207309;1753445009;;Drossel Kommutierung 23/37A 3x0,4mH;GE;SP1
@@ -759,10 +759,10 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362742;1753445059;;Drossel Umrichter Ausgang 43A 3x0,15mH;EU;SP5
 1910362743;1753445060;;Drossel Kommutierung 16A 3x1,2mH 3x440V;EU;SP5
 1910368364;1753445061;;Drossel Zwischenkreis CPI60;GE;SP1
-1910561406;unbekannt;;Führungsschuheinlage;;
+1910561406;unbekannt;;Führungsschuheinlage;GE;SP1
 1910362744;1766445361;;Leitung VK1 CPI12-26;GE;SP2
 1910207313;1766445362;;Leitung VK2/3 CPI26C;GE;SP1
-1910561407;unbekannt;batch4;FSF-6K-Einlage ACLATHAN-KH 96A rot;;
+1910561407;unbekannt;batch4;FSF-6K-Einlage ACLATHAN-KH 96A rot;GE;SP1
 1910362746;1779425001;;Geraeteabdeckung I16M;EU;SP5
 1910564076;1779445008;;Luftleitblech API50;AE;SP6
 1910362747;1779445327;;Winkel CPI;EU;SP5
@@ -771,12 +771,12 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207316;1779445344;;Frontplatte 2 CPI40C;GE;SP1
 1910362748;1779445369;;Kondensator Blech 2 CPI60;EU;SP5
 1910207317;1779445375;;Frontplatte 2 CPI60C;GE;SP1
-1910561408;unbekannt;batch4;Panel guide assembly PLUS AGH-38;;
-1910561409;unbekannt;batch4;LAT2 LTE-STABANTENNE M.WINKEL;;
+1910561408;unbekannt;batch4;Panel guide assembly PLUS AGH-38;GE;SP1
+1910561409;unbekannt;batch4;LAT2 LTE-STABANTENNE M.WINKEL;GE;SP1
 1910561251;unbekannt;batch4;NRT1NX M. BATTERIE;GE;SP1
 1910561410;unbekannt;batch4;Lichtgitte cegard/Miini MOD SY-1900 - 36;GE;SP2
 1910362749;1806445000;;Thermoschalter API60;EU;SP5
-1910561411;unbekannt;batch4;Lichtfeld LF30V Vandalens. 33mm LED rot;;
+1910561411;unbekannt;batch4;Lichtfeld LF30V Vandalens. 33mm LED rot;GE;SP1
 1910561412;unbekannt;batch4;LITHIUMBATTERIE NRT1/2/3NT+;EU;SP5
 1910561413;unbekannt;batch4;Magnetschalter;;
 1910362856;1830422270;;ZB Leiterplatte DRG Impulskarte 10 Fach;EU;SP5
@@ -809,8 +809,8 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910209269;1831445037;;ZB Leiterplatte Stromregler SMD FCG2;GE;SP1
 1910207326;1831445038;;ZB Leiterplatte Stromregler FCR2;GE;SP4
 1910561414;unbekannt;batch4;MAGNETSCHALT.LS2 NEU INKL.BEF.MUTTER;;
-1910561415;unbekannt;batch4;MK1 MIKROFON 2.0M;;
-1910561416;unbekannt;batch4;Motor Zubhör VF encoder Async 230V 50Hz;;
+1910561415;unbekannt;batch4;MK1 MIKROFON 2.0M;GE;SP1
+1910561416;unbekannt;batch4;Motor Zubhör VF encoder Async 230V 50Hz;GE;SP1
 1910362880;1860445005;;ZB Leiterplatte Ansteuerung L1,2,3 API;GE;SP2
 1910362882;1860445030;;ZB Leiterplatte Grossleiterpl. FCC 1 R;EU;SP5
 1910362755;1860445040;;ZB Leiterplatte Grossleiterpl. GLP 1 F;GE;SP1
@@ -826,18 +826,18 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561419;unbekannt;batch4;MONTAGEWINKEL FÜR NRT-XT;EU;SP5
 1910561244;unbekannt;batch4;Busmodul LBM9 (Lisa);GE;SP1
 1910561420;unbekannt;batch4;OIL CATCH CONTAINER UNIVERSAL D.150x48mm;Z0;SP1
-1910561421;unbekannt;batch4;OELZUSATZ / LECKOELBEHAELTER;;
+1910561421;unbekannt;batch4;OELZUSATZ / LECKOELBEHAELTER;GE;SP1
 1910564078;1910162979;;Abdeckung Bremse Gummiband D200mm;GE;SP1
 1910564079;1910162995;;Scheibenbremse Alzola FRTH100 2x100Nm;AE;SP6
 1910368384;1910163016;;ZB Kit Riemenniederhalter PMB220M;GE;SP1
-1910368385;1910163081;;Hohner-Ersatzteilkit;GE;SP1
+1910368385;1910163081;;Hohner-Ersatzteilkit;AE;SP6
 1910564080;1910163615;batch4;Öler kompakt AK-40 (AKP.0025 PL);GE;SP1
-1910561422;unbekannt;batch4;Vorsteuerfilter Satz;;
-1910561362;unbekannt;batch4;Schaltnetzteil;;
+1910561422;unbekannt;batch4;Vorsteuerfilter Satz;GE;SP1
+1910561362;unbekannt;batch4;Schaltnetzteil;GE;SP1
 1910561424;unbekannt;batch4;Gewindebolzen M10 x 140 (208);;
 1910561425;unbekannt;batch4;Gewindebolzen M16 x 225 (336);;
-1910561426;unbekannt;batch4;DRUCKSCHALTER MAX DRUCK LRV1;;
-1910561427;unbekannt;batch4;ROLLE ACLATHAN-VU 94A D.125/20x30mm;;
+1910561426;unbekannt;batch4;DRUCKSCHALTER MAX DRUCK LRV1;GE;SP1
+1910561427;unbekannt;batch4;ROLLE ACLATHAN-VU 94A D.125/20x30mm;GE;SP1
 1910561428;unbekannt;batch4;Seilaufhängungen vz. Größe 11 AM;GE;SP1
 1910561429;unbekannt;batch4;Seilaufhängungen vz. Größe 11 FP3;GE;SP1
 1910489989;unbekannt;;Ersatzteile für Aufzüge, SPBE ESS;GE;SP2
@@ -846,21 +846,21 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561430;unbekannt;batch4;Seilaufhängungen vz. Größe 8;GE;SP1
 1910561431;unbekannt;batch4;Seilaufhängungen vz. Größe 8 FP2;GE;SP1
 1910561432;unbekannt;batch4;Selcom;GE;SP1
-1910561433;unbekannt;batch4;Panel guide assembly PLUS AGH-01;;
+1910561433;unbekannt;batch4;Panel guide assembly PLUS AGH-01;GE;SP1
 1910561434;unbekannt;batch4;Tprverriegelung Model 40/10 PM Right;;
-1910561435;unbekannt;batch4;Panel guide assembly BASIC AGH-15;;
-1910561436;unbekannt;batch4;Panel guide assembly BASIC AGH-AP;;
+1910561435;unbekannt;batch4;Panel guide assembly BASIC AGH-15;GE;SP1
+1910561436;unbekannt;batch4;Panel guide assembly BASIC AGH-AP;GE;SP1
 1910561437;unbekannt;batch4;ROLLE ACLATHAN-VU 94A D.60/17x18mm;GE;SP1
-1910561438;unbekannt;batch4;Montagesatz, Oberflächenmontage gelb-sch;;
+1910561438;unbekannt;batch4;Montagesatz, Oberflächenmontage gelb-sch;GE;SP1
 1910561439;unbekannt;batch4;Seilschloss symmetrisch Typ D;;
 1910561254;unbekannt;batch4;SYSTEMKABEL 3.0M BLAU;EU;SP5
-1910561440;unbekannt;batch4;Kippschalter für direkten Tableaueinbau;;
+1910561440;unbekannt;batch4;Kippschalter für direkten Tableaueinbau;GE;SP1
 1910561441;unbekannt;batch4;Offener Gurt HTD 5M 12mm Stahl 5m;;
-1910561442;unbekannt;batch4;Transponder-Karte (Programmier-Karte);;
-1910561443;unbekannt;batch4;Trip counter in control cabinet 7 digits;;
-1910561444;unbekannt;batch4;FÜHRUNGSROLLE ACLATHAN-N 85A;;
+1910561442;unbekannt;batch4;Transponder-Karte (Programmier-Karte);GE;SP1
+1910561443;unbekannt;batch4;Trip counter in control cabinet 7 digits;GE;SP1
+1910561444;unbekannt;batch4;FÜHRUNGSROLLE ACLATHAN-N 85A;GE;SP1
 1910561445;unbekannt;batch4;Wiring kit. From VF4+ to VF5;;
-1910561446;unbekannt;batch4;Verdrahtungsset für A-Aufträge;;
+1910561446;unbekannt;batch4;Verdrahtungsset für A-Aufträge;GE;SP1
 1910362585;2160220;;Schaumstoff 100x60x10;EU;SP5
 1910561255;unbekannt;batch4;Türblattführungsschuh;GE;SP1
 1910365906;2200229;;Profil PVC schwarz;EU;SP5
@@ -900,7 +900,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910209116;2790890;;Klebeband schwarz/gelb 100mm;AE;SP6
 1910206853;2791139;;Klebeband Dual Lock;AE;SP6
 1910561245;unbekannt;batch4;Zugschalter für AWG Band;GE;SP1
-1910206854;2800650;;Edelstahlreiniger 0,5 Liter Inhitron;AE;SP6
+1910206854;2800650;;Edelstahlreiniger 0,5 Liter Inhitron;GE;SP1
 1910206855;2800660;;Oelaufsaugmittel 6Kg;GE;SP1
 1910206856;2800690;;ZB Reiniger R4 in Dose 1 Liter;GE;SP1
 1910206857;2800700;;ZB Reiniger 5 Liter;GE;SP1
@@ -982,18 +982,18 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001414687;4007096;;Seilrolle D540 x 240 Rohteil;AE;SP6
 1910564081;4007106;;Bremsbacke DAF380 GG25;AE;SP6
 1910576648;unbekannt;;Rolle Ø50/10×15 mm, 6000-ZZ + SI-R;Z0;SP1
-1910576649;unbekannt;;Zyl. Rolle Ø100/20×25 mm, 6304-2RS;Z0;SP1
+1910576649;unbekannt;;Zyl. Rolle Ø100/20×25 mm, 6304-2RS;GE;SP1
 1910576650;unbekannt;;Rollenführung Ø60 mm;Z0;
 1910576651;unbekannt;;Rolle Ø50/17×18 mm, 6003-2RS + Exz.-Bolz;Z0;SP1
 1910576652;unbekannt;;Rolle Ø50/9,8×18 mm, 6003-2RS + Kr-Bu;Z0;SP1
-1910576653;unbekannt;;Rolle Ø60/17×18 mm, 6003-2RS + Schraube;Z0;
+1910576653;unbekannt;;Rolle Ø60/17×18 mm, 6003-2RS + Schraube;GE;
 1910576654;unbekannt;;Rolle Ø70/17×18 mm, 6003-2RS + SI-R;Z0;
 1910362952;4070456;;Zahnriemenscheibe D70x26;GE;SP1
-1910576655;unbekannt;;Rolle Ø70/17×18 mm, 6003-2RS + Exz.-B.;Z0;SP1
-1910576656;unbekannt;;Rolle Ø70/17×18 mm, 6003-2RS + Schraube;Z0;SP1
+1910576655;unbekannt;;Rolle Ø70/17×18 mm, 6003-2RS + Exz.-B.;GE;SP1
+1910576656;unbekannt;;Rolle Ø70/17×18 mm, 6003-2RS + Schraube;GE;SP1
 1910561274;unbekannt;batch4;Zonen-Signalgeber mit Halter;GE;SP1
-1910576657;unbekannt;;Rolle Ø100×25/31 mm, 2×6005 + Exz.-B.;Z0;SP1
-1910576658;unbekannt;;Rolle Ø100×25/31 mm, 2×6005 + Schraube;Z0;SP1
+1910576657;unbekannt;;Rolle Ø100×25/31 mm, 2×6005 + Exz.-B.;GE;SP1
+1910576658;unbekannt;;Rolle Ø100×25/31 mm, 2×6005 + Schraube;GE;SP1
 1910576659;unbekannt;;Rolle Ø40/10×15 mm, 6000-2RS + SI-R;Z0;
 1910576660;unbekannt;;Geschwindigkeitsbegrenzerseil 6x19S;Z0;SP1
 1910576661;unbekannt;;FSF-5 Einlage 140×29,5×30 mm Nut 5,5;Z0;
@@ -1010,7 +1010,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910576671;unbekannt;;Rad Ø56 mm Achse 14 mm PA;Z0;
 1910576672;unbekannt;;Rad Ø54 mm Achse 17 mm PA;Z0;
 1910576673;unbekannt;;Fixierkit 743 Ultraslim Klemplatte;Z0;
-1910576674;unbekannt;;Notentriegelungsschlüssel;GE;
+1910576674;unbekannt;;Notentriegelungsschlüssel;GE;SP1
 1910576675;unbekannt;;FU B&F 22A LCD + Filter + Bremse;Z0;
 1910576676;unbekannt;;FU B&F 22A LCD + Filter Sync;Z0;
 1910561276;unbekannt;batch4;GAT1 GSM-STABANTENNE M.WINKEL;GE;SP1
@@ -1044,7 +1044,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910576702;unbekannt;;Rolle VSL Ø50/10×15 mm VU 93° Stahl;Z0;
 1910576703;unbekannt;;Einlage EEL 16 PE 300×36,5×38 mm;Z0;
 1910576704;unbekannt;;Ventilator 230VAC 67m³/h IP54;Z0;
-1910576705;batch5;;Schmiereinheit ETN 100 + ETN 120;Z0;SP1
+1910576705;batch5;;Schmiereinheit ETN 100 + ETN 120;GE;SP1
 1910576706;unbekannt;;Einlage EEL 19 PE 300×36,5×38 mm;Z0;
 1910561275;unbekannt;batch4;TESYS D/F ZEITBLOCK AV 0,1-30S;;SP1
 1910576707;unbekannt;;Detektor-Set E10 36 NoDiag TOD 2,7m;Z0;
@@ -1897,7 +1897,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910363296;5372950;;Abstandsbolzen M4x12;EU;SP5
 8001332371;5372960;;Duebel M16/25 Durchsteckanker;EU;SP5
 1910207046;5373020;;Schlitzbeilage 1mm für Tür S8;GE;SP1
-1910561283;0000batch5;batch4;SCHÜTZ 3P 9A AC3 230V 50/60HZ 1S;AE;SP6
+1910561283;0000batch5;batch4;SCHÜTZ 3P 9A AC3 230V 50/60HZ 1S;;SP6
 1910561284;unbekannt;batch4;TESYS D/F HILFSSCHALTERBLOCK 3S1Ö;GE;SP1
 8000920991;5500170;;Kappe 3/4 Zoll-T2;EU;SP5
 8001346156;5500690;;Winkelverschraubung 3/4 Zoll U;EU;SP5
@@ -1922,7 +1922,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001332299;5600980;;Pendelrollenlager 22220 K;AE;SP6
 1910363306;5601000;;Schraegkugellager 3313D;AE;SP6
 1910207057;5601050;;Schraegkugellager 3311D;GE;SP1
-8001346159;5601060;;Schraegkugellager 3319D;GE;SP2
+8001346159;5601060;;Schraegkugellager 3319D;AE;SP6
 8001414697;5601140;;Zylinderrollenlager NJ216E;EU;SP5
 8001414698;5601180;;Zylinderrollenlager NJ2218 E;EU;SP5
 1910363307;5601250;;Schraegkugellager 309 QJ;GE;SP2
@@ -1964,7 +1964,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207063;5610760;;Wellendichtring 100x120x12BASL72NBR-902;GE;SP1
 1910207064;5610780;;Wellendichtring 105x130x12BASL72NBR-902;GE;SP1
 1910207065;5610790;;Wellendichtring 120x140x13B1SL72NBR-902;GE;SP2
-8001414705;5610820;;Wellendichtring 130x160x15BASL72NBR-902;GE;SP2
+8001414705;5610820;;Wellendichtring 130x160x15BASL72NBR-902;GE;SP1
 1910207066;5610830;;Wellendichtring 140x170x15 B2FGSL;GE;SP1
 1910207067;5610850;;Wellendichtring 150x180x15 B1FGSL;GE;SP2
 8000814539;5610860;;Wellendichtring AS 170x200x15 NBR;GE;SP1
@@ -2173,7 +2173,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362786;6023912160;;Gabel L Notendabstellung;EU;SP5
 1910362787;6023913160;;Gabel R Notendabstellung;EU;SP5
 1910362788;6023914160;;Stoessel fuer Begrenzer;EU;SP5
-1910561460;60240000002;;ZB GBTK 6024 M;;SP2
+1910561460;60240000002;;ZB GBTK 6024 M;GE;SP2
 1910564094;60240000005;;Reibbelag;GE;SP1
 1910564095;60240000059;;Seilrille;AE;SP6
 1910564096;60240000061;;Kurvenscheibe;AE;SP6
@@ -2478,7 +2478,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910363513;6033900950;;Dichtung Gehäusedeckel SO3;AE;SP6
 1910363514;6033901950;;Dichtung fuer Flanschlager SO3;GE;SP1
 8001332389;6033902960;;Seilschutzbuegel 335x200x5;EU;SP5
-8001346173;6033903900;;Halteschraube M16x40 vz;GE;SP3
+8001346173;6033903900;;Halteschraube M16x40 vz;AE;SP6
 1910363516;6033903950;;Gehäusedichtung für Schneckengehäuse;AE;SP6
 1910362900;6033903980;;Federring 250x2,5;GE;SP1
 1910047421;6033904900;;Schraube AM16x80 mit Ansatz;GE;SP1
@@ -2498,7 +2498,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910369386;6034094430;;Treibscheibenkranz W332/SO4 D740x190;GE;SP2
 8001346181;6034105050;;Lagerdeckel W332C WS BS;EU;SP5
 1910362905;6034111050;;Lagerdeckel W332;EU;SP5
-8001346184;6034203500;;Lagerbuchse W332C 120x140x120;GE;SP3
+8001346184;6034203500;;Lagerbuchse W332C 120x140x120;AE;SP6
 8001346232;6034326300;;Schneckenwelle W332C 46:2;;SP1
 8001346187;6034336300 P1E=EU Löschvermerk;;Schneckenradwelle W332C;;
 8001346188;6034337300;;Schneckenradwelle W332C SA4;AE;SP6
@@ -2790,7 +2790,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910208176;60730009236;;Fuehrungsschuheinlage wartungsarm 8mm;GE;SP1
 1910208177;60730009237;;Fuehrungsschuheinlage wartungsarm 10mm;GE;SP1
 1910208178;60730009238;;Fuehrungsschuheinlage wartungsarm 14mm;GE;SP1
-1910208179;60730009242;;Fuehrungsschuheinlage wartungsarm 12mm;AE;SP6
+1910208179;60730009242;;Fuehrungsschuheinlage wartungsarm 12mm;EU;SP5
 1910208180;60730009244;;ZB Fuehrungsschuh L105 ohne Einlage;;SP1
 1910364265;60730009248;;ZB Fuehrungsschuh L127 Schiene 16mm komp;GE;SP1
 1910364650;60730009255;;ZB Rolle RTK 100 HD;AE;SP6
@@ -2879,7 +2879,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207496;6074910150;;Filzeinlage 86x24x13,5;AE;SP6
 1910207497;6074912150;;Filzeinlage 86x36x15;EU;SP5
 1910364282;60750004966;;ZB Gleitfuehrung f.Unterkette;EU;SP5
-1910364283;60750009782;;ZB Daempfer D50 B70;EU;SP5
+1910364283;60750009782;;ZB Daempfer D50 B70;AE;SP6
 1910368426;6075001920;;ZB Federbolzen M8x45;EU;SP5
 1910563985;6075002370;;ZB Daempfer D70;AE;SP6
 1910363092;6075003970;;ZB Zugstange;AE;SP6
@@ -3958,7 +3958,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910512160;62430009706;;Treibscheibe DAF270L D440x136 zxd;GE;SP2
 1910364908;62430009722;;Mikroschalter für DAF270;GE;SP1
 1910364909;62430009780;;Bremskontrollschalter DAF270 2x1700NM WE;GE;SP1
-8000646014;62440000004;;Treibscheibe D560 zxd SC500;GE;SP2
+8000646014;62440000004;;Treibscheibe D560 zxd SC500;AE;SP6
 8000646002;62440000047;;Flachdichtung Lagerdeckel AS SC500;GE;SP2
 1910563949;62440000059;;Achse Seilrolle DW SC500;EU;SP5
 1910364425;62440000119;;Ersatzfilter für Gebläse SC500;GE;SP1
@@ -4050,7 +4050,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910369027;62510000096;;Treibscheibe PMC145 L D240 11x6 S95;GE;SP2
 1910369425;62510000099;;Treibscheibe BG01C D240x75 zxd;GE;SP2
 1910364781;62510000214;;ZB Leitung Bremse PMC170 10m;GE;SP2
-1910368721;62510000215;62510000215_L;Treibscheibe PMC145 L D240 11x6 S100;GE;SP2
+1910368721;62510000215;62510000215_L;Treibscheibe PMC145 L D240 11x6 S100;GE;SP1
 1910364482;62510000244;;Geberhalter PMC145S/XS2 WB;EU;SP5
 1910364993;62510000258;;Abdeckblech Bremse PMC145-2;GE;SP1
 1910364785;62510000259;;Abdeckung Treibscheibe PMC145S/XS2;GE;SP1
@@ -4523,7 +4523,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910365007;6510656760;;Leiterplatte BT;EU;SP5
 1910117774;65190007497;65190007497_L;ZB Leiterplatte SR2 Sicherheitsschaltung;GE;SP1
 1910047799;65190007502;65190007502_L;ZB Leiterplatte RFS2 Flache Schachtgrube;GE;SP1
-1910364595;65190008195;;ZB Leiterplatte MSM2 Sondertexte;Z0;SP2
+1910364595;65190008195;;ZB Leiterplatte MSM2 Sondertexte;GE;SP2
 1910365009;65190009202;;ZB Leiterplatte TF2 Telefonkarte;GE;SP1
 1910209273;65190009206;65190009206_L;ZB Leiterplatte RFS 2 Synergy;GE;SP1
 1910208283;65190009207;;ZB Leiterplatte MSM2 Sprache Synergy deu;GE;SP1
@@ -4550,7 +4550,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207781;6520002660;;ZB Leiterplatte GAF Zentr. Speicherpl.;GE;SP2
 1910564015;6520009660;;ZB Leiterplatte GZ Zentralplatte;AE;SP6
 1910363523;6520010660;;ZB Leiterplatte MG Gruppenplatte;GE;SP4
-1910208284;65230002902;;ZB Leiterplatte MG3 Zentralplatte Gruppe;;SP3
+1910208284;65230002902;;ZB Leiterplatte MG3 Zentralplatte Gruppe;GE;SP1
 1910369150;65280009203;65280009203_L;AGILE Terminal Ausführung 1;GE;SP1
 1910365079;65280009205;;AGILE PoE Schalter;GE;SP2
 1910369157;65290004301;65290004301_L;ZB Eprom Satz Gruppe MG3;GE;SP2
@@ -4633,7 +4633,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207792;6541055010;;Netzteil 230VAC 24VDC;GE;SP1
 1910047714;6541062010;;Netzgeraet 400V/ 24VDC/ 10A;GE;SP1
 1910364179;6541063010;;Netzgeraet RDRKS 30K 3ph /24VDC 30A;EU;SP5
-1910047813;6541064010;;Netzgeraet  MN7  24V/6A;AE;SP6
+1910047813;6541064010;;Netzgeraet  MN7  24V/6A;EU;SP5
 1910365082;6545033660;;ZB Leiterplatte f.Lichtschr. m.Fotothyr.;EU;SP5
 1910364180;6545046660;;Türsteuergerät TSG 40;EU;SP5
 1910364182;6545047660;;Türsteuergerät TSG 24;EU;SP5
@@ -4669,7 +4669,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207807;6552052670;;Lichtgitter Pana 194 Plus Send. 194-str.;GE;SP1
 1910207808;6552053670;;Lichtgitter Pana 194 Plus Empf. 194-str.;GE;SP1
 1910363571;6552054670;;Steuergeraet Pana 194 Plus 194-str.;EU;SP5
-1910207809;6552055670;;Netzteil PS1;GE;SP2
+1910207809;6552055670;;Netzteil PS1;EU;SP5
 1910363572;6552078010;;Lichtschranke RK18/2-G;GE;SP2
 1910207810;6552079010;;Lichtschranke RLK 91-6;GE;SP1
 1910007397;6552087010;;ZB Gabellichtschranke Anschluss 5m;GE;SP1
@@ -4763,7 +4763,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910365141;65600009305;;ZB Taster RT42WG RT geprägt Ventilator;GE;SP2
 1910365142;65600009306;;ZB Blindelement RT42WG;GE;SP2
 1910365143;65600009308;;ZB Taster RT42WG RT geprägt Pfeil Auf/Ab;GE;SP1
-1910365144;65600009309;;ZB Taster RT42WG RT geprägt Pfeil Auf;GE;SP2
+1910365144;65600009309;;ZB Taster RT42WG RT geprägt Pfeil Auf;GE;SP1
 1910365145;65600009310;;ZB Taster RT42WG bl gep Sammelbestellung;GE;SP2
 1910365146;65600009311;;ZB Taster RT42WG bl geprägt Tür Auf;GE;SP2
 1910365147;65600009312;;ZB Taster RT42WG bl geprägt Tür Zu;GE;SP2
@@ -4979,9 +4979,9 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910364800;65680001940;;Gehaeuse 290x78 Aussenknopfkasten;EU;SP5
 1910364806;65680002457;;ZB Mikrofonelement STEP B o. Verstaerker;GE;SP2
 1910364810;65680004595;;ZB Schlüsseltaster T40mm o.Quittung;GE;SP2
-1910369214;65680004596;65680004596_L;ZB Schlüsseltaster T40mm mit Quittung;Z0;SP2
+1910369214;65680004596;65680004596_L;ZB Schlüsseltaster T40mm mit Quittung;GE;SP2
 1910369215;65680004597;65680004597_L;ZB Schluesselschalter T40mm mit Quittung;GE;SP2
-1910208331;65680004692;;Schlüsselblende C rote LED mit Kabel;GE;SP4
+1910208331;65680004692;;Schlüsselblende C rote LED mit Kabel;GE;SP3
 1910369216;65680004693;65680004693_L;ZB Schluesselblende mit LED STEP Basic;EU;SP5
 1910208332;65680004694;;ZB Schlüsseltaster o.Q. Sch A T40 Basic;GE;SP4
 1910208333;65680004695;;ZB Schluesseltaster m.Q. Sch A T40 Basic;EU;SP5
@@ -6159,7 +6159,7 @@ Vulkol.""";GE;SP1
 1910366830;66200009336;;ZB Leiterpl. Set RPI18 VPR1-18+VPM1+VPL1;GE;SP1
 1910561467;66200009344;;ZB Leiterplatte IBI;GE;SP1
 1910564151;66200009345;;ZB Leiterplatte KE Modul 230VAC 24VDC;GE;SP1
-1910209283;66210003123_L;;Frequenzumrichter CPI/MFC48 Grundgeraet;GE;SP1
+1910209283;66210003123_L;;Frequenzumrichter CPI/MFC48 Grundgeraet;EU;SP5
 1910366841;66210009204;;Frequenzumrichter CPI48Ex ASM;EU;SP5
 1910209284;66210009219;66210009219_T;Frequenzumrichter CPI/MFC48 Grundg V3;AE;SP6
 1910369325;66210009237;;ZB Frequenzumrichter CPI/MFC 40E;EU;SP5
@@ -7271,11 +7271,11 @@ Vulkol.""";GE;SP1
 1910369462;8850005615;;GSM 90;GE;SP1
 1910208076;8850005620;;Klebehalter;GE;SP1
 1910363942;8850005624;;Lithiumbatterie für NRT 2 XT;GE;SP1
-1910561450;8850005670;;AKKUPACK 3,6 V 830 mAh;;
+1910561450;8850005670;;AKKUPACK 3,6 V 830 mAh;GE;SP1
 1910207300;885003314;;Laufrolle 1-rillig mit Bolzen;GE;SP1
 1910207301;885003339;;Keilriemen TTK18 (Spindel) u. TTK25;GE;SP1
 1910364457;8850820009;;Aufkleber MAX Software;GE;SP1
-1910369463;8850990000;;TKE Thermobecher;GE;SP1
+1910369463;8850990000;;TKE Thermobecher;AE;SP6
 1910369464;8850990001;;Notebook Rucksack;GE;SP1
 1910369465;8850990002;;Notizbuch;GE;SP1
 1910369466;8850990003;;Notizblock (A5);GE;SP1
@@ -7485,7 +7485,7 @@ Vulkol.""";GE;SP1
 8000645985;99000001422;;Pendelrollenlager 22226E;GE;SP1
 8000814505;99000001423;;V Ring V 130A;GE;SP1
 1910367894;99000001424;;V Ring V 150A;GE;SP1
-1910208768;99000001799;;Leistungsschütz LC1-38A 3H/1S/1OE 220VDC;EU;SP5
+1910208768;99000001799;;Leistungsschütz LC1-38A 3H/1S/1OE 220VDC;GE;SP1
 1910208769;99000001800;;Leistungsschütz LC1-38A 3H/1S/1OE 230VA;GE;SP1
 1910208770;99000001801;;Leistungsschütz LC1-9A 3H/1S/1OE 230VAC;GE;SP1
 1910367898;99000001812;;Distanzbolzen SW6 M3 I-A-Gew. L20;GE;SP2
@@ -7722,7 +7722,7 @@ Vulkol.""";GE;SP1
 1910564185;99000010193;;Zylinderrollenlager NNF 5007 ADB-2LSV;AE;SP6
 1910367570;99000010197;;Aufkleber Symbole;EU;SP5
 1910366776;99000010200;;Ultrabuchse D93 d58 L95;GE;SP1
-1910366777;99000010219;;Spannelement Kunststoff;GE;SP2
+1910366777;99000010219;;Spannelement Kunststoff;GE;SP1
 1910366778;99000010226;;Scheibenbremse PMC125S PMC145S 2x250Nm;GE;SP1
 1910366779;99000010227;;Scheibenbremse PMC125M PMC145M 2x350Nm;GE;SP1
 1910366780;99000010232;;Gummipuffer 20x20 M6 Typ B;GE;SP2
@@ -8356,7 +8356,7 @@ Vulkol.""";GE;SP1
 1910208901;99500010389;;Inspektionskasten zweih. o.Steckd st-b;GE;SP1
 1910367229;99500010392;;Magnetsensor MSK110TH -0002 -SK20;GE;SP1
 1910367230;99500010394;;Klemmenblock red.Sch-grube BDK2000-MHC;EU;SP5
-1910365632;99500010396;99500010396_L;Umsetzer CAN bus auf auf Modbus TCP;GE;SP2
+1910365632;99500010396;99500010396_L;Umsetzer CAN bus auf auf Modbus TCP;GE;SP1
 1910369602;99500010396-01;;Umsetzer CAN bus auf auf Modbus TCP pro;GE;SP2
 1910367231;99500010411;;Sprechstelle MS-Digifon Liftbox Vario;GE;SP2
 1910368408;99500010414;;Stift Minicom 5pol ger RM3,81 schraub;GE;SP2
@@ -8743,7 +8743,7 @@ Vulkol.""";GE;SP1
 1910367415;99500011979;;Busbasis Z-Mod. ST Steuerung B&R SPS X20;GE;SP1
 1910367416;99500011980;;Bus Cont. H-Mod ST Steuerung B&R SPS X20;GE;SP1
 1910368722;99500011981;;1-fach Hub Mod ST Steuerung B&R SPS X20;GE;SP1
-1910368723;99500011982;;2-fach Hub Mod ST Steuerung B&R SPS X20;EU;SP5
+1910368723;99500011982;;2-fach Hub Mod ST Steuerung B&R SPS X20;GE;SP2
 1910367417;99500011983;;Busmodul ST Steuerung B&R SPS X20;GE;SP1
 1910367420;99500011984;;dig Eing. Modul ST Steuerung B&R SPS X20;EU;SP5
 1910367422;99500011985;;dig Ausg. Modul ST Steuerung B&R SPS X20;EU;SP5
@@ -8752,8 +8752,8 @@ Vulkol.""";GE;SP1
 1910368731;99500012042;;Taster Blueton taktil blau Ladezeit;GE;SP1
 1910367425;99500012054;;Magnetschalter 1W M8 (Reed-Sensor);GE;SP1
 8001413632;99500012059;;Axiallüfter 115VAC 60Hz 180m3/h;AE;SP6
-1910047519;99500012075;;Türantrieb F9 IP54 EN 81-20;GE;SP1
-1910367428;99500012076;99500012076_L;Regelgerät F9 getrennt IP20 EN 81-20;GE;SP2
+1910047519;99500012075;;Türantrieb F9 IP54 EN 81-20;ES;SP1
+1910367428;99500012076;99500012076_L;Türsteuergerät F9 getrennt IP20 EN 81-20;GE;SP2
 1910367432;99500012077;;Türantrieb F9 Regelgerät IP54 EN 81-20;GE;SP1
 1910367433;99500012083;;Fehlerstromschutzschalter 4pol 80A 300mA;EU;SP5
 1910208934;99500012093;;Mobilfunk Antenne AP-160A 10m lang;GE;SP1
@@ -9366,7 +9366,7 @@ Vulkol.""";GE;SP1
 1910499084;unbekannt;batch4;ÖL-Auffangbehälter TKE;GE;SP1
 1910569119;65990010030;;Deckel Zusatzbox Inverter CT09G  Einkäufergruppe W03;;SP1
 1910569118;65990010029;;Halteblech Zusatzbox Inverter CT09G Einkäufergruppe W03;;SP1
-1000258118;99500009300;;IC DIG SMD Prozessor IA186ES;GE;SP1
+1000258118;99500009300;;IC DIG SMD Prozessor IA186ES;GE;SP2
 1000257948;8850005531_E;;EasyGate LTE IP-Gateway ohne Modem_E;GE;SP1
 1000258073;unbekannt;;Etikett 103 x 199;EU;SP5
 1000257652;3345285002;;ZB Bremsbacke DAB450;EU;SP5
@@ -9633,7 +9633,7 @@ Vulkol.""";GE;SP1
 1910363542;unbekannt;;ZB Schachtfahne 21-30 510mm;GE;SP2
 1910363604;unbekannt;;Buchse 60x80x19;;SP1
 1910363628;unbekannt;;ZB Typenschild C;;SP1
-1910363657;unbekannt;;ZB Spreizschwert R;;SP1
+1910363657;unbekannt;;ZB Spreizschwert R;EU;SP5
 1910363708;P1E=EU Löschvermerk;;Gewicht fuer Schliessgewicht S1;;
 1910363839;unbekannt;;ZB Seilrolle D800x240 / zxd;;SP2
 1910363877;P1E=EU Löschvermerk;;Achse D40x186;;
@@ -10004,7 +10004,7 @@ Vulkol.""";GE;SP1
 8001442649;62330009263;;BT Stützen und Rollenbock TW130;;
 1910366023;99500011358;;Leitungsschutzschalter 13A 1P B C60H;GE;SP1
 8001442612;99500011334;;Scheibenbremse SC500M 4500 Nm;GE;SP1
-1910209234;6073206240_L P1E=EU Löschvermerk;;Fuehrungsschuh L280 Schiene 16mm;EU;SP5
+1910209234;6073206240_L P1E=EU Löschvermerk;;Fuehrungsschuh L280 Schiene 16mm;GE;SP1
 1000258427;99000010909;;Palette 200cm*110cm;EU;SP5
 1000259897;unbekannt;;Umreifungsband 9x0,55mm 4km;;SP1
 8001465358;99500012094;;Drehgeber 2048 BISSC KonusF 3m 2rs;;SP1
@@ -10046,8 +10046,8 @@ Vulkol.""";GE;SP1
 1910499062;10077204 Nr. SBC Spain;batch4;NIVELLIERMAGNET L=280 mm;GE;SP1
 1910499295;10082606 Nr. SBC Spain;batch4;LED Leuchtfeld PIC 100x100;GE;SP1
 1910499316;10085658 Nr. SBC Spain;batch4;VORHANGVERANKERUNGSSATZ KOMPAKT ZENTRAL;GE;SP1
-1910002925;batch5;;UPS IDG1600 (1600VA) 20/50 IDG1600;Z0;SP1
-1910052762;batch5;;Relais Finder 40.52;Z0;SP1
+1910002925;batch5;;UPS IDG1600 (1600VA) 20/50 IDG1600;GE;SP1
+1910052762;batch5;;Relais Finder 40.52;GE;SP1
 1910052905;batch5;;Türkontakt Brücke zu TK5 Langlöcher;Z0;SP1
 1910163145;batch5;;Gegengewichtspufferkasten;Z0;SP1
 1910163214;batch5;;Seilspannroll-Baugr Ex2-L-keine Gewichte;Z0;SP1
@@ -10086,7 +10086,7 @@ Vulkol.""";GE;SP1
 1910165188;batch5;;UMRICHTER HVI-6;Z0;SP1
 1910165198;batch5;;KAMERA-SET V1;Z0;SP1
 1910165199;batch5;;BESCHLEUNIGUNGSMESSER;Z0;SP1
-1910165205;batch5;;LED-BAND-SCHACHTBELEUCHTUNG L=X;Z0;SP1
+1910165205;batch5;;LED-BAND-SCHACHTBELEUCHTUNG L=X;Z0;SP2
 1910165216;batch5;;MAXi+ANTENNEN (VODAFONE);Z0;SP1
 1910165254;batch5;;DMC 6 USB;Z0;SP1
 1910165255;batch5;;MAXi+ANTENNEN (ORANGE);Z0;SP1
@@ -10137,123 +10137,123 @@ Vulkol.""";GE;SP1
 1910668176;batch5;;UBM 21, RWA;Z0;SP1
 1910668177;batch5;;Akku 12V 12Ah;Z0;SP1
 1910668178;batch5;;UBM 401 BTR Maschinenraum;Z0;SP1
-1910668179;batch5;;USV-Anlage 1200VA/720W;Z0;SP1
-1910668180;batch5;;Batterie 12 V 18 Ah ARD;Z0;SP1
-1910668181;batch5;;Pendelrolle;Z0;SP1
+1910668179;batch5;;USV-Anlage 1200VA/720W;GE;SP1
+1910668180;batch5;;Batterie 12 V 18 Ah ARD;GE;SP1
+1910668181;batch5;;Pendelrolle;GE;SP1
 1910668182;batch5;;Ersatzfilter RAS;Z0;SP1
 1910668183;batch5;;Notstrombatterie 12 V, 3,4 Ah;Z0;SP1
-1910668184;batch5;;Führungsrolle für RFP D125 mm;Z0;SP1
-1910668185;batch5;;Gleitführung;Z0;SP1
-1910668186;batch5;;Rolle VSL 50/10x15 VU 93° Lager 6000;Z0;SP1
-1910668187;batch5;;Türführung PE 100x36,2x7,6;Z0;SP1
+1910668184;batch5;;Führungsrolle für RFP D125 mm;GE;SP1
+1910668185;batch5;;Gleitführung;GE;SP1
+1910668186;batch5;;Rolle VSL 50/10x15 VU 93° Lager 6000;GE;SP1
+1910668187;batch5;;Türführung PE 100x36,2x7,6;GE;SP1
 1910668189;batch5;;Anschlagdämpfer D20/10,3 x 20;Z0;SP1
-1910668190;batch5;;Rolle VSL 75/17x20/10 VU 93° Lager 6203;Z0;SP1
-1910668191;batch5;;Einlage TPU 5mm;Z0;SP1
-1910668192;batch5;;Führungsschuheinlage 1414 NE, L140mm;Z0;SP1
-1910668193;batch5;;Führungsschuheinlage EM 10 PA, L140mm;Z0;SP1
-1910668194;batch5;;Türführung 100/94x35x10mm;Z0;SP1
-1910668195;batch5;;Führungseinlage 9 PEC 140x29,5x30mm;Z0;SP1
-1910668196;batch5;;Türlaufrolle PA6G Lager 6202;Z0;SP1
-1910668197;batch5;;Türführung 35x10,5x18mm;Z0;SP1
-1910668198;batch5;;Rolle VSL 100/20x30 VU 93° Lager 6204;Z0;SP1
-1910668199;batch5;;Führungseinlage EM 10 PE;Z0;SP1
-1910668200;batch5;;Führungseinlage EM 16 PA;Z0;SP1
-1910668201;batch5;;Führungsschuheinlage, Cell-VU;Z0;SP1
-1910668202;batch5;;Führungsschuh VS-60 TPU;Z0;SP1
-1910668203;batch5;;Futterblech für Halteschuh 140mm;Z0;SP1
-1910668204;batch5;;Führungseinlage grün EM 14 PA;Z0;SP1
-1910668205;batch5;;Führungseinlage rot EM 14 PU;Z0;SP1
-1910668206;batch5;;Einlage EK 5 PU 100x20x30mm;Z0;SP1
-1910668207;batch5;;Führungseinlage rot EK 9 PU;Z0;SP1
-1910668208;batch5;;Führungseinlage EKU 5 PU;Z0;SP1
-1910668209;batch5;;Führungseinlage TPU 1416 NE;Z0;SP1
-1910668210;batch5;;Führungseinlage grün EK 5 PA;Z0;SP1
-1910668211;batch5;;Führungseinlage rot EL 16 PU;Z0;SP1
-1910668212;batch5;;Führungseinlage EMU 16 PE;Z0;SP1
-1910668213;batch5;;Führungseinlage TPU 1409 NE;Z0;SP1
-1910668214;batch5;;Türblattführung 100x35x11,5;Z0;SP1
-1910668215;batch5;;Schienenöler Kunststoff;Z0;SP1
-1910668216;batch5;;Schienenöler 5mm;Z0;SP1
-1910668217;batch5;;Schienenöler 16mm;Z0;SP1
-1910668218;batch5;;Ölauffangbehälter 16mm;Z0;SP1
+1910668190;batch5;;Rolle VSL 75/17x20/10 VU 93° Lager 6203;GE;SP1
+1910668191;batch5;;Einlage TPU 5mm;GE;SP1
+1910668192;batch5;;Führungsschuheinlage 1414 NE, L140mm;GE;SP1
+1910668193;batch5;;Führungsschuheinlage EM 10 PA, L140mm;GE;SP1
+1910668194;batch5;;Türführung 100/94x35x10mm;GE;SP1
+1910668195;batch5;;Führungseinlage 9 PEC 140x29,5x30mm;GE;SP1
+1910668196;batch5;;Türlaufrolle PA6G Lager 6202;GE;SP1
+1910668197;batch5;;Türführung 35x10,5x18mm;GE;SP1
+1910668198;batch5;;Rolle VSL 100/20x30 VU 93° Lager 6204;GE;SP1
+1910668199;batch5;;Führungseinlage EM 10 PE;GE;SP1
+1910668200;batch5;;Führungseinlage EM 16 PA;GE;SP1
+1910668201;batch5;;Führungsschuheinlage, Cell-VU;GE;SP1
+1910668202;batch5;;Führungsschuh VS-60 TPU;GE;SP1
+1910668203;batch5;;Futterblech für Halteschuh 140mm;GE;SP1
+1910668204;batch5;;Führungseinlage grün EM 14 PA;GE;SP1
+1910668205;batch5;;Führungseinlage rot EM 14 PU;GE;SP1
+1910668206;batch5;;Einlage EK 5 PU 100x20x30mm;GE;SP1
+1910668207;batch5;;Führungseinlage rot EK 9 PU;GE;SP1
+1910668208;batch5;;Führungseinlage EKU 5 PU;GE;SP1
+1910668209;batch5;;Führungseinlage TPU 1416 NE;GE;SP1
+1910668210;batch5;;Führungseinlage grün EK 5 PA;GE;SP1
+1910668211;batch5;;Führungseinlage rot EL 16 PU;GE;SP1
+1910668212;batch5;;Führungseinlage EMU 16 PE;GE;SP1
+1910668213;batch5;;Führungseinlage TPU 1409 NE;GE;SP1
+1910668214;batch5;;Türblattführung 100x35x11,5;GE;SP1
+1910668215;batch5;;Schienenöler Kunststoff;GE;SP1
+1910668216;batch5;;Schienenöler 5mm;GE;SP1
+1910668217;batch5;;Schienenöler 16mm;GE;SP1
+1910668218;batch5;;Ölauffangbehälter 16mm;GE;SP1
 1910668219;batch5;;Führungsschuheinlage EM 5 PU;Z0;SP1
 1910668220;batch5;;Ölauffangbehälter, rund D160;;
-1910668221;batch5;;Ölauffangbehälter ,eckig;Z0;SP1
-1910668222;batch5;;Türlaufrolle PAG;Z0;SP1
-1910668223;batch5;;Türblattführung PE;Z0;SP1
-1910668224;batch5;;Türlaufrolle VF92 PA6G Lager 6201;Z0;SP1
-1910668225;batch5;;Einlage 15 PEC Cell-VU;Z0;SP1
+1910668221;batch5;;Ölauffangbehälter ,eckig;GE;SP1
+1910668222;batch5;;Türlaufrolle PAG;GE;SP1
+1910668223;batch5;;Türblattführung PE;GE;SP1
+1910668224;batch5;;Türlaufrolle VF92 PA6G Lager 6201;GE;SP1
+1910668225;batch5;;Einlage 15 PEC Cell-VU;GE;SP1
 1910668226;batch5;;Türkontakt und Brücke 60mm;;
-1910668227;batch5;;Zahnriemen HTD 5M 1;Z0;SP1
-1910668229;batch5;;Zahnriemen RPP5;Z0;SP1
-1910668230;batch5;;Synchronisationsseil;Z0;SP1
+1910668227;batch5;;Zahnriemen HTD 5M 1;GE;SP1
+1910668229;batch5;;Zahnriemen RPP5;GE;SP1
+1910668230;batch5;;Synchronisationsseil;GE;SP1
 1910668231;batch5;;Rolle, PFR-04;;
-1910668232;batch5;;Rolle, PFR-38;Z0;SP1
+1910668232;batch5;;Rolle, PFR-38;GE;SP1
 1910668233;batch5;;Rolle, PFR-62;;
 1910668234;batch5;;Rolle, PFR-08;;
 1910668235;batch5;;Rolle, PFR-09;;
 1910668236;batch5;;Ritzel;;
 1910668237;batch5;;Mitnehmerrolle Satz 915mm;;
-1910668238;batch5;;Mitnehmerrolle Satz;Z0;SP1
-1910668239;batch5;;Sicherheitsfeder, L442 mm;Z0;SP1
-1910668240;batch5;;Gummianschlag Türverriegelung M6x25 mm;Z0;SP1
-1910668241;batch5;;Führungsschuh 8mm;Z0;SP1
-1910668242;batch5;;Führungsschuh 25mm Turflügel;Z0;SP1
-1910668243;batch5;;Führungsschuh 16mm;Z0;SP1
-1910668244;batch5;;Führungsschuh;Z0;SP1
-1910668245;batch5;;Führungsschuh 140mm;Z0;SP1
-1910668246;batch5;;Führungsschuh 90mm;Z0;SP1
+1910668238;batch5;;Mitnehmerrolle Satz;GE;SP1
+1910668239;batch5;;Sicherheitsfeder, L442 mm;GE;SP1
+1910668240;batch5;;Gummianschlag Türverriegelung M6x25 mm;GE;SP1
+1910668241;batch5;;Führungsschuh 8mm;GE;SP1
+1910668242;batch5;;Führungsschuh 25mm Turflügel;GE;SP1
+1910668243;batch5;;Führungsschuh 16mm;GE;SP1
+1910668244;batch5;;Führungsschuh;GE;SP1
+1910668245;batch5;;Führungsschuh 140mm;GE;SP1
+1910668246;batch5;;Führungsschuh 90mm;GE;SP1
 1910668247;batch5;;Türkontakt und Brücke 40mm;;
-1910668248;batch5;;Türkontakt und Brücke 50mm;Z0;SP1
-1910668249;batch5;;Türkontakt und Brücke;Z0;SP1
-1910668250;batch5;;Türsteuergerät VF4+;Z0;SP1
-1910668251;batch5;;Türsteuergerät VF5;Z0;SP1
-1910668252;batch5;;Gegendruckrolle S/K T2, C4;Z0;SP1
-1910668253;batch5;;Führungsschuh T2,C4;Z0;SP1
-1910668255;batch5;;Mitnehmerschwert mit Kontakt;Z0;SP1
+1910668248;batch5;;Türkontakt und Brücke 50mm;GE;SP1
+1910668249;batch5;;Türkontakt und Brücke;GE;SP1
+1910668250;batch5;;Türsteuergerät VF4+;EU;SP5
+1910668251;batch5;;Türsteuergerät VF5;GE;SP1
+1910668252;batch5;;Gegendruckrolle S/K T2, C4;GE;SP1
+1910668253;batch5;;Führungsschuh T2,C4;GE;SP1
+1910668255;batch5;;Mitnehmerschwert mit Kontakt;GE;SP1
 1910668256;batch5;;Akkumulator 12 V 1,2 Ah;Z0;SP1
-1910668257;batch5;;Notentriegelungsschlüssel Dreikant M5;Z0;SP1
+1910668257;batch5;;Notentriegelungsschlüssel Dreikant M5;GE;SP1
 1910668258;batch5;;Schachtumschalter 3-polig;;
-1910668260;batch5;;Betätigungskralle Sicherheitsschalter WZ;Z0;SP1
-1910668262;batch5;;Brücke;Z0;SP1
-1910668263;batch5;;Notentriegelungsschlüssel CS;Z0;SP1
-1910668264;batch5;;Kontaktbrücke PZ 24;Z0;SP1
-1910668265;batch5;;Unterlage PZ - U5;Z0;SP1
-1910668266;batch5;;Türverriegelung Riegelbüchse 'B';Z0;SP1
+1910668260;batch5;;Betätigungskralle Sicherheitsschalter WZ;GE;SP1
+1910668262;batch5;;Brücke;GE;SP1
+1910668263;batch5;;Notentriegelungsschlüssel CS;GE;SP1
+1910668264;batch5;;Kontaktbrücke PZ 24;GE;SP1
+1910668265;batch5;;Unterlage PZ - U5;GE;SP1
+1910668266;batch5;;Türverriegelung Riegelbüchse 'B';GE;SP1
 1910668267;batch5;;Notentriegelungsschlüssel D12;;
 1910668268;batch5;;Schlüssel MAP;Z0;SP1
-1910668269;batch5;;Türverriegelung SE7/SBE6;Z0;SP1
-1910668270;batch5;;Puffer D20;Z0;SP1
+1910668269;batch5;;Türverriegelung SE7/SBE6;GE;SP1
+1910668270;batch5;;Puffer D20;GE;SP1
 1910668271;batch5;;Einlage L200;Z0;SP1
-1910668272;batch5;;Türkontakt ADL;Z0;SP1
-1910668273;batch5;;Notentriegelungsschlüssel;Z0;SP1
-1910668274;batch5;;Riegelbüchse transparent;Z0;SP1
+1910668272;batch5;;Türkontakt ADL;GE;SP1
+1910668273;batch5;;Notentriegelungsschlüssel;GE;SP1
+1910668274;batch5;;Riegelbüchse transparent;GE;SP1
 1910668275;batch5;;Führung 6mm;Z0;SP1
-1910668276;batch5;;Filzstreifen;Z0;SP1
-1910668277;batch5;;Keilriemennabe, D38 mm;Z0;SP1
-1910668278;batch5;;Zugfeder C82;Z0;SP1
-1910668279;batch5;;Notentriegelungsschlüssel L230;Z0;SP1
+1910668276;batch5;;Filzstreifen;GE;SP1
+1910668277;batch5;;Keilriemennabe, D38 mm;GE;SP1
+1910668278;batch5;;Zugfeder C82;GE;SP1
+1910668279;batch5;;Notentriegelungsschlüssel L230;GE;SP1
 1910668280;batch5;;Schlüssel Notentr. M6 re Gew. L70;Z0;SP1
 1910668281;batch5;;Schlüssel Notentr. M6 li Gew. L70;Z0;SP1
-1910668282;batch5;;Türkontaktbrücke (keine Langlöcher);Z0;SP1
-1910668284;batch5;;Signallampe BA9S 24V 1W;Z0;SP1
-1910668285;batch5;;Türkontakt Kone Schiebetür;Z0;SP1
-1910668286;batch5;;Positionsschalter;Z0;SP1
-1910668287;batch5;;Notentriegelungsschlüssel M6;Z0;SP1
-1910668288;batch5;;Gummipuffer D11;Z0;SP1
-1910668289;batch5;;Türführung groß;Z0;SP1
-1910668290;batch5;;Türführung komplett (Satz = 2);Z0;SP1
-1910668291;batch5;;Türverriegelung L2 (TV02/247);Z0;SP1
-1910668292;batch5;;Zugfeder TS6;Z0;SP1
-1910668293;batch5;;Feder zu Drehtüre;Z0;SP1
-1910668294;batch5;;Laufrolle D56 mm;Z0;SP1
+1910668282;batch5;;Türkontaktbrücke (keine Langlöcher);GE;SP1
+1910668284;batch5;;Signallampe BA9S 24V 1W;GE;SP1
+1910668285;batch5;;Türkontakt Kone Schiebetür;GE;SP1
+1910668286;batch5;;Positionsschalter;GE;SP1
+1910668287;batch5;;Notentriegelungsschlüssel M6;GE;SP1
+1910668288;batch5;;Gummipuffer D11;GE;SP1
+1910668289;batch5;;Türführung groß;GE;SP1
+1910668290;batch5;;Türführung komplett (Satz = 2);GE;SP1
+1910668291;batch5;;Türverriegelung L2 (TV02/247);GE;SP1
+1910668292;batch5;;Zugfeder TS6;GE;SP1
+1910668293;batch5;;Feder zu Drehtüre;GE;SP1
+1910668294;batch5;;Laufrolle D56 mm;GE;SP1
 1910668295;batch5;;Türkontak PZ73D/B 18mm;Z0;SP1
-1910668296;batch5;;Türverriegelung DR0;Z0;SP1
+1910668296;batch5;;Türverriegelung DR0;GE;SP1
 1910668297;batch5;;Führungseinlage 5,5;Z0;SP1
-1910668298;batch5;;Notentriegelungsschlüssel L193 mm;Z0;SP1
-1910668299;batch5;;Nylonkordel L1540 mm;Z0;SP1
-1910668300;batch5;;Gummipuffer Laufwagenschlange;Z0;SP1
-1910668301;batch5;;Türverriegelung;Z0;SP1
+1910668298;batch5;;Notentriegelungsschlüssel L193 mm;GE;SP1
+1910668299;batch5;;Nylonkordel L1540 mm;GE;SP1
+1910668300;batch5;;Gummipuffer Laufwagenschlange;GE;SP1
+1910668301;batch5;;Türverriegelung;GE;SP1
 1910668302;batch5;;Berührschutz für Türkontakt 5KS;Z0;SP1
 1910668303;batch5;;Türrolle D45;Z0;SP1
 1910668304;batch5;;Nylonkordel D 3mm;Z0;SP1
@@ -10267,62 +10267,62 @@ Vulkol.""";GE;SP1
 1910668312;batch5;;Rollenschalter;Z0;SP1
 1910668313;batch5;;Notentriegelung;Z0;SP1
 1910668314;batch5;;Notentriegelungsschlüssel Dreikant;Z0;SP1
-1910668315;batch5;;Magnetschalter BN 32-R;Z0;SP1
-1910668316;batch5;;Türkontakt AZ07 K mit Brücke;Z0;SP1
-1910668318;batch5;;Magnetschalter BN 65-RZ;Z0;SP1
-1910668319;batch5;;Auslösemagnet Kpl.;Z0;SP1
-1910668320;batch5;;Leuchttaster ELAN;Z0;SP1
-1910668321;batch5;;Magnetschalter BN 325-R-1279;Z0;SP1
-1910668322;batch5;;Türkontaktbrücke AZ 02 B/16;Z0;SP1
-1910668323;batch5;;Magnetschalter MKF24ARAKX;Z0;SP1
-1910668324;batch5;;Notlichtgerät KNSG 300 V002;Z0;SP1
-1910668325;batch5;;Motor für Türantrieb;Z0;SP1
-1910668326;batch5;;Türsteuergerät TSG V4;Z0;SP1
-1910668327;batch5;;Gegendruckrolle für Blechtürblatt;Z0;SP1
-1910668329;batch5;;Kontaktbrücke AZ 06/07 B/21;Z0;SP1
-1910668330;batch5;;Zwangstürkontakt rund;Z0;SP1
-1910668331;batch5;;Zugfeder mit Öse;Z0;SP1
-1910668332;batch5;;Gummipuffer Typ A;Z0;SP1
-1910668333;batch5;;Anschlagpuffer;Z0;SP1
-1910668334;batch5;;Mikro - Schalter;Z0;SP1
-1910668335;batch5;;Türblattführung;Z0;SP1
-1910668336;batch5;;Türkontakt;Z0;SP1
-1910668337;batch5;;Schließfeder (Zugfeder);Z0;SP1
-1910668338;batch5;;Rollenschließgewicht ohne Kugellager;Z0;SP1
-1910668339;batch5;;Gummipuffer mit Gewinde;Z0;SP1
-1910668340;batch5;;Rolle für Hakenriegel;Z0;SP1
-1910668341;batch5;;Verstellbare Türverkleidungsführung;Z0;SP1
-1910668342;batch5;;Teleskopseil Tür;Z0;SP1
-1910668343;batch5;;O - Ring;Z0;SP1
-1910668344;batch5;;Türkontakt zwang;Z0;SP1
-1910668346;batch5;;Schließgewichtsseil Perlon;Z0;SP1
-1910668347;batch5;;Seilbefestigung 1;Z0;SP1
-1910668348;batch5;;Verriegelungsrolle für TA 9V;Z0;SP1
-1910668349;batch5;;Teleskopseil 1000mm;Z0;SP1
-1910668350;batch5;;Beipackbeutel für Seile;Z0;SP1
-1910668351;batch5;;Rolle für Teleskopseil;Z0;SP1
-1910668352;batch5;;Laufrolle Ø 65 komplett langsam;Z0;SP1
-1910668353;batch5;;Laufrolle D65 komplett schnell;Z0;SP1
-1910668354;batch5;;Seilbefestigung;Z0;SP1
-1910668355;batch5;;Gummipuffer;Z0;SP1
-1910668356;batch5;;Gegendruckrolle;Z0;SP1
-1910668357;batch5;;Klemmplatte für Zahnriemen;Z0;SP1
-1910668358;batch5;;Türkontakt Typ PZ 73 / IP20;Z0;SP1
-1910668359;batch5;;Führungsblech;Z0;SP1
-1910668361;batch5;;Schließgewichtsseil Perlonseil;Z0;SP1
-1910668362;batch5;;Steuergerät;Z0;SP1
-1910668363;batch5;;Verriegelung links;Z0;SP1
-1910668364;batch5;;Schließfeder TTS 5;Z0;SP1
-1910668365;batch5;;Gegendruckrolle komplett mit Bolzen 1;Z0;SP1
-1910668366;batch5;;Verriegelung komplett, links;Z0;SP1
-1910668367;batch5;;Gegendruckrolle komplett mit Schraube;Z0;SP1
-1910668368;batch5;;Teleskopseil;Z0;SP1
-1910668369;batch5;;Kontaktbrücke Typ PZ 21;Z0;SP1
-1910668370;batch5;;Schließgewichtsseil;Z0;SP1
-1910668371;batch5;;Gummipuffer für Schließgewicht;Z0;SP1
-1910668372;batch5;;Gegendruckrolle komplett mit Bolzen;Z0;SP1
-1910668373;batch5;;Türkontakt Typ AZ 06 KT;Z0;SP1
-1910668374;batch5;;Zugfeder für Mitnehmer;Z0;SP1
+1910668315;batch5;;Magnetschalter BN 32-R;GE;SP1
+1910668316;batch5;;Türkontakt AZ07 K mit Brücke;GE;SP1
+1910668318;batch5;;Magnetschalter BN 65-RZ;GE;SP1
+1910668319;batch5;;Auslösemagnet Kpl.;GE;SP1
+1910668320;batch5;;Leuchttaster ELAN;GE;SP1
+1910668321;batch5;;Magnetschalter BN 325-R-1279;GE;SP1
+1910668322;batch5;;Türkontaktbrücke AZ 02 B/16;GE;SP1
+1910668323;batch5;;Magnetschalter MKF24ARAKX;GE;SP1
+1910668324;batch5;;Notlichtgerät KNSG 300 V002;GE;SP1
+1910668325;batch5;;Motor für Türantrieb;GE;SP1
+1910668326;batch5;;Türsteuergerät TSG V4;GE;SP1
+1910668327;batch5;;Gegendruckrolle für Blechtürblatt;GE;SP1
+1910668329;batch5;;Kontaktbrücke AZ 06/07 B/21;GE;SP1
+1910668330;batch5;;Zwangstürkontakt rund;GE;SP1
+1910668331;batch5;;Zugfeder mit Öse;GE;SP1
+1910668332;batch5;;Gummipuffer Typ A;GE;SP1
+1910668333;batch5;;Anschlagpuffer;GE;SP1
+1910668334;batch5;;Mikro - Schalter;GE;SP1
+1910668335;batch5;;Türblattführung;GE;SP1
+1910668336;batch5;;Türkontakt;GE;SP1
+1910668337;batch5;;Schließfeder (Zugfeder);GE;SP1
+1910668338;batch5;;Rollenschließgewicht ohne Kugellager;GE;SP1
+1910668339;batch5;;Gummipuffer mit Gewinde;GE;SP1
+1910668340;batch5;;Rolle für Hakenriegel;GE;SP1
+1910668341;batch5;;Verstellbare Türverkleidungsführung;GE;SP1
+1910668342;batch5;;Teleskopseil Tür;GE;SP1
+1910668343;batch5;;O - Ring;GE;SP1
+1910668344;batch5;;Türkontakt zwang;GE;SP1
+1910668346;batch5;;Schließgewichtsseil Perlon;GE;SP1
+1910668347;batch5;;Seilbefestigung 1;GE;SP1
+1910668348;batch5;;Verriegelungsrolle für TA 9V;GE;SP1
+1910668349;batch5;;Teleskopseil 1000mm;GE;SP1
+1910668350;batch5;;Beipackbeutel für Seile;GE;SP1
+1910668351;batch5;;Rolle für Teleskopseil;GE;SP1
+1910668352;batch5;;Laufrolle Ø 65 komplett langsam;GE;SP1
+1910668353;batch5;;Laufrolle D65 komplett schnell;GE;SP1
+1910668354;batch5;;Seilbefestigung;GE;SP1
+1910668355;batch5;;Gummipuffer;GE;SP1
+1910668356;batch5;;Gegendruckrolle;GE;SP1
+1910668357;batch5;;Klemmplatte für Zahnriemen;GE;SP1
+1910668358;batch5;;Türkontakt Typ PZ 73 / IP20;GE;SP1
+1910668359;batch5;;Führungsblech;GE;SP1
+1910668361;batch5;;Schließgewichtsseil Perlonseil;GE;SP1
+1910668362;batch5;;Steuergerät;GE;SP1
+1910668363;batch5;;Verriegelung links;GE;SP1
+1910668364;batch5;;Schließfeder TTS 5;GE;SP1
+1910668365;batch5;;Gegendruckrolle komplett mit Bolzen 1;GE;SP1
+1910668366;batch5;;Verriegelung komplett, links;GE;SP1
+1910668367;batch5;;Gegendruckrolle komplett mit Schraube;GE;SP1
+1910668368;batch5;;Teleskopseil;GE;SP1
+1910668369;batch5;;Kontaktbrücke Typ PZ 21;GE;SP1
+1910668370;batch5;;Schließgewichtsseil;GE;SP1
+1910668371;batch5;;Gummipuffer für Schließgewicht;GE;SP1
+1910668372;batch5;;Gegendruckrolle komplett mit Bolzen;GE;SP1
+1910668373;batch5;;Türkontakt Typ AZ 06 KT;GE;SP1
+1910668374;batch5;;Zugfeder für Mitnehmer;GE;SP1
 1910668375;batch5;;Hilfsstromgerät HSG 121.2 G;Z0;SP1
 1910668376;batch5;;LED Röhre, T8, 20 W, 840, L: 1200 mm;Z0;SP1
 1910668377;batch5;;LED Röhre, T8, 22 W, 840, L: 1500 mm;Z0;SP1
@@ -10332,48 +10332,48 @@ Vulkol.""";GE;SP1
 1910668381;batch5;;Hilfsstromquelle 12V 2Ah waagerechte;Z0;SP1
 1910668382;batch5;;Hilfsstromquelle 12V 7.2Ah;Z0;SP1
 1910668383;batch5;;Hilfsstromquelle 24 VDC 2Ah;Z0;SP1
-1910668384;batch5;;USV-Anlage IDG800;Z0;SP1
-1910668385;batch5;;Glühlampe, 30 V, 1,4 W, BA7s;Z0;SP1
-1910668386;batch5;;"Taster VB 42 XI rot, ""neutral""";Z0;SP1
-1910668387;batch5;;"Taster VB 42 XI rot, ""Pfeil""";Z0;SP1
-1910668388;batch5;;"Taster Schäfer B50R XL ""Pfeil""";Z0;SP1
-1910668389;batch5;;"Taster VB42 M rot, ""neutral""";Z0;SP1
-1910668390;batch5;;"Taster Schäfer B50R XL ""neutral""";Z0;SP1
-1910668391;batch5;;Schlüsselschalter Standard;Z0;SP1
+1910668384;batch5;;USV-Anlage IDG800;GE;SP1
+1910668385;batch5;;Glühlampe, 30 V, 1,4 W, BA7s;GE;SP1
+1910668386;batch5;;"Taster VB 42 XI rot, ""neutral""";GE;SP1
+1910668387;batch5;;"Taster VB 42 XI rot, ""Pfeil""";GE;SP1
+1910668388;batch5;;"Taster Schäfer B50R XL ""Pfeil""";GE;SP1
+1910668389;batch5;;"Taster VB42 M rot, ""neutral""";GE;SP1
+1910668390;batch5;;"Taster Schäfer B50R XL ""neutral""";GE;SP1
+1910668391;batch5;;Schlüsselschalter Standard;GE;SP1
 1910668392;batch5;;Kurzhubtaster MT56;Z0;SP1
 1910668393;batch5;;Kurzhubtaster;Z0;SP1
 1910668394;batch5;;Taster rund VB42M;;
 1910668395;batch5;;KT40 TH, 1NO+1NC, db gelb, S039 TH Alarm;;
-1910668396;batch5;;Akku 12V 6.0AH;Z0;SP1
-1910668397;batch5;;Hilfsschütz 1S+1Ö, 230V 50/60Hz;Z0;SP1
-1910668398;batch5;;Relais 12 V DC (Typ DOLD);Z0;SP1
-1910668399;batch5;;Schaltnetzteil SNSNT10024DS;Z0;SP1
-1910668400;batch5;;Relaisesockel;Z0;SP1
-1910668401;batch5;;Sicherheitsrelais;Z0;SP1
-1910668402;batch5;;Magnetschalter MKF24ARAF;Z0;SP1
-1910668403;batch5;;Magnetschalter, 250V-MCO74AAP SEMATIC;Z0;SP1
-1910668404;batch5;;Schließfeder Schachttüre;Z0;SP1
-1910668406;batch5;;Notentriegelung für Schachttüren (Satz);Z0;SP1
-1910668407;batch5;;Obere Rolle für Schwert (mit Exzenter);Z0;SP1
-1910668408;batch5;;Untere Rolle für Schwert (ohne Exzenter);Z0;SP1
+1910668396;batch5;;Akku 12V 6.0AH;GE;SP1
+1910668397;batch5;;Hilfsschütz 1S+1Ö, 230V 50/60Hz;GE;SP1
+1910668398;batch5;;Relais 12 V DC (Typ DOLD);GE;SP1
+1910668399;batch5;;Schaltnetzteil SNSNT10024DS;GE;SP1
+1910668400;batch5;;Relaisesockel;GE;SP1
+1910668401;batch5;;Sicherheitsrelais;GE;SP1
+1910668402;batch5;;Magnetschalter MKF24ARAF;GE;SP1
+1910668403;batch5;;Magnetschalter, 250V-MCO74AAP SEMATIC;GE;SP1
+1910668404;batch5;;Schließfeder Schachttüre;GE;SP1
+1910668406;batch5;;Notentriegelung für Schachttüren (Satz);GE;SP1
+1910668407;batch5;;Obere Rolle für Schwert (mit Exzenter);GE;SP1
+1910668408;batch5;;Untere Rolle für Schwert (ohne Exzenter);GE;SP1
 1910668409;batch5;;Seilrollen-Träger;Z0;SP1
-1910668410;batch5;;Türsteuergerät;Z0;SP1
-1910668411;batch5;;Schwingmetall-Befestigung AT 18 / AT 25;Z0;SP1
-1910668412;batch5;;Montagewinkel;Z0;SP1
-1910668413;batch5;;Türmitnehmer (12 mm) 2 Stück;Z0;SP1
-1910668414;batch5;;Umlenkvorrichtung;Z0;SP1
-1910668415;batch5;;Zahnriemen STS (12 mm);Z0;SP1
-1910668416;batch5;;Türantrieb AT 40 komplett, 30 V, rechts,;Z0;SP1
-1910668417;batch5;;Türantrieb AT 40 komplett, 30 V, links;Z0;SP1
-1910668418;batch5;;Türantrieb AT 40 komplett, 30 V, rechts;Z0;SP1
-1910668419;batch5;;Türsteuergerät AT 40, CAN;Z0;SP1
-1910668420;batch5;;Schmierkartusche Fett;Z0;SP1
-1910668421;batch5;;Gleitführung Einlage;Z0;SP1
-1910668422;batch5;;Guide position ref. system PRS-2;Z0;SP1
-1910668423;batch5;;Guide shoe insert;Z0;SP1
-1910668424;batch5;;Akku 6 V / 4,5 Ah;Z0;SP1
-1910668425;batch5;;Notstromgerät NSG 230 / 6 V, 4,5 Ah;Z0;SP1
-1910668426;batch5;;Akku 12 V 5 Ah / 20 hr;Z0;SP1
+1910668410;batch5;;Türsteuergerät;GE;SP1
+1910668411;batch5;;Schwingmetall-Befestigung AT 18 / AT 25;GE;SP1
+1910668412;batch5;;Montagewinkel;GE;SP1
+1910668413;batch5;;Türmitnehmer (12 mm) 2 Stück;GE;SP1
+1910668414;batch5;;Umlenkvorrichtung;GE;SP1
+1910668415;batch5;;Zahnriemen STS (12 mm);GE;SP1
+1910668416;batch5;;Türantrieb AT 40 komplett, 30 V, rechts,;GE;SP1
+1910668417;batch5;;Türantrieb AT 40 komplett, 30 V, links;GE;SP1
+1910668418;batch5;;Türantrieb AT 40 komplett, 30 V, rechts;GE;SP1
+1910668419;batch5;;Türsteuergerät AT 40, CAN;GE;SP1
+1910668420;batch5;;Schmierkartusche Fett;GE;SP1
+1910668421;batch5;;Gleitführung Einlage;GE;SP1
+1910668422;batch5;;Guide position ref. system PRS-2;GE;SP1
+1910668423;batch5;;Guide shoe insert;GE;SP1
+1910668424;batch5;;Akku 6 V / 4,5 Ah;GE;SP1
+1910668425;batch5;;Notstromgerät NSG 230 / 6 V, 4,5 Ah;GE;SP1
+1910668426;batch5;;Akku 12 V 5 Ah / 20 hr;GE;SP1
 1910668427;batch5;;Hupe Typ 631;Z0;SP1
 1910668428;batch5;;LED-Lampe  8 W, E27, matt;Z0;SP1
 1910668429;batch5;;Niedervolt-Halogenlampe 12 V DC, 50 W;Z0;SP1
@@ -10382,60 +10382,60 @@ Vulkol.""";GE;SP1
 1910668432;batch5;;Lampe 240 V, 5 W, 840;Z0;SP1
 1910668433;batch5;;Stromversorgung TRIO POWER;Z0;SP1
 1910668434;batch5;;Zeitblock;Z0;SP1
-1910668435;batch5;;ESE Adapter;Z0;SP1
-1910668436;batch5;;Microschalter M697, rechts;Z0;SP1
-1910668437;batch5;;Microschalter M697, links;Z0;SP1
-1910668438;batch5;;Führungsschuh komplett mit Trägerelement;Z0;SP1
-1910668439;batch5;;Rolle  D = 200;Z0;SP1
-1910668440;batch5;;Türkontakt AST821;Z0;SP1
-1910668441;batch5;;Feder für automatische Türschließung;Z0;SP1
-1910668442;batch5;;Feder;Z0;SP1
-1910668443;batch5;;Zahnscheibe konisch;Z0;SP1
-1910668444;batch5;;Türseil;Z0;SP1
-1910668445;batch5;;Kontakt Hydrabelt KF-2V;Z0;SP1
-1910668446;batch5;;Flachrillenriemen PJ965;Z0;SP1
-1910668447;batch5;;Führungsschuh-Set;Z0;SP1
-1910668448;batch5;;Türkontakt Wittur;Z0;SP1
-1910668449;batch5;;Laufrollen Set;Z0;SP1
-1910668450;batch5;;Schließgewichtseil;Z0;SP1
-1910668451;batch5;;Riegelrolle;Z0;SP1
-1910668452;batch5;;Rolleneinheit, rechts;Z0;SP1
-1910668453;batch5;;Art. 89627G02;Z0;SP1
-1910668454;batch5;;Schließfeder;Z0;SP1
+1910668435;batch5;;ESE Adapter;GE;SP1
+1910668436;batch5;;Microschalter M697, rechts;GE;SP1
+1910668437;batch5;;Microschalter M697, links;GE;SP1
+1910668438;batch5;;Führungsschuh komplett mit Trägerelement;GE;SP1
+1910668439;batch5;;Rolle  D = 200;GE;SP1
+1910668440;batch5;;Türkontakt AST821;GE;SP1
+1910668441;batch5;;Feder für automatische Türschließung;GE;SP1
+1910668442;batch5;;Feder;GE;SP1
+1910668443;batch5;;Zahnscheibe konisch;GE;SP1
+1910668444;batch5;;Türseil;GE;SP1
+1910668445;batch5;;Kontakt Hydrabelt KF-2V;GE;SP1
+1910668446;batch5;;Flachrillenriemen PJ965;GE;SP1
+1910668447;batch5;;Führungsschuh-Set;GE;SP1
+1910668448;batch5;;Türkontakt Wittur;GE;SP1
+1910668449;batch5;;Laufrollen Set;GE;SP1
+1910668450;batch5;;Schließgewichtseil;GE;SP1
+1910668451;batch5;;Riegelrolle;GE;SP1
+1910668452;batch5;;Rolleneinheit, rechts;GE;SP1
+1910668453;batch5;;Art. 89627G02;GE;SP1
+1910668454;batch5;;Schließfeder;GE;SP1
 1910668455;batch5;;Feder f Schachttürschließung;Z0;SP1
-1910668456;batch5;;Rolle;Z0;SP1
+1910668456;batch5;;Rolle;GE;SP1
 1910668457;batch5;;Rillenriemen;Z0;SP1
-1910668458;batch5;;Türführung VF92;Z0;SP1
-1910668459;batch5;;MIDI/SUPRA V2 ERSATZTEILKIT EN 81-20/50;Z0;SP1
-1910668460;batch5;;UMRÜSTUNGSSATZ FÜR SDS DC-PWM;Z0;SP1
-1910668461;batch5;;VERKABELT DC MOTOR GR 63X25,24VCC-1500MM;Z0;SP1
-1910668462;batch5;;ECO+ STEUERGERÄT;Z0;SP1
-1910668463;batch5;;EBRA Steuerungsplatine;Z0;SP1
-1910668464;batch5;;HAKENRIEGEL KOMPLETT FUER TYP 11/41 LINK;Z0;SP1
-1910668465;batch5;;ROLLER DIAMETER 200MM WRG WIDE 38MM.;Z0;SP1
+1910668458;batch5;;Türführung VF92;GE;SP1
+1910668459;batch5;;MIDI/SUPRA V2 ERSATZTEILKIT EN 81-20/50;GE;SP1
+1910668460;batch5;;UMRÜSTUNGSSATZ FÜR SDS DC-PWM;GE;SP1
+1910668461;batch5;;VERKABELT DC MOTOR GR 63X25,24VCC-1500MM;GE;SP1
+1910668462;batch5;;ECO+ STEUERGERÄT;GE;SP1
+1910668463;batch5;;EBRA Steuerungsplatine;GE;SP1
+1910668464;batch5;;HAKENRIEGEL KOMPLETT FUER TYP 11/41 LINK;GE;SP1
+1910668465;batch5;;ROLLER DIAMETER 200MM WRG WIDE 38MM.;GE;SP1
 1910668466;batch5;;CALL BUT.L-BDU INT.WHITE/BLUE1;;
-1910668467;batch5;;ROPE PULLEY, TENSION WEIGHT, D214X20MM;Z0;SP1
-1910668469;batch5;;ROLLER DIAMETER 150MM WRG WIDE 27MM.;Z0;SP1
-1910668470;batch5;;OBERE HD PREMIUM LAUFROLLE, D56 MM HYDRA;Z0;SP1
-1910668471;batch5;;ROLLER DIAMETER 100MM. WRG;Z0;SP1
-1910668472;batch5;;2 X ROLLER DIAMETER 53MM (EXTERNAL 60MM);Z0;SP1
-1910668473;batch5;;LAUFROLLE D44MM FINELINE;Z0;SP1
-1910668474;batch5;;HAKENRIEGELROLLEN STANDARD L21,3 SCHWARZ;Z0;SP1
-1910668475;batch5;;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L440 MM;Z0;SP1
-1910668476;batch5;;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L315 MM;Z0;SP1
-1910668477;batch5;;UNTERE GEGENROLLE FÜR LAUFWAGEN D.36MM;Z0;SP1
+1910668467;batch5;;ROPE PULLEY, TENSION WEIGHT, D214X20MM;GE;SP1
+1910668469;batch5;;ROLLER DIAMETER 150MM WRG WIDE 27MM.;GE;SP1
+1910668470;batch5;;OBERE HD PREMIUM LAUFROLLE, D56 MM HYDRA;GE;SP1
+1910668471;batch5;;ROLLER DIAMETER 100MM. WRG;GE;SP1
+1910668472;batch5;;2 X ROLLER DIAMETER 53MM (EXTERNAL 60MM);GE;SP1
+1910668473;batch5;;LAUFROLLE D44MM FINELINE;GE;SP1
+1910668474;batch5;;HAKENRIEGELROLLEN STANDARD L21,3 SCHWARZ;GE;SP1
+1910668475;batch5;;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L440 MM;GE;SP1
+1910668476;batch5;;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L315 MM;GE;SP1
+1910668477;batch5;;UNTERE GEGENROLLE FÜR LAUFWAGEN D.36MM;GE;SP1
 1910668478;batch5;;DOORS CONTACT KF9074;;
-1910668479;batch5;;FILZ FÜR GEGENGEWICHT L=1000 MM;Z0;SP1
-1910668480;batch5;;SYNCHRON/SCHLIEßROLLE HYDRA D64MM;Z0;SP1
+1910668479;batch5;;FILZ FÜR GEGENGEWICHT L=1000 MM;GE;SP1
+1910668480;batch5;;SYNCHRON/SCHLIEßROLLE HYDRA D64MM;GE;SP1
 1910668481;batch5;;TOOTH BELT, HDT5M 12;Z0;SP1
-1910668482;batch5;;SAFETY SWITCH SEL1-A1Z (S274093);Z0;SP1
-1910668483;batch5;;EBRA SLIDING JAW, GDE RAIL 16MM;Z0;SP1
-1910668484;batch5;;GEGENROLLE EXZENTER FÜR ARIES;Z0;SP1
-1910668485;batch5;;CONTACT BRIDGE KF 9075;Z0;SP1
-1910668486;batch5;;DOOR PANEL SHOES KIT (4PCS);Z0;SP1
-1910668487;batch5;;EXTENSION SPRING STEEL WIRE;Z0;SP1
+1910668482;batch5;;SAFETY SWITCH SEL1-A1Z (S274093);GE;SP1
+1910668483;batch5;;EBRA SLIDING JAW, GDE RAIL 16MM;GE;SP1
+1910668484;batch5;;GEGENROLLE EXZENTER FÜR ARIES;GE;SP1
+1910668485;batch5;;CONTACT BRIDGE KF 9075;GE;SP1
+1910668486;batch5;;DOOR PANEL SHOES KIT (4PCS);GE;SP1
+1910668487;batch5;;EXTENSION SPRING STEEL WIRE;GE;SP1
 1910668488;batch5;;TRÄGERELEMENT / FÜHRUNGSSCHUH;;
-1910668489;batch5;;SLIDING ELEMENT EBRA 20;Z0;SP1
+1910668489;batch5;;SLIDING ELEMENT EBRA 20;GE;SP1
 1910668490;batch5;;FÜHRUNGSSCHUH GELOCHT;;
 1910668491;batch5;;ÖFFNUNG GERÄTE-ETIKETT, 95X110MM;;
 8000831073;unbekannt;;ZB Begrenzer GBTK 6024-300S GBTK 6024-30;Z0;SP2
@@ -10447,7 +10447,7 @@ Vulkol.""";GE;SP1
 1000261678;60760000407;;Elekt.-und Leitungs-Set2 12.5 Doppeld.;AE;SP6
 1000262536;99000009810;;Distanzhülse DAB530 D50x24/30x13;;SP1
 1000262773;unbekannt;;Handlüftstab RSD10 Set;Z0;SP1
-8001414701;5601390;;Zylinderrollenlager NJ310E;Z0;SP4
+8001414701;5601390;;Zylinderrollenlager NJ310E;GE;SP1
 8001253856;unbekannt;;Set Bremsenleitung PMB300M/XM A17;Z0;SP1
 1910163399;unbekannt;;Fenac-Ersatzteilkit FNC 58SC;GE;SP1
 1000260871;4002586;;Fuehrungsschuh GG25;GE;SP1
@@ -10477,4 +10477,5 @@ Vulkol.""";GE;SP1
 1910366091;99500001847;;Widerstand 330R 25W Konfekt. 500mm;Z0;SP1
 1000264937;65100009251_P;;ZB Leiterplatte MHC DB Voice;GE;SP1
 11111111;;;Test Material;;
-8001363202;99000009636;;Pendelrollenlager 23048 C3;GE;SP1
+8001363202;99000009636;;Pendelrollenlager 23048 C3;Z0;SP1
+1910160575;SBC Spain 10084940;;7-Zoll-TFT-Display mit synth. Sprache;GE;SP1
