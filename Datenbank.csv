@@ -1,10 +1,10 @@
 P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910512138;0000471034;;Sicherungsring 90x3 DIN471;GE;SP1
 1910564059;0000625342;;Rillenkugellager 6211-2ZR;AE;SP6
-1910367633;0000912134;;Zylinderschraube M16x65 8.8 vz;;
+1910367633;0000912134;;Zylinderschraube M16x65 8.8 vz;EU;SP5
 8000694924;0000912168;;Zylinderschraube M3x12 8.8 vz;GE;SP1
 1910367635;0000912172;;Zylinderschraube M4x12 8.8 verzinkt;GE;SP2
-1910367636;0000912188;;Zylinderschraube M4x10 8.8 vz;;
+1910367636;0000912188;;Zylinderschraube M4x10 8.8 vz;EU;SP5
 8000694948;0000912200;;Zylinderschraube M4x8 8.8 vz DIN912;GE;SP2
 1910367637;0000914005;;Gewindestift M5x16 45H St vz;GE;SP1
 8001363246;0000988008;;Passscheibe 20x28x1;EU;SP5
@@ -205,7 +205,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910367917;0099206600;;Naeherungsschalter induktiv;GE;SP2
 1910363297;0099207170;;Inspektionskasten TCI Steuerung;GE;SP1
 1910207158;0099207600;;Naeherungsschalter;GE;SP1
-1910209000;0099208120;0099208120_L;Drehgeber Hohlwelle 2x2048 EnDat ECN113;GE;SP2
+1910209000;0099208120;0099208120_L;Drehgeber Hohlwelle 2x2048 EnDat ECN113;GE;SP1
 1910367920;0099208170;;Rueckholsteuerungskasten;AE;SP6
 1910367924;0099208250;;Magnet Oxid 380;GE;SP1
 1910207160;0099209070;;Mikroschalter mit Schraubanschluss;AE;SP6
@@ -581,17 +581,17 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561176;10082496 Nr. SBC Spain!;batch4;KABELSATZ FÜR GEBER ANTRIEB TK-DOD 850 M;GE;SP1
 1910561227;10082613 Nr. SBC Spain!;;ANSCHLUSSPLATTE FÜR DRUCKTASTER IMC CONE;GE;SP1
 1910561228;10082614 Nr. SBC Spain!;batch4;ANSCHLUSSPLATTE FÜR DRUCKTASTER IMC EXP;GE;SP1
-1910561229;10082623 Nr. SBC Spain! P1E=EU Löschvermerk;;STEUERPLATTE PIA CMC4+ 81: 20/50;;
+1910561229;10082623 Nr. SBC Spain! P1E=EU Löschvermerk;;STEUERPLATTE PIA CMC4+ 81: 20/50;EU;SP5
 1910561196;10082666 Nr. SBC Spain!;batch4;DRUCKTASTER DOT DB1 STANDARD DOPPELPFEIL;GE;SP1
 1910561153;10082892 Nr. SBC Spain!;batch4;EINLAGE 5 MM ELEMENT;GE;SP1
 1910561177;10082941 Nr. SBC Spain!;batch4;KABELSATZ FÜR DIE VERBINDUNG DES LED-STR;GE;SP1
 1910561154;10083077 Nr. SBC Spain!;batch4;GLEITSCHUH MIT GEGENGEWICHT ELEMENT;GE;SP1
 1910561178;10083132 Nr. SBC Spain!;batch4;KABELSATZ FÜR MOTORLEISTUNG VF GTW9;GE;SP1
-1910561230;10083164 Nr. SBC Spain! P1E=EU Löschvermerk;;PLATTE UBF CMC-4+ 81:20/50;;
+1910561230;10083164 Nr. SBC Spain! P1E=EU Löschvermerk;;PLATTE UBF CMC-4+ 81:20/50;EU;SP5
 1910561179;10083184 Nr. SBC Spain!;batch4;KABELSATZ FÜR DEN ALARMDRUCKTASTER IMC-C;GE;SP1
 1910561180;10083185 Nr. SBC Spain!;batch4;KABELSATZ FÜR DISPLAY IMC-CONEX CMC-4+;GE;SP1
 1910561181;10083187 Nr. SBC Spain!;batch4;KABELSATZ FÜR ELEMENTE DES HALLS IMC-CON;GE;SP1
-1910561141;10083198 Nr. SBC Spain! P1E=EU Löschvermerk;;DRUCKTASTERSCHLÜSSEL DOT NR. J9056;;
+1910561141;10083198 Nr. SBC Spain! P1E=EU Löschvermerk;;DRUCKTASTERSCHLÜSSEL DOT NR. J9056;EU;SP5
 1910561142;10083201 Nr. SBC Spain!;batch4;SCHLÜSSEL NR. J9078 FÜR CHALTER DOT;GE;SP1
 1910561198;10083214 Nr. SBC Spain!;batch4;DRUCKTASTER DOT DB1 STANDARD TÜREN SCHL;GE;SP1
 1910561214;10083221 Nr. SBC Spain!;batch4;GLASABDECKUNG LOP-50 FÜR DAS TFT-DISPLAY;GE;SP1
@@ -610,7 +610,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561185;10084822 Nr. SBC Spain!;batch4;KABEL MAX CMC4 / CMC4+ / CMC4+ 20.50;GE;SP1
 1910561199;10084991 Nr. SBC Spain!;batch4;VANDALISMUSSICHER DRUCKTASTER BAS 231 0;GE;SP1
 1910561200;10084997 Nr. SBC Spain!;batch4;VANDALISMUSSICHER DRUCKTASTER BAS 231 A;GE;SP1
-1910561201;10085000 Nr. SBC Spain! P1E=EU Löschvermerk;;VANDALISMUSSICHER DRUCKTASTER BAS 231 P;;
+1910561201;10085000 Nr. SBC Spain! P1E=EU Löschvermerk;;VANDALISMUSSICHER DRUCKTASTER BAS 231 P;EU;SP5
 1910561203;10085030 Nr. SBC Spain!;batch4;DRUCKTASTER DOT DB2 STANDARD 0;GE;SP1
 1910561204;10085031 Nr. SBC Spain!;batch4;DRUCKTASTER DOT DB2 STANDARD 1;GE;SP1
 1910561206;10085033 Nr. SBC Spain!;batch4;DRUCKTASTER DOT DB2 STANDARD 2;GE;SP1
@@ -666,17 +666,17 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561344;unbekannt;batch4;Beschriftungsfeld schnappbar 60x30 weiß;GE;SP1
 1910561345;unbekannt;batch4;Blinklicht Warnsignal 24V 5m EN81-20;GE;SP1
 1910561346;unbekannt;batch4;Flach-Rundkabel 10pol. 5m Pfostenverb.;GE;SP1
-1910561387;unbekannt;batch4;Drücker Tastplatte R50 50mm LED rot;;
+1910561387;unbekannt;batch4;Drücker Tastplatte R50 50mm LED rot;GE;SP1
 1910561348;unbekannt;batch4;Einlage EEL 28 PE WSMEL Schiene 28,6mm;GE;SP1
 1910561349;unbekannt;batch4;Infofeld 55x150mm Plexi Logo Brandfall;GE;SP1
 1910561388;unbekannt;batch4;Drücker Tastplatte Q32 32x32mm LED rot;GE;SP1
 1910561243;unbekannt;batch4;HILFSSCHALTER 1Ö;;SP1
-1910561389;unbekannt;batch4;Drücker Tastplatte Q50 50x50mm LED rot;;
+1910561389;unbekannt;batch4;Drücker Tastplatte Q50 50x50mm LED rot;GE;SP1
 1910561352;unbekannt;batch4;Beschriftungsfeld 60x32mm V2A weiß;GE;SP1
 1910561353;unbekannt;batch4;26. Beschriftungsfeld 80x50mm V2A weiß;GE;SP1
 1910561354;unbekannt;batch4;Schlüsseltaster QK50 LED rot V2A;GE;SP1
 1910561355;unbekannt;batch4;Schlüsseltaster QK32 LED rot V2A ST;GE;SP1
-1910561390;unbekannt;batch4;Drücker DR90 Tastplatte 33x33mm LED rot;;
+1910561390;unbekannt;batch4;Drücker DR90 Tastplatte 33x33mm LED rot;GE;SP1
 1910561357;unbekannt;batch4;Schlüsselschalter QK32 LED rot V2A;;SP1
 1910561394;unbekannt;batch4;Etagenplatine LED rot Buselektronik;GE;SP1
 1910561396;unbekannt;batch4;Etagenplatine LED rot Weiterfahrtanzeige;GE;SP1
@@ -692,8 +692,8 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561365;unbekannt;batch4;Notrufsystem 2N® Lift1 Grundgerät COP;GE;SP1
 1910561366;unbekannt;batch4;Notrufsystem 2N® Lift1 Grundgerät m.Alt.;GE;SP1
 1910561367;unbekannt;batch4;Notrufsystem 2N® Lift1 Grundgerät;GE;SP1
-1910561368;unbekannt;batch4;tke Aufzüge set Lift8;;
-1910561369;unbekannt;batch4;2N® Lift8 Central Unit;;
+1910561368;unbekannt;batch4;tke Aufzüge set Lift8;GE;SP1
+1910561369;unbekannt;batch4;2N® Lift8 Central Unit;GE;SP1
 1910561247;unbekannt;batch4;Türführung Selcom;;SP1
 1910561370;unbekannt;batch4;2N® Lift8 RS232 board;GE;SP1
 1910561371;unbekannt;batch4;2N® Lift8 Machine room unit;GE;SP1
@@ -711,7 +711,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561382;unbekannt;batch4;cegard/Lift Tx/Rx-1730-16,;GE;SP1
 1910561383;unbekannt;batch4;Connection pkg for brake resistor 1.5mm²;GE;SP1
 1910561384;unbekannt;batch4;Control unit plug-in cegard/Lift LX, LY;GE;SP1
-1910561385;unbekannt;batch4;Sicherheitssystem Lichtschranke;;
+1910561385;unbekannt;batch4;Sicherheitssystem Lichtschranke;;SP1
 1910561343;unbekannt;batch4;PCB Türsteuerung VF5+ Relay Links;GE;SP1
 1910209132;1560441445;;ZB Parametriertableau;GE;SP4
 1910363184;1560445506;;Transistorverbinder komplett;EU;SP5
@@ -721,7 +721,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561249;unbekannt;batch4;Batterie/Akku Typ6;GE;SP1
 1910561356;unbekannt;batch4;PCB Türsteuerung VF7+ Relay Links;GE;SP1
 1910561391;unbekannt;batch4;AB-VORST SITZ/KEGEL;GE;SP1
-1910561392;unbekannt;batch4;Notendschalter - Kurve;;
+1910561392;unbekannt;batch4;Notendschalter - Kurve;GE;SP1
 1910561393;unbekannt;batch4;Notlichtfeld Typ Schäfer LF 99x24mm;GE;SP2
 1910561358;unbekannt;batch4;Bodenplatte LED rot BusLOPM-V8;GE;SP1
 1910561395;unbekannt;batch4;Mountingkit Backsite stainless steel;GE;SP1
@@ -732,7 +732,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561250;unbekannt;batch4;NRT 1 XT – Notrufgerät für Aufzüge;GE;SP1
 1910561400;unbekannt;batch4;FSF-14-Einlage ACLATHAN-KH 96A rot;GE;SP1
 1910561401;batch4 + batch5;8850820151;FSF-16 P-Einlage ACLASYN grau;GE;SP1
-1910561402;unbekannt;batch4;FSF-16-B-Einlage ACLATHAN-KH 96A rot;;
+1910561402;unbekannt;batch4;FSF-16-B-Einlage ACLATHAN-KH 96A rot;GE;SP1
 1910362732;1721430002;;Bremswiderstand 12R 585W;EU;SP5
 1910368365;1721445001;;Widerstand Draht 100R 10% 40W GS16x63A;AE;SP6
 1910362733;1721445010;;Bremswiderstand 4R3 1650W;EU;SP5
@@ -778,7 +778,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362749;1806445000;;Thermoschalter API60;EU;SP5
 1910561411;unbekannt;batch4;Lichtfeld LF30V Vandalens. 33mm LED rot;GE;SP1
 1910561412;unbekannt;batch4;LITHIUMBATTERIE NRT1/2/3NT+;EU;SP5
-1910561413;unbekannt;batch4;Magnetschalter;;
+1910561413;unbekannt;batch4;Magnetschalter;GE;SP1
 1910362856;1830422270;;ZB Leiterplatte DRG Impulskarte 10 Fach;EU;SP5
 1910362857;1830425515;;ZB Leiterplatte Beschaltung 27-63A 400V;EU;SP5
 1910362858;1830435020;;ZB Leiterplatte Ansteuerplatine Nr.00252;EU;SP5
@@ -808,7 +808,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362877;1831422342;;ZB Leiterplatte Ueberwachung II;EU;SP5
 1910209269;1831445037;;ZB Leiterplatte Stromregler SMD FCG2;GE;SP1
 1910207326;1831445038;;ZB Leiterplatte Stromregler FCR2;GE;SP4
-1910561414;unbekannt;batch4;MAGNETSCHALT.LS2 NEU INKL.BEF.MUTTER;;
+1910561414;unbekannt;batch4;MAGNETSCHALT.LS2 NEU INKL.BEF.MUTTER;GE;SP1
 1910561415;unbekannt;batch4;MK1 MIKROFON 2.0M;GE;SP1
 1910561416;unbekannt;batch4;Motor Zubhör VF encoder Async 230V 50Hz;GE;SP1
 1910362880;1860445005;;ZB Leiterplatte Ansteuerung L1,2,3 API;GE;SP2
@@ -821,11 +821,11 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910563996;1860445080;;ZB Leiterplatte Netz Karte FAM1N API250R;AE;SP6
 1910362756;1860445100;;ZB Leiterplatte Motor Karte FAM1M API250;GE;SP4
 1910207331;1860445115;;ZB Leiterplatte Filter FAM1FN API180R;EU;SP5
-1910561417;unbekannt;batch4;PM Encoder Sync 106V 50Hz 600Rpm;;
+1910561417;unbekannt;batch4;PM Encoder Sync 106V 50Hz 600Rpm;GE;SP1
 1910561418;unbekannt;batch4;Motor zubehör PM encoder Sync 106V 50Hz;GE;SP1
 1910561419;unbekannt;batch4;MONTAGEWINKEL FÜR NRT-XT;EU;SP5
 1910561244;unbekannt;batch4;Busmodul LBM9 (Lisa);GE;SP1
-1910561420;unbekannt;batch4;OIL CATCH CONTAINER UNIVERSAL D.150x48mm;Z0;SP1
+1910561420;unbekannt;batch4;OIL CATCH CONTAINER UNIVERSAL D.150x48mm;GE;SP1
 1910561421;unbekannt;batch4;OELZUSATZ / LECKOELBEHAELTER;GE;SP1
 1910564078;1910162979;;Abdeckung Bremse Gummiband D200mm;GE;SP1
 1910564079;1910162995;;Scheibenbremse Alzola FRTH100 2x100Nm;AE;SP6
@@ -834,8 +834,8 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910564080;1910163615;batch4;Öler kompakt AK-40 (AKP.0025 PL);GE;SP1
 1910561422;unbekannt;batch4;Vorsteuerfilter Satz;GE;SP1
 1910561362;unbekannt;batch4;Schaltnetzteil;GE;SP1
-1910561424;unbekannt;batch4;Gewindebolzen M10 x 140 (208);;
-1910561425;unbekannt;batch4;Gewindebolzen M16 x 225 (336);;
+1910561424;unbekannt;batch4;Gewindebolzen M10 x 140 (208);GE;SP1
+1910561425;unbekannt;batch4;Gewindebolzen M16 x 225 (336);GE;SP1
 1910561426;unbekannt;batch4;DRUCKSCHALTER MAX DRUCK LRV1;GE;SP1
 1910561427;unbekannt;batch4;ROLLE ACLATHAN-VU 94A D.125/20x30mm;GE;SP1
 1910561428;unbekannt;batch4;Seilaufhängungen vz. Größe 11 AM;GE;SP1
@@ -847,19 +847,19 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561431;unbekannt;batch4;Seilaufhängungen vz. Größe 8 FP2;GE;SP1
 1910561432;unbekannt;batch4;Selcom;GE;SP1
 1910561433;unbekannt;batch4;Panel guide assembly PLUS AGH-01;GE;SP1
-1910561434;unbekannt;batch4;Tprverriegelung Model 40/10 PM Right;;
+1910561434;unbekannt;batch4;Tprverriegelung Model 40/10 PM Right;;SP1
 1910561435;unbekannt;batch4;Panel guide assembly BASIC AGH-15;GE;SP1
 1910561436;unbekannt;batch4;Panel guide assembly BASIC AGH-AP;GE;SP1
 1910561437;unbekannt;batch4;ROLLE ACLATHAN-VU 94A D.60/17x18mm;GE;SP1
 1910561438;unbekannt;batch4;Montagesatz, Oberflächenmontage gelb-sch;GE;SP1
-1910561439;unbekannt;batch4;Seilschloss symmetrisch Typ D;;
+1910561439;unbekannt;batch4;Seilschloss symmetrisch Typ D;;SP1
 1910561254;unbekannt;batch4;SYSTEMKABEL 3.0M BLAU;EU;SP5
 1910561440;unbekannt;batch4;Kippschalter für direkten Tableaueinbau;GE;SP1
 1910561441;unbekannt;batch4;Offener Gurt HTD 5M 12mm Stahl 5m;;
 1910561442;unbekannt;batch4;Transponder-Karte (Programmier-Karte);GE;SP1
 1910561443;unbekannt;batch4;Trip counter in control cabinet 7 digits;GE;SP1
 1910561444;unbekannt;batch4;FÜHRUNGSROLLE ACLATHAN-N 85A;GE;SP1
-1910561445;unbekannt;batch4;Wiring kit. From VF4+ to VF5;;
+1910561445;unbekannt;batch4;Wiring kit. From VF4+ to VF5;GE;SP1
 1910561446;unbekannt;batch4;Verdrahtungsset für A-Aufträge;GE;SP1
 1910362585;2160220;;Schaumstoff 100x60x10;EU;SP5
 1910561255;unbekannt;batch4;Türblattführungsschuh;GE;SP1
@@ -986,7 +986,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910576650;unbekannt;;Rollenführung Ø60 mm;Z0;
 1910576651;unbekannt;;Rolle Ø50/17×18 mm, 6003-2RS + Exz.-Bolz;Z0;SP1
 1910576652;unbekannt;;Rolle Ø50/9,8×18 mm, 6003-2RS + Kr-Bu;Z0;SP1
-1910576653;batch5;8850004717;Rolle Ø60/17×18 mm, 6003-2RS + Schraube;GE;
+1910576653;batch5;8850004717;Rolle Ø60/17×18 mm, 6003-2RS + Schraube;GE;SP1
 1910576654;unbekannt;;Rolle Ø70/17×18 mm, 6003-2RS + SI-R;Z0;
 1910362952;4070456;;Zahnriemenscheibe D70x26;GE;SP1
 1910576655;batch5;8850005905;Rolle Ø70/17×18 mm, 6003-2RS + Exz.-B.;GE;SP1
@@ -1082,7 +1082,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561278;unbekannt;batch4;SCHÜTZ 3P 38A AC3 220V DC 1S1Ö;GE;SP1
 1910576737;unbekannt;;Sicherheitsrelais 12V DC 2U 2x10A Dold;Z0;
 1910576738;unbekannt;;cegard/Lift plug-in system controller;Z0;
-1910576739;unbekannt;;PCB door controller VF7+ CAN;Z0;
+1910576739;unbekannt;;PCB door controller VF7+ CAN;EU;SP5
 1910576740;unbekannt;;EMI suppressor capacitor complete;Z0;
 1910576741;unbekannt;;Koppel-Baustein 12V DC DIN-Schienen;Z0;
 1910576742;unbekannt;;SCHÜTZ 3P 32A AC3 230V 1S1Ö;Z0;
@@ -1547,7 +1547,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362660;5101830;;Schmelzeinsatz G M0,2 C;EU;SP5
 1910362661;5101840;;Sicherung 5x20 M 500mA;AE;SP6
 1910362662;5101950;;Schmelzeinsatz G M 1 C;AE;SP6
-1910206930;5102150;;Varistor 30V 0,1W;AE;SP6
+1910206930;5102150;;Varistor 30V 0,1W;GE;SP1
 1910206931;5102170;;Varistor 275V 0,6W;AE;SP6
 1910206932;5102230;;Sicherung flink 5 x 20 3,15A;AE;SP6
 1910362663;5102240;;Schmelzeinsatz G M6,3 E;EU;SP5
@@ -1612,7 +1612,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910206957;batch5;8850003593;Lampe J 24V 1,2W;GE;SP1
 1910362684;5120390;;Leuchtstofflampe 10W D26 470mm Interna;GE;SP1
 1910365848;5120450;;Glimmlampe 220V BA 9S;EU;SP5
-1910362685;5120470;;Leuchtstofflampe 23W D26 740mm Warmton;GE;SP1
+1910362685;5120470;;Leuchtstofflampe 23W D26 740mm Warmton;EU;SP5
 1910206961;5120520;;Lampe TC-L 24W Hellweiss;EU;SP5
 1910362686;5120550;;Anzeigenleuchte LED rot ohne Vorwiderst.;GE;SP1
 1910362687;5120560;;Feuchtraumleuchte 58W IP65 EVG h-fr;GE;SP2
@@ -1721,7 +1721,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207004;5152440;;Fuehrungsring 85/80x9,7 PTFE/Bronze;GE;SP1
 1910207005;5152450;;Fuehrungsring 95/90x9,7 PTFE/Bronze;GE;SP1
 1910207006;5152460;;Fuehrungsring 105/100x9,7 PTFE/Bronze;GE;SP1
-1910207007;5152470;;Fuehrungsring 115/110x9,7 PTFE/Bronze;AE;SP6
+1910207007;5152470;;Fuehrungsring 115/110x9,7 PTFE/Bronze;GE;SP1
 1910363230;5152500;;O Ring 30x3 NBR70;AE;SP6
 8000921003;5152550;;O Ring 50x3-N NBR70;GE;SP1
 8001414694;5152560;;O Ring 60x3-N NBR70;EU;SP5
@@ -1804,7 +1804,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910365812;5184340;;Stecker X12 7pol;EU;SP5
 1910365811;5184350;;Stecker X11 6pol 1-6;EU;SP5
 1910363262;5184360;;Stecker X11 6pol 7-12;EU;SP5
-1910576766;unbekannt;;PCB door controller VF7+ CAN;Z0;
+1910576766;unbekannt;;PCB door controller VF7+ CAN;EU;SP5
 8001413640;5190020;;KE Schmiernippel AR1/4;EU;SP5
 8001363302;5190150;;Kegelschmiernippel A M10x1;EU;SP5
 1910362705;5190200;;Kugel Schmiernippel D6;GE;SP1
@@ -1845,7 +1845,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910576771;unbekannt;;Ersatzschlüssel CH 751 PK-10-01;Z0;
 1910576772;unbekannt;;Notrufgerät 2N Lift1 Paket;Z0;
 1910576773;unbekannt;;2N Maschinenraumsprechenstellen;Z0;
-1910576774;unbekannt;;Externer Lautsprecher;;
+1910576774;unbekannt;;Externer Lautsprecher;Z0;
 1910576775;unbekannt;;cegard/Lift SY-1730-16 LI 0.7-4.0m;Z0;
 1910576776;unbekannt;;FK Bremsfangvorrichtungspaar 6071/1;;
 1910561286;unbekannt;batch4;Magnetband für Absolutwertgeber;GE;SP1
@@ -1897,7 +1897,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910363296;5372950;;Abstandsbolzen M4x12;EU;SP5
 8001332371;5372960;;Duebel M16/25 Durchsteckanker;EU;SP5
 1910207046;5373020;;Schlitzbeilage 1mm für Tür S8;GE;SP1
-1910561283;batch4 + batch5;8850820312;SCHÜTZ 3P 9A AC3 230V 50/60HZ 1S;;SP6
+1910561283;batch4 + batch5;8850820312;SCHÜTZ 3P 9A AC3 230V 50/60HZ 1S;AE;SP6
 1910561284;unbekannt;batch4;TESYS D/F HILFSSCHALTERBLOCK 3S1Ö;GE;SP1
 8000920991;5500170;;Kappe 3/4 Zoll-T2;EU;SP5
 8001346156;5500690;;Winkelverschraubung 3/4 Zoll U;EU;SP5
@@ -1923,8 +1923,8 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910363306;5601000;;Schraegkugellager 3313D;AE;SP6
 1910207057;5601050;;Schraegkugellager 3311D;GE;SP1
 8001346159;5601060;;Schraegkugellager 3319D;AE;SP6
-8001414697;5601140;;Zylinderrollenlager NJ216E;EU;SP5
-8001414698;5601180;;Zylinderrollenlager NJ2218 E;EU;SP5
+8001414697;5601140;;Zylinderrollenlager NJ216E;GE;SP2
+8001414698;5601180;;Zylinderrollenlager NJ2218 E;GE;SP2
 1910363307;5601250;;Schraegkugellager 309 QJ;GE;SP2
 8001332214;5601270;;Pendelrollenlager 22224 K;EU;SP5
 8001332372;5601280;;Pendelrollenlager 22228 K;EU;SP5
@@ -1936,18 +1936,18 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001332374;5601430;;Zylinderrollenlager NU322 E;GE;SP1
 8001332375;5601440;;Schraegkugellager 7313 B;GE;SP1
 8001332376;5601450;;Schrägkugellager 7218 B;EU;SP5
-8001414703;5601470;;Rillenkugellager 6216.C3 2RS;EU;SP5
+8001414703;5601470;;Rillenkugellager 6216.C3 2RS;GE;SP2
 1910363309;5601610;;Rillenkugellager 6208-2RSR C3;AE;SP6
 1910362716;5601810;;PR Lager 22212 E;GE;SP2
 8000814508;5601820;;Pendelrollenlager 22224-E1-XL/22224E;EU;SP5
-8001414704;5601850;;Zylinderrollenlager NJ 2316 E;EU;SP5
+8001414704;5601850;;Zylinderrollenlager NJ 2316 E;GE;SP2
 1910362719;5601870;;PR Lager 23232;GE;SP1
-8000877919;5601880;;Pendelrollenlager 23048;EU;SP5
+8000877919;5601880;;Pendelrollenlager 23048;GE;SP2
 1910362720;5601890;;PR Lager 23948;GE;SP2
 8000921094;5601950;;Rillenkugellager 4206;GE;SP1
 8000921095;5601970;;Schrägkugellager 3212 C2;GE;SP3
 8000921096;5601980;;Zylinderrollenlager NJ315 E;GE;SP3
-8001413641;5602010;;Zylinderrollenlager NJ324 E C3;EU;SP5
+8001413641;5602010;;Zylinderrollenlager NJ324 E C3;GE;SP2
 8001413642;5602080;;Zylinderrollenlager NJ2324 E C3;EU;SP5
 1910362721;5602090;;PR Lager 22312;GE;SP2
 8001413643;5602100;;Zylinderrollenlager NJ322 E;GE;SP2
@@ -2129,7 +2129,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910364132;60230005459;;ZB Begrenzer;EU;SP5
 1910363447;60230008127;;Achse D 25 x 76;GE;SP1
 1910364134;60230008128;;ZB Spannrolle 200/6,5;GE;SP1
-1910364137;60230009213;;Bremse G01 Wittur 900949;EU;SP5
+1910364137;60230009213;;Bremse G01 Wittur 900949;GE;SP2
 1910364138;60230009337;;ZB Geschw.begrenzer Wittur OL100;EU;SP5
 1910364140;60230009341;;ZB Spanngewicht fuer OL100;EU;SP5
 1910364141;60230009344;;ZB Sperreinrichtung sp ohne Spannung 12V;EU;SP5
@@ -2175,15 +2175,15 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362788;6023914160;;Stoessel fuer Begrenzer;EU;SP5
 1910561460;60240000002;;ZB GBTK 6024 M;GE;SP2
 1910564094;60240000005;;Reibbelag;GE;SP1
-1910564095;60240000059;;Seilrille;AE;SP6
-1910564096;60240000061;;Kurvenscheibe;AE;SP6
-1910564097;60240000081;;Koppel fuer Seilbremse;AE;SP6
-1910564098;60240000088;;Lagerschale;AE;SP6
+1910564095;60240000059;;Seilrille;GE;SP1
+1910564096;60240000061;;Kurvenscheibe;GE;SP1
+1910564097;60240000081;;Koppel fuer Seilbremse;GE;SP1
+1910564098;60240000088;;Lagerschale;GE;SP1
 1910368595;60240000092;;ZB Begrenzer GBTK 6024-300S;GE;SP2
 1910363485;60240000147;;Achse D35x56;AE;SP6
 1910363486;60240000171;;ZB Seilrolle D106;AE;SP6
-1910564099;60240000305;;Bremsklotz fest;AE;SP6
-1910564100;60240000332;;Bremselement;AE;SP6
+1910564099;60240000305;;Bremsklotz fest;GE;SP1
+1910564100;60240000332;;Bremselement;GE;SP1
 1910363487;60250000856;;ZB Endschalteranbau P1000S;AE;SP6
 1910363488;60250000911;;ZB Fahne LS-Kopierung FK Spur A,B;EU;SP5
 1910364152;60250001966;;ZB ZSE Schachtplatte E10 Spur A,B;GE;SP2
@@ -2491,7 +2491,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001346178;6034002970;;ZB Zugstange W332C M16x330;EU;SP5
 8001346149;6034003400;6034003400_L;ZB Bremsbacke W332C;AE;SP6
 8001346179;6034011250;;ZB Lagerbuchse W332C 130x150x135;GE;SP3
-8001346223;6034014430 P1E=EU Löschvermerk;;ZB Schneckenrad W332C 46:2;;
+8001346223;6034014430 P1E=EU Löschvermerk;;ZB Schneckenrad W332C 46:2;EU;SP5
 1910362903;6034016520;;ZB Bremskontrolle SA3 SET;GE;SP1
 1910362904;6034017430;;ZB Bremsscheibe 420x150;GE;SP2
 8001346122;6034093430;;ZB Treibscheibe W332C;GE;SP2
@@ -2500,7 +2500,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910362905;6034111050;;Lagerdeckel W332;EU;SP5
 8001346184;6034203500;;Lagerbuchse W332C 120x140x120;AE;SP6
 8001346232;6034326300;;Schneckenwelle W332C 46:2;;SP1
-8001346187;6034336300 P1E=EU Löschvermerk;;Schneckenradwelle W332C;;
+8001346187;6034336300 P1E=EU Löschvermerk;;Schneckenradwelle W332C;EU;SP5
 8001346188;6034337300;;Schneckenradwelle W332C SA4;AE;SP6
 8001346191;6034451432;;Treibscheibenkranz W332C D640x180 zxd;GE;SP4
 8001346192;6034452432;;Treibscheibenkranz W332C D640xb215 zxd;GE;SP4
@@ -2614,7 +2614,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207426;6053075500;;ZB Buchse KA80 Teflon H:32,8;GE;SP1
 1910207427;6053076500;;ZB Buchse KA90 Teflon H:32,8;GE;SP1
 1910207428;6053077500;;ZB Buchse KA100 Teflon H:32,8;GE;SP1
-1910207429;6053078500;;ZB Buchse KA110 Teflon H:32,8;EU;SP5
+1910207429;6053078500;;ZB Buchse KA110 Teflon H:32,8;GE;SP1
 1910207430;6053079500;;ZB Buchse 63 Höhe 75 mm;EU;SP5
 1910364359;6053081500;;ZB Buchse 80 mit Teflondichtung;GE;SP1
 1910207431;6053082500;;ZB Buchse 90 Höhe 75 mm;AE;SP6
@@ -2791,7 +2791,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910208177;60730009237;;Fuehrungsschuheinlage wartungsarm 10mm;GE;SP1
 1910208178;60730009238;;Fuehrungsschuheinlage wartungsarm 14mm;GE;SP1
 1910208179;60730009242;;Fuehrungsschuheinlage wartungsarm 12mm;EU;SP5
-1910208180;60730009244;;ZB Fuehrungsschuh L105 ohne Einlage;;SP1
+1910208180;60730009244;;ZB Fuehrungsschuh L105 ohne Einlage;GE;SP1
 1910364265;60730009248;;ZB Fuehrungsschuh L127 Schiene 16mm komp;GE;SP1
 1910364650;60730009255;;ZB Rolle RTK 100 HD;AE;SP6
 1910364651;60730009256;60730009256_L;ZB Stichmassrolle RTK 100 HD;GE;SP1
@@ -3437,7 +3437,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910363809;6095944980;;Klemmstueck fuer Seile 15x10xD3,5;EU;SP5
 1910363814;6095952980;;Halter Türantrieb 90x55;AE;SP6
 1910368676;6095953980;;Winkel 64x58x3x20;AE;SP6
-1910207580;6098001660;;Türschalter f.ZB Türverriegelung;;
+1910207580;6098001660;;Türschalter f.ZB Türverriegelung;EU;SP5
 1910368677;6098004160;;ZB Schiebetürseil 2,65M;ES;SP1
 1910363281;6102254248;;Niet C 6x15;EU;SP5
 1910363282;6102320040;;Riegel DLF1L;GE;SP2
@@ -3813,7 +3813,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8000921024;62310003850;;Treibscheibe TW45C D440x115 z x d;GE;SP4
 8000921025;62310003851;;Nabe Handrad D270 TW45C/TW63B;GE;SP2
 8000921026;62310003852;;Dichthuelse TW45B NBS;GE;SP2
-8000921055;62310004032 P1E=EU Löschvermerk;;ZB Schneckenrad TW45C 40:3;;
+8000921055;62310004032 P1E=EU Löschvermerk;;ZB Schneckenrad TW45C 40:3;EU;SP5
 8000920961;62310004036;;Treibscheibe TW45B D360 z x d;GE;SP4
 1910364879;62310004038;;Flanschring TW45C;GE;SP1
 8000921078;62310009212;;Treibscheibe TW45B D320 zxd;GE;SP4
@@ -3842,8 +3842,8 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8000921111;6232001400;6232001400_L;ZB Bremsbacke TW63B;GE;SP1
 1910364616;6232001520;;ZB Bremsueberwachung TW63;GE;SP1
 8000921114;6232002400;;ZB Bremsluefthebel TW63;GE;SP1
-8000921199;6232004430 P1E=EU Löschvermerk;;ZB Schneckenrad TW63 48:2;;
-8000921200;6232005430 P1E=EU Löschvermerk;;ZB Schneckenrad TW63 43:3;;
+8000921199;6232004430 P1E=EU Löschvermerk;;ZB Schneckenrad TW63 48:2;EU;SP5
+8000921200;6232005430 P1E=EU Löschvermerk;;ZB Schneckenrad TW63 43:3;EU;SP5
 1910363422;6232101050;;Lagerdeckel TW63;GE;SP2
 8000921123;6232406430;;Treibscheibe TW63B D450x132 zxd;GE;SP4
 8000921124;6232407430;;Treibscheibe TW63B D510x132 zxd;GE;SP4
@@ -3861,15 +3861,15 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8000921136;6232902960;;Seilschutzbuegel 148;GE;SP1
 8001332140;62330006930;;Getriebegehaeuse TW130 R;;SP1
 8001332144;62330006936;;Gehaeusedeckel TW130;GE;SP2
-8001332238;62330006941 P1E=EU Löschvermerk;;ZB Schneckenrad TW130 45:2;;
+8001332238;62330006941 P1E=EU Löschvermerk;;ZB Schneckenrad TW130 45:2;EU;SP5
 8001332243;62330006954;;Schneckenwelle TW130 45:2;GE;SP4
-8001332150;62330006959 P1E=EU Löschvermerk;;Schneckenradwelle TW130;;
+8001332150;62330006959 P1E=EU Löschvermerk;;Schneckenradwelle TW130;EU;SP5
 8001332152;62330006962;62330006962_L;ZB Bremsbacke TW130 2x200Nm;GE;SP1
 8001332154;62330006966;;Bremsscheibe TW130;GE;SP2
 8001332156;62330006968;;Seilschutztraeger TW130;EU;SP5
 8001332158;62330006970;;Seilschutzbuegel TW130 D540;EU;SP5
 8001332159;62330006976;;Treibscheibe TW130 D540x150 zxd;GE;SP2
-8001332160;62330006978;;Treibscheibe TW130 D640x150 zxd;GE;SP2
+8001332160;62330006978;;Treibscheibe TW130 D640x150 zxd;GE;SP4
 1910364635;62330007363;;ZB Bremsueberwachung TW130;GE;SP1
 8001332165;62330008283;;Ankerschraube TW130 M16x1.5;GE;SP1
 8001332166;62330008284;;Federteller TW130 24.5x12x40;EU;SP5
@@ -3892,8 +3892,8 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001332391;6234001070;;Oelmessstab;GE;SP1
 8001332392;6234001400;6234001400_L;ZB Bremsbacke TW160;GE;SP1
 1910364035;6234001520;;ZB Bremskontrolle SA3;GE;SP1
-8001346055;6234006430 P1E=EU Löschvermerk;;ZB Schneckenrad TW160 51:2;;
-8001346056;6234007430 P1E=EU Löschvermerk;;ZB Schneckenrad TW160 45:2;;
+8001346055;6234006430 P1E=EU Löschvermerk;;ZB Schneckenrad TW160 51:2;EU;SP5
+8001346056;6234007430 P1E=EU Löschvermerk;;ZB Schneckenrad TW160 45:2;EU;SP5
 8001332400;6234101050;;Lagerdeckel TW160 WS AS;GE;SP2
 8001292896;6234101160;;Stange 320xM12;GE;SP2
 8001332403;6234103050;;Lagerdeckel TW160 WS BS;EU;SP5
@@ -4324,7 +4324,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910364569;65000009301;;ZB TS-R-BASE-02 inkl.Fahrkorbsprechst.;GE;SP1
 1910369102;65000009325;65000009325_L;ZB Leiterplatte MX SW RGB DMX Controller;AE;SP6
 1000211876;65000009326;;ZB Leiterplatte MX HV2012;GE;SP4
-1910580488;65000009327;;ZB Leiterplatte MX HV2012 ungeprueft;;SP1
+1910580488;65000009327;;ZB Leiterplatte MX HV2012 ungeprueft;GE;SP1
 1910364913;65000009330;;ZB Leiterplatte MH4-SI 110V AC;GE;SP2
 1910364914;65000009331;;ZB Leiterplatte MH4-SI 48V AC/DC;GE;SP2
 1910369103;65000009337;;Umrichter Komponenten Konfig.;GE;SP2
@@ -4357,7 +4357,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207731;6500012670;;Umschalter V24;GE;SP2
 1910209250;6500013670;;ZB Leiterplatte MH2 ohne synth. Sprache;GE;SP1
 1910364129;6500014660;;ZB Netzteil P5;EU;SP5
-1910369111;6500014670;6500014670_L;IC DIG ZB Sprachchip Oesterreich lang A1;AE;SP6
+1910369111;6500014670;6500014670_L;IC DIG ZB Sprachchip Oesterreich lang A1;EU;SP5
 1910363472;6500015670;;IC DIG ZB Sprachchip Belg. flaemisch B1;GE;SP2
 1910363473;6500021670;;IC DIG ZB Sprachchip niederl. Nl1;GE;SP2
 1910207733;6500022670;6500022670_L;IC DIG ZB Sprachchip Deutschl. std D1;GE;SP4
@@ -4443,7 +4443,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910364976;6510005680;;ZB Leiterplatte MFK1 Fahrkorbmod.Step;EU;SP5
 1910364977;6510006670;;ZB Leiterplatte Z3 Zentralplatte;EU;SP5
 1910047645;6510006680;;ZB Leiterplatte MW1 Sollwertgeber;GE;SP1
-1910321614;6510007680;;ZB Leiterplatte MB2.1 Bremssteuerung;GE;SP4
+1910321614;6510007680;;ZB Leiterplatte MB2.1 Bremssteuerung;GE;SP1
 1910209252;6510008680;;ZB Leiterplatte MB2.2 Bremssteuerung;GE;SP4
 1910207748;6510009680;;ZB Leiterplatte MI1 Optokoppler;GE;SP4
 1910209161;6510010680;;ZB Eprom Satz MW1;GE;SP4
@@ -4459,7 +4459,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207751;6510020680;;ZB Eprom Satz E60/2;GE;SP4
 1910363494;6510022670;;ZB Leiterplatte MJ Optokoppler;GE;SP1
 1910363495;6510023670;;ZB Leiterplatte MO Optokoppler;GE;SP4
-1910564210;6510025680 P1E=EU Löschvermerk;;ZB Leiterplatte MB2.3 Bremssteuerung;;
+1910564210;6510025680 P1E=EU Löschvermerk;;ZB Leiterplatte MB2.3 Bremssteuerung;EU;SP5
 1910368620;6510026660;;ZB Leiterplatte Relaisplatte 5 Relais;EU;SP5
 1910368663;6510027660;;ZB Leiterplatte Relaisplatte 8 Relais;EU;SP5
 1910048483;6510027680;;ZB Bremsansteuerung 2;GE;SP1
@@ -4809,7 +4809,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910365177;65600009426;;Ring RT42 gruen 6mm Kunststoff;GE;SP2
 1910369194;65600009433-01;;Display Touch 10,4 Farbe prog.;EU;SP5
 1910364675;65600009451;;ZB Gong mit Gehaeuse auf FK;GE;SP2
-1910365766;65600009462;;ZB Summer Rufquittierung EN81-70 ext;GE;SP4
+1910365766;65600009462;;ZB Summer Rufquittierung EN81-70 ext;GE;SP1
 1910364676;65600009479;;"Display Touch Weiß/Chrom 7""";GE;SP1
 1910364677;65600009480;;"Display Touch Weiß/Chrom 12""";GE;SP1
 1910364679;65600009483;;"Display Touch schwarz 12"" o. Kamera";GE;SP1
@@ -4981,7 +4981,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910364810;65680004595;;ZB Schlüsseltaster T40mm o.Quittung;GE;SP2
 1910369214;65680004596;65680004596_L;ZB Schlüsseltaster T40mm mit Quittung;GE;SP2
 1910369215;65680004597;65680004597_L;ZB Schluesselschalter T40mm mit Quittung;GE;SP2
-1910208331;65680004692;;Schlüsselblende C rote LED mit Kabel;GE;SP3
+1910208331;65680004692;;Schlüsselblende C rote LED mit Kabel;GE;SP1
 1910369216;65680004693;65680004693_L;ZB Schluesselblende mit LED STEP Basic;EU;SP5
 1910208332;65680004694;;ZB Schlüsseltaster o.Q. Sch A T40 Basic;GE;SP4
 1910208333;65680004695;;ZB Schluesseltaster m.Q. Sch A T40 Basic;EU;SP5
@@ -5772,7 +5772,7 @@ Vulkol.""";GE;SP1
 1910364933;65960009659;;Grubensteuerstelle dänische Ausführung;GE;SP2
 1910364934;65960009660;;Grubensteuerstelle Denm. m.Verteilerbox;GE;SP2
 1910366870;65960009675;;ZB Busleitung LS2 auf CPI;GE;SP2
-1910208417;65960009677;;ZB Leitung Geber Beringer Hydr konfek.6m;GE;SP2
+1910208417;65960009677;;ZB Leitung Geber Beringer Hydr konfek.6m;GE;SP1
 1910365381;65960009694;;Zusatz Grubenst.m.Vert.Synergy-e 1,6m/s;GE;SP2
 1910365758;65960009698;;ZB Leitung TCM-CPI-2300;GE;SP1
 1910364935;65960009736;;Traegerblech 52x62.5x2;EU;SP5
@@ -5808,7 +5808,7 @@ Vulkol.""";GE;SP1
 1910364950;65960010130;;Grubensteuerstelle m.Inst-Box EVO-F UK;GE;SP2
 1910366898;65960010136;;ZB Leitung CAT5 3m ST-ST grün;GE;SP1
 1910366899;65960010145;;ZB Leitung CAT5 5m ST-ST grün;GE;SP2
-1910366900;65960010146;;ZB Leitung CAT5 7,5m ST-ST grün;GE;SP1
+1910366900;65960010146;;ZB Leitung CAT5 7,5m ST-ST grün;EU;SP5
 1910366901;65960010157;;ZB Endschalter unten Fahrkorb EVO-F;GE;SP1
 1910366684;65960010158;;ZB Schalter Fahrkorbarretierung EVO-F;GE;SP1
 1910366685;65960010159;;ZB Fangschalter unten EVO-F;GE;SP1
@@ -5910,7 +5910,7 @@ Vulkol.""";GE;SP1
 1910366994;6596008890;6596008890_L;ZB Leitung MV6-ESA 1510;GE;SP2
 1910365794;6596011890;6596011890_L;ZB Leitung Telefon;GE;SP4
 1910366996;6596014890;;ZB Leitung YR 6x0,8/8pol. 2600;EU;SP5
-1910209038;6596015660;6596015660_L;Grubensteuerstelle;GE;SP2
+1910209038;6596015660;6596015660_L;Grubensteuerstelle;GE;SP1
 1910207945;6596015890;;ZB Steuerleitung 1200;EU;SP5
 1910564144;6596022980;;ZB Flachleitungsaufhaengung HFK1;AE;SP6
 1910564036;6596023980;;ZB Flachleitungsaufhaengung;AE;SP6
@@ -5970,7 +5970,7 @@ Vulkol.""";GE;SP1
 1910365751;65990009245;;Klemmblech MKA Gehaeuse;GE;SP2
 1910208428;65990009247;;Distanzring Fallenschloss BDK1800;GE;SP1
 1910369301;65990009260;65990009260_L;Tuerblech 4301 BDK2000;EU;SP5
-1910365035;65990009262;;Deckplatte oben BDK2000;EU;SP5
+1910365035;65990009262;;Deckplatte oben BDK2000;GE;SP2
 1910365036;65990009263;;Deckplatte unten BDK2000;GE;SP2
 1910365037;65990009264;;Schalterkonsole BDK2000 MH4;EU;SP5
 1910365039;65990009269;;Baugruppentraeger BDK2000;GE;SP2
@@ -6952,7 +6952,7 @@ Vulkol.""";GE;SP1
 1910365359;69000009232;;Akustische Quittung EN81-70 var 2;EU;SP5
 1910365360;69000009233;;ZB Umbausatz Spannungswandler -G86 MH3;GE;SP1
 1910209194;69000009235;;Netzteil 20V/230V MCI-D/E;GE;SP1
-1910365361;69000009237;;Umbauanleitung Wandler Syn Evo -G86 MH4;;
+1910365361;69000009237;;Umbauanleitung Wandler Syn Evo -G86 MH4;EU;SP5
 1910208688;69000009238;;ZB I/O Leiterplatte ohne can RT301;GE;SP2
 1910369434;69000009240;69000009240_L;Filtermatte 272x272mm;GE;SP2
 1910564158;69000009254;;ET Leuchtmittel;AE;SP6
@@ -7043,7 +7043,7 @@ Vulkol.""";GE;SP1
 1910561308;unbekannt;batch4;Schaltnetzteil Mean Well, 100Watt, 24V;GE;SP2
 1910561296;unbekannt;batch4;LDM-Bus ( Driver ) LDM 02 Lisabus;GE;SP2
 1910561310;unbekannt;batch4;SCHLÜSSELSCHALTER SCHALTER 90° SYN.SMP;GE;SP1
-1910363808;7916003258;;Adapterplatte 3Tx6 406-OA;;
+1910363808;7916003258;;Adapterplatte 3Tx6 406-OA;EU;SP5
 1910363811;7920003011;;Stossfeste Lampe 235V 40W;GE;SP2
 1910207997;7920003015;;Lampe 24V 2W BA 9S;GE;SP1
 1910207998;7920003026;;Lampe 6V 5W BA15D;GE;SP1
@@ -7120,7 +7120,7 @@ Vulkol.""";GE;SP1
 1910564164;8000787563;;Bremse Mayr RSR400 HE 2x400Nm A17-ER-Kit;GE;SP1
 1910564165;8000865353;;Bremse Mayr RTW350 HE 2x320Nm EN-ER-Kit;GE;SP1
 1910580492;8001292809;;Bremse Alzola FRTH158v2 2x158Nm EN-ETK;;SP1
-1910561377;unbekannt;batch4;Schutzrahmen für Alarmtaster DR02 V2A;;
+1910561377;unbekannt;batch4;Schutzrahmen für Alarmtaster DR02 V2A;GE;SP1
 1910561313;unbekannt;batch4;TÜRLAUFROLLE MEILLER 1-RILLIG 35-150KG;GE;SP1
 1910561314;unbekannt;batch4;FIXING-KIT: Panachrome 10mm,Clamp-plate;GE;SP1
 1910561315;unbekannt;batch4;CONTROLLER: Pana194,230/115V,3D,English;GE;SP1
@@ -7212,7 +7212,7 @@ Vulkol.""";GE;SP1
 1910564169;8850004176;;Schlüsselrohr klein 43,5x150;GE;SP1
 1910564170;8850004177;;Schlüsselrohr groß 78x150;GE;SP1
 1910367755;8850004178;;Aufkleber Elektrischer Betriebsraum;GE;SP1
-1910367756;8850004179;;Aufkleber Ampel 9 x 11 cm;;
+1910367756;8850004179;;Aufkleber Ampel 9 x 11 cm;EU;SP5
 1910364427;8850004180;;SER-Aufkleber;GE;SP1
 1910363925;8850004181;;TKE Angebotsmappe;GE;SP1
 1910369455;8850004182;;TKE Betriebsheft;GE;SP1
@@ -7469,9 +7469,9 @@ Vulkol.""";GE;SP1
 1910208766;99000000733;;Wipptaster rund 1S;EU;SP5
 1910369524;99000000764;;Stufennippel fuer M25;EU;SP5
 1910365737;99000000765;;Stufennippel fuer M20;EU;SP5
-1910365736;99000000767;;Mutter fuer Verschraubung M20x1,5 PA;AE;SP6
+1910365736;99000000767;;Mutter fuer Verschraubung M20x1,5 PA;GE;SP1
 1910365735;99000000768;;Mutter fuer Verschraubung M16x1,5 PA;GE;SP2
-1910365734;99000000771;;Kabelverschraubung M20x1,5 8-13 PA;AE;SP6
+1910365734;99000000771;;Kabelverschraubung M20x1,5 8-13 PA;GE;SP1
 8001292819;99000000772;;Kabelverschraubung M16x1,5 5-10 PA;GE;SP1
 1910366676;99000000814;;Pendelrollenlager BS2-2216-2CSW/GEN4;GE;SP2
 8000920969;99000000927;;Passfeder A20*12*65 DIN6885;GE;SP2
@@ -7498,7 +7498,7 @@ Vulkol.""";GE;SP1
 1910208772;99000002092;;Scheibenbremse W191 NBS 2500 NM;GE;SP1
 8000921033;99000002159;;Schraubendreher Gr.6 nach DIN 911;GE;SP2
 1910367902;99000002189;;Senkschraube M4x6 V2A;GE;SP2
-1910564174;99000002469;;Druckfeder rostfrei 150x34x4/15;AE;SP6
+1910564174;99000002469;;Druckfeder rostfrei 150x34x4/15;GE;SP1
 1910366694;99000002493;;Laseretikette silber 210x297;GE;SP2
 1910208773;99000002511;;Scheibenbremse TW160 NBS 5000 NM;GE;SP1
 1910366695;99000002696;;Rosette MT42 Schlüsselsch. ohne LED;GE;SP2
@@ -7685,16 +7685,16 @@ Vulkol.""";GE;SP1
 1910367524;99000009892;;Schild Aufzug im Brandfall nicht benutz.;GE;SP1
 8001292827;99000009893;;Zylinderschraube M10x40-10.9 Geomet 500;EU;SP5
 1910564175;99000009909;;Tellerfeder C100;AE;SP6
-1910564176;99000009923;;Zugfeder RZ-112EI 109x9,2x1,25;AE;SP6
-1910564177;99000009924;;Zugfeder RZ-130PX 123x12x1,8;AE;SP6
-1910564178;99000009925;;Zugfeder RZ-130BX 98,2x9,6x1,6;AE;SP6
-1910564179;99000009926;;Zugfeder RZ-162I 118x15x2,5;AE;SP6
+1910564176;99000009923;;Zugfeder RZ-112EI 109x9,2x1,25;GE;SP1
+1910564177;99000009924;;Zugfeder RZ-130PX 123x12x1,8;GE;SP1
+1910564178;99000009925;;Zugfeder RZ-130BX 98,2x9,6x1,6;GE;SP1
+1910564179;99000009926;;Zugfeder RZ-162I 118x15x2,5;GE;SP1
 1910563951;99000009930;;Gummipuffer 70x35;GE;SP1
 1910563955;99000009934;;Isolationselement 230mm SF700;EU;SP5
 1910563956;99000009935;;Isolationselement 250mm SF700;EU;SP5
 1910563953;99000009936;;Isolationselement 280mm SF700;EU;SP5
 1910563954;99000009937;;Isolationselement 300mm SF700;EU;SP5
-1910564180;99000009940;;Nutmutter M50x1,5 mit Sicherung;AE;SP6
+1910564180;99000009940;;Nutmutter M50x1,5 mit Sicherung;GE;SP1
 8001346327;99000009949;;Kantenschutz PTFE für 1mm Blech;GE;SP2
 1910512175;99000009960;;Scheibenbremse DAF270L 2x2200Nm;GE;SP1
 1910366770;99000009966;;Scheibenbremse PMC145 -45 -10/16;GE;SP2
@@ -7703,9 +7703,9 @@ Vulkol.""";GE;SP1
 1910369529;99000009980;;Winkelgelenk M8 mit Sicherungsbuegel;EU;SP5
 1910512176;99000010006;;Scheibenbremse DAF270L 2x2200Nm HL;GE;SP1
 1910366772;99000010016;;Ausgleichsblech Lüfter QR08A;GE;SP1
-1910564181;99000010047;;Zugfeder 52,5x7,5x0,7 rostfrei;AE;SP6
+1910564181;99000010047;;Zugfeder 52,5x7,5x0,7 rostfrei;GE;SP1
 1910365727;99000010054;;Gummipuffer 17x8x12;GE;SP2
-1910564182;99000010063;;Koppelseil D1,5x337;AE;SP6
+1910564182;99000010063;;Koppelseil D1,5x337;GE;SP1
 1910369530;99000010083;;Zugfeder 59,2x8x1 rostfrei;GE;SP1
 1910367563;99000010103;;Britklips FCR14 M6;EU;SP5
 1910368038;99000010109;;Schild Nichtraucher 50mm;GE;SP2
@@ -7716,7 +7716,7 @@ Vulkol.""";GE;SP1
 1910366775;99000010151;;Schwingmetallpuffer D30x25;GE;SP1
 1910367574;99000010154;;Seil Flex-Brugg 3mm;GE;SP2
 1910367565;99000010155;;Gewindestift M5x10;GE;SP2
-1910564184;99000010161;;Bolzen DIN 1445 - 10x21x35;AE;SP6
+1910564184;99000010161;;Bolzen DIN 1445 - 10x21x35;GE;SP1
 1910208802;99000010177;;Rillenkugellager 6208-2RS-C3 Firma LFD;GE;SP1
 1910367566;99000010190;;Druckfeder 55x34,8x7/3,5;EU;SP5
 1910564185;99000010193;;Zylinderrollenlager NNF 5007 ADB-2LSV;AE;SP6
@@ -7740,7 +7740,7 @@ Vulkol.""";GE;SP1
 1910366786;99000010407;;Schmierapparat Kunstst. Schienenkopf 16;GE;SP1
 1910367581;99000010410;;Isolationsgummi h20;GE;SP1
 8001413610;99000010435;;Sicherungsschraube M6x16;GE;SP2
-8000921039;99000010437;;Scheibenbremse TW45C-NBS RSO500-1200Nm;GE;SP1
+8000921039;99000010437;;Scheibenbremse TW45C-NBS RSO500-1200Nm;GE;SP2
 8000921187;99000010438;;Scheibenbremse TW63-NBS RSO800-2200Nm;GE;SP1
 8000690798;99000010441;;Passfeder A14x9x90;GE;SP2
 8001330315;99000010449;;Scheibenbremse TW130-NBS RSO1300-4000Nm;GE;SP1
@@ -7764,7 +7764,7 @@ Vulkol.""";GE;SP1
 1910404934;99000010802;;Packpapier Paperplus GE 2x80g;GE;SP1
 8000645981;99000010871;;Pendelrollenlager 24148;GE;SP1
 8000645984;99000010872;;V Ring 140A NBR;GE;SP2
-1910564186;99000010883;;Tellerfeder DIN 2093 B90 Fabrikat ALPA;AE;SP6
+1910564186;99000010883;;Tellerfeder DIN 2093 B90 Fabrikat ALPA;GE;SP1
 1910367595;99000010893;;Zubehoer Set fuer 10 Seile Synergy;EU;SP5
 1910366795;99000010899;;Öffnungswerkzeug abges.Decke Synergy;GE;SP2
 1910369534;99000010959;;Linearantrieb Junior2 Var. E So.279 UL;GE;SP2
@@ -8048,7 +8048,7 @@ Vulkol.""";GE;SP1
 1910208864;99500007388;;ZB Netzgeraet 230V/15V 2A Hutschiene;GE;SP1
 1910365687;99500007391;;Leitung H03VV-F 2x0,5;GE;SP2
 1910366995;99500007421;;Hilfskontaktblock 1S 1OE seitl. Siemens;GE;SP1
-1910366997;99500007425;;Leistungsschuetz 12A 2S 2OE 230VAC Siem.;;
+1910366997;99500007425;;Leistungsschuetz 12A 2S 2OE 230VAC Siem.;EU;SP5
 1910366998;99500007430;;Hilfskontaktblock 2S 2OE fronts. Siemens;GE;SP2
 1910367758;99500007438;;Stift 7 pol ST-COMBI BDK1800 DZS;GE;SP1
 1910365686;99500007441;;Buchse 3 pol ST-COMBI BDK1800 DZS;EU;SP5
@@ -8259,7 +8259,7 @@ Vulkol.""";GE;SP1
 1910208890;99500009702;;Leistungsschütz LC1-9A 3H 1S 1OE 220V DC;GE;SP1
 1910367138;99500009705;;Zeitrelais ansprechverz. BC 7930N;GE;SP2
 1910046378;99500009708;;Netzgeraet 230V/24VDC 5A;GE;SP1
-1910564193;99500009709;;Klemmenblock GBTK6023 O51S-M51S-M54S;AE;SP6
+1910564193;99500009709;;Klemmenblock GBTK6023 O51S-M51S-M54S;GE;SP1
 1910048702;99500009713;;Steuerplatine can Türantrieb RT301;GE;SP1
 1910365644;99500009717;;FI/LS Schalter 30mA TypA B 10A 2 pol;GE;SP1
 1910365643;99500009718;;FI/LS Schalter 30mA TypA B 16A 2 pol;GE;SP1
@@ -8653,7 +8653,7 @@ Vulkol.""";GE;SP1
 1910368641;99500011365;;Taster VB42 blau taktil Sammelbestellung;GE;SP2
 1910368642;99500011366;;Blindelement VB42;GE;SP2
 1910367338;99500011377;;ZB Bremswiderst 22R 4,0kW/8,5kW 100/40%;EU;SP5
-1910564214;99500011378;;Klemmenkasten UL-Zulassung;EU;SP5
+1910564214;99500011378;;Klemmenkasten UL-Zulassung;GE;SP2
 1910367341;99500011394;;Befestigungsschelle 2.5mm verzinkt;EU;SP5
 1910209101;99500011396;99500011396_L;GSM Antenne 5dB Kabel l=3m Anschluss SMA;GE;SP1
 1910367842;99500011397;;Klemmenblock Fk-Vert.EVO-F 24V X9 X50;EU;SP5
@@ -9379,8 +9379,8 @@ Vulkol.""";GE;SP1
 1000219396;unbekannt;;AY GOVERNOR GBTK 6024-500S 60240000133;;SP1
 1000234961;unbekannt;batch4;UCM OVERSPEED FREQUENCYMETER;GE;SP1
 1000236487;unbekannt;;2N DB-Antenne  GSM/UMTS;GE;SP1
-1000246846;P1E=EU Löschvermerk;;Governor 6024 60240000092;;
-1000256840;unbekannt;;ZB Leiterplatte MC3 I/O;;
+1000246846;P1E=EU Löschvermerk;;Governor 6024 60240000092;EU;SP5
+1000256840;unbekannt;;ZB Leiterplatte MC3 I/O;GE;SP5
 1000258054;unbekannt;;Umreifungsband 9x0,55mm weiß,1 Rolle=4km;GE;SP1
 1910003023;unbekannt;batch4;GOVERNER TIGHTENER SYNERGY ELEMENT;GE;SP1
 1910047240;unbekannt;;ZB Haftmagnet D160;GE;SP1
@@ -9434,7 +9434,7 @@ Vulkol.""";GE;SP1
 1910197776;unbekannt;batch4;Führungsschuh‑Belag T70 G‑100 9,5 mm;GE;SP1
 1910197778;unbekannt;batch4;Gleitschuhhalter für Gegenwicht;GE;SP1
 1910197781;unbekannt;batch4;Endschalter XCNR2510P20;GE;SP1
-1910206841;unbekannt;;Zylinderschraube M3x12 8.8 vz;;
+1910206841;unbekannt;;Zylinderschraube M3x12 8.8 vz;;SP1
 1910206849;unbekannt;;Schraubsicherungslack rot;;SP1
 1910206864;unbekannt;;Zylinderschraube M10x20 8.8 verzinkt;;SP1
 1910206867;unbekannt;;SKT Schraube M10x20 8.8 vz;;SP1
@@ -9443,10 +9443,10 @@ Vulkol.""";GE;SP1
 1910206897;unbekannt;;Sicherungsring 20x1,2 Federstahl;;SP1
 1910206909;unbekannt;;Faecherscheibe A8,4 Federstahl vz;;SP1
 1910206919;unbekannt;;SKT Mutter M68 vz;;SP1
-1910206954;P1E=EU Löschvermerk;;Leuchtstofflampe U 36W Universal;;
-1910206958;P1E=EU Löschvermerk;;Leuchtstofflampe 30W D26 895mm Interna;;
-1910206959;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 970mm Univ-w.;;
-1910206960;unbekannt;;Leuchtstofflampe 38W D26 1047mm Lumilux;;
+1910206954;P1E=EU Löschvermerk;;Leuchtstofflampe U 36W Universal;EU;SP5
+1910206958;P1E=EU Löschvermerk;;Leuchtstofflampe 30W D26 895mm Interna;EU;SP5
+1910206959;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 970mm Univ-w.;EU;SP5
+1910206960;unbekannt;;Leuchtstofflampe 38W D26 1047mm Lumilux;;SP1
 1910206973;unbekannt;;Stift Combicon 4pol ger RM5,08 schraub;;SP1
 1910206980;unbekannt;;Kegelstopfen GPN600 B890;;SP1
 1910206987;unbekannt;;O Ring 120x3 37PAB769;EU;SP5
@@ -9458,49 +9458,49 @@ Vulkol.""";GE;SP1
 1910207166;unbekannt;;Taster Bremskontrolle 24VDC 200mA IP65;;SP1
 1910207172;unbekannt;;Sicherheitsschalter m.Bügelbetät. IP54;;
 1910207198;unbekannt;;Leuchtstofflampe 18W D26 590mm -840;;SP1
-1910207211;P1E=EU Löschvermerk;;Profilhalbzylinder 10x30;;
-1910207223;P1E=EU Löschvermerk;;Ersatzwanne 350x350;;
-1910207304;P1E=EU Löschvermerk;;Ladewiderstand 100 O;;
-1910207305;P1E=EU Löschvermerk;;IGBT Modul BSM 150 V1-4;;
+1910207211;P1E=EU Löschvermerk;;Profilhalbzylinder 10x30;EU;SP5
+1910207223;P1E=EU Löschvermerk;;Ersatzwanne 350x350;EU;SP5
+1910207304;P1E=EU Löschvermerk;;Ladewiderstand 100 O;EU;SP5
+1910207305;P1E=EU Löschvermerk;;IGBT Modul BSM 150 V1-4;EU;SP5
 1910207343;unbekannt;;ZB Schachtfahne 1/99;;SP1
 1910207471;unbekannt;;Fuehrungsschuheinlage 127x34 9mm;;SP1
 1910207478;unbekannt;;Fuehrungsschuheinlage 127x34 5mm;;SP1
 1910207515;unbekannt;;ZB Laufrolle D60Lf;;SP1
 1910207521;unbekannt;;ZB Laufrolle 90 Grad für M3TK;;SP1
-1910207538;unbekannt;;ZB Hakenriegel R M2TS8;;
+1910207538;unbekannt;;ZB Hakenriegel R M2TS8;EU;SP5
 1910207556;unbekannt;;Rolle D30xd15,2x21;;SP1
 1910207564;unbekannt;;Huelse fuer Hakenriegel S8;;SP1
-1910207581;P1E=EU Löschvermerk;;Türschalter mit Brücke;;
-1910207653;P1E=EU Löschvermerk;;Bremse DAF210M;;
+1910207581;P1E=EU Löschvermerk;;Türschalter mit Brücke;EU;SP5
+1910207653;P1E=EU Löschvermerk;;Bremse DAF210M;EU;SP5
 1910207761;unbekannt;;ZB Leiterplatte MA 4 Standanzeige;;SP1
-1910207763;P1E=EU Löschvermerk;;ZB Leiterplatte MV1 Rueckwandplatte;;
+1910207763;P1E=EU Löschvermerk;;ZB Leiterplatte MV1 Rueckwandplatte;EU;SP5
 1910207768;unbekannt;;ZB Eprom Satz MZ1;;SP1
 1910207776;unbekannt;;ZB Leiterplatte MZ1 Zentralplatte Gruppe;;SP1
 1910207793;unbekannt;;Netzgeraet MN6 24V/4A 90/180V 3,4A;EU;SP5
 1910207794;unbekannt;;Netzgeraet 400V/ 24VDC/ 10A;;SP1
-1910207829;P1E=EU Löschvermerk;;ZB Magnetschalter;;
+1910207829;P1E=EU Löschvermerk;;ZB Magnetschalter;EU;SP5
 1910207873;unbekannt;;ZB Alarmtaster Basic;EU;SP5
-1910207877;P1E=EU Löschvermerk;;ZB Standanzeige MA7 Gruen;;
-1910207879;P1E=EU Löschvermerk;;ZB Lautsprecherelement vandalensicher;;
-1910207951;P1E=EU Löschvermerk;;ZB Leitung Lokalbus;;
-1910207987;P1E=EU Löschvermerk;;ZB Taster 2 S;;
-1910208146;P1E=EU Löschvermerk;;Puffer 165x80 A;;
+1910207877;P1E=EU Löschvermerk;;ZB Standanzeige MA7 Gruen;EU;SP5
+1910207879;P1E=EU Löschvermerk;;ZB Lautsprecherelement vandalensicher;EU;SP5
+1910207951;P1E=EU Löschvermerk;;ZB Leitung Lokalbus;EU;SP5
+1910207987;P1E=EU Löschvermerk;;ZB Taster 2 S;EU;SP5
+1910208146;P1E=EU Löschvermerk;;Puffer 165x80 A;EU;SP5
 1910208181;unbekannt;;ZB Schienenoeler AK5 FK NC91/NC71;;SP1
 1910208182;unbekannt;;Lagerbolzen;EU;SP5
-1910208186;P1E=EU Löschvermerk;;ZB Hakenriegel R S12;;
+1910208186;P1E=EU Löschvermerk;;ZB Hakenriegel R S12;EU;SP5
 1910208278;65100004578;;ZB Leiterplatte Bering. Delta Contr. Hyd;AE;SP6
-1910208308;P1E=EU Löschvermerk;;Zielwahl Elektroniksatz eckig ohne Kabel;;
+1910208308;P1E=EU Löschvermerk;;Zielwahl Elektroniksatz eckig ohne Kabel;EU;SP5
 1910208328;unbekannt;;Beschriftungselem. I ThyssenKrupp Basic;;SP1
-1910208344;unbekannt;;ZB Taster STEP C flach blau 1;;SP1
-1910208347;unbekannt;;ZB Taster STEP C flach blau 0;;SP1
-1910208348;unbekannt;;ZB Taster STEP C flach blau 2;;SP1
-1910208349;unbekannt;;ZB Taster STEP C flach blau 3;;SP1
-1910208351;unbekannt;;ZB Taster STEP C flach blau 5;;SP1
+1910208344;unbekannt;;ZB Taster STEP C flach blau 1;EU;SP5
+1910208347;unbekannt;;ZB Taster STEP C flach blau 0;EU;SP5
+1910208348;unbekannt;;ZB Taster STEP C flach blau 2;EU;SP5
+1910208349;unbekannt;;ZB Taster STEP C flach blau 3;EU;SP5
+1910208351;unbekannt;;ZB Taster STEP C flach blau 5;EU;SP5
 1910208353;unbekannt;;ZB Taster STEP C flach blau -1;;SP1
-1910208354;unbekannt;;ZB Taster STEP C flach blau Pfeil;;SP1
+1910208354;unbekannt;;ZB Taster STEP C flach blau Pfeil;EU;SP5
 1910208355;unbekannt;;ZB Taster STEP C flach blau Pfeil auf/ab;;SP1
-1910208356;unbekannt;;ZB Taster STEP C flach blau Tür zu;;SP1
-1910208357;unbekannt;;ZB Taster STEP C flach blau Tür auf;;SP1
+1910208356;unbekannt;;ZB Taster STEP C flach blau Tür zu;EU;SP5
+1910208357;unbekannt;;ZB Taster STEP C flach blau Tür auf;EU;SP5
 1910208377;unbekannt;;ZB Taster STEP C fla. Brail/Tak blau 0;EU;SP5
 1910208378;unbekannt;;ZB Taster STEP C fl Tak bla Tür zu;;SP1
 1910208380;unbekannt;;ZB Taster STEP C Brail/Tak rot 1;;SP1
@@ -9511,101 +9511,101 @@ Vulkol.""";GE;SP1
 1910208390;unbekannt;;ZB Taster STEP C fla. Brail/Tak blau 4;EU;SP5
 1910208391;unbekannt;;ZB Taster STEP C fla. Brail/Tak blau 5;EU;SP5
 1910208395;unbekannt;;ZB Alarmtaster C Tak flach 1OE/1S;;SP1
-1910208396;unbekannt;;ZB Taster STEP C fl Tak bla Pfeil;;SP1
+1910208396;unbekannt;;ZB Taster STEP C fl Tak bla Pfeil;EU;SP5
 1910208397;unbekannt;;ZB Taster STEP C Tak blau Pfeil auf/ab;;SP1
-1910208398;unbekannt;;ZB Taster STEP C fl Tak bla Tür auf;;SP1
-1910208512;P1E=EU Löschvermerk;;Handleuchte mit 5m Kabel;;
-1910208514;P1E=EU Löschvermerk;;Leitungsschutzschalter 60N C6;;
-1910208520;P1E=EU Löschvermerk;;Trafo 230/28,5 V;;
-1910208525;P1E=EU Löschvermerk;;Trafo 11,2-11,7 V;;
-1910208535;P1E=EU Löschvermerk;;Leuchtanzeige MA6434P;;
+1910208398;unbekannt;;ZB Taster STEP C fl Tak bla Tür auf;EU;SP5
+1910208512;P1E=EU Löschvermerk;;Handleuchte mit 5m Kabel;EU;SP5
+1910208514;P1E=EU Löschvermerk;;Leitungsschutzschalter 60N C6;EU;SP5
+1910208520;P1E=EU Löschvermerk;;Trafo 230/28,5 V;EU;SP5
+1910208525;P1E=EU Löschvermerk;;Trafo 11,2-11,7 V;EU;SP5
+1910208535;P1E=EU Löschvermerk;;Leuchtanzeige MA6434P;EU;SP5
 1910208544;unbekannt;;Leuchtstoffröhre TLD 30 W/29;;SP1
-1910208640;P1E=EU Löschvermerk;;E/A Baugruppe 40/40;;
+1910208640;P1E=EU Löschvermerk;;E/A Baugruppe 40/40;EU;SP5
 1910208641;unbekannt;;Etagenmodul LEM2 voll bestückt;EU;SP5
-1910208693;P1E=EU Löschvermerk;;Bedienanleitung TCI/TCM Tester Englisch;;
-1910208710;P1E=EU Löschvermerk;;Geländerverlängerung FKD;;
-1910208711;P1E=EU Löschvermerk;;Fussleiste yellowtool-flex;;
-1910208715;P1E=EU Löschvermerk;;Lotdrahtaufnahme;;
-1910208718;P1E=EU Löschvermerk;;Traegertraverse;;
-1910208725;P1E=EU Löschvermerk;;Endschalter mit Winkel;;
-1910208730;P1E=EU Löschvermerk;;Schienen Ziehvorrichtung;;
-1910208731;P1E=EU Löschvermerk;;Orsy-Box;;
-1910208732;P1E=EU Löschvermerk;;ZB Hebevorrichtung MRE EVO F Q>1600kg;;
-1910208733;P1E=EU Löschvermerk;;Haken für Kabine;;
-1910208734;P1E=EU Löschvermerk;;Motorhalterung für GG;;
-1910208735;P1E=EU Löschvermerk;;Bügel- und Seilschutz;;
-1910208738;P1E=EU Löschvermerk;;ZB Trägertraverse Yellow beams;;
+1910208693;P1E=EU Löschvermerk;;Bedienanleitung TCI/TCM Tester Englisch;EU;SP5
+1910208710;P1E=EU Löschvermerk;;Geländerverlängerung FKD;EU;SP5
+1910208711;P1E=EU Löschvermerk;;Fussleiste yellowtool-flex;EU;SP5
+1910208715;P1E=EU Löschvermerk;;Lotdrahtaufnahme;EU;SP5
+1910208718;P1E=EU Löschvermerk;;Traegertraverse;EU;SP5
+1910208725;P1E=EU Löschvermerk;;Endschalter mit Winkel;EU;SP5
+1910208730;P1E=EU Löschvermerk;;Schienen Ziehvorrichtung;EU;SP5
+1910208731;P1E=EU Löschvermerk;;Orsy-Box;EU;SP5
+1910208732;P1E=EU Löschvermerk;;ZB Hebevorrichtung MRE EVO F Q>1600kg;EU;SP5
+1910208733;P1E=EU Löschvermerk;;Haken für Kabine;EU;SP5
+1910208734;P1E=EU Löschvermerk;;Motorhalterung für GG;EU;SP5
+1910208735;P1E=EU Löschvermerk;;Bügel- und Seilschutz;EU;SP5
+1910208738;P1E=EU Löschvermerk;;ZB Trägertraverse Yellow beams;EU;SP5
 1910208741;unbekannt;;Gliedermaßstab 2m transluzent grün;EU;SP5
-1910208747;P1E=EU Löschvermerk;;PSDW Seil 10,2mm für Lasttest 5m;;
-1910208753;P1E=EU Löschvermerk;;Motorhebearm;;
-1910208754;P1E=EU Löschvermerk;;Seilsicherungsbolzen Synergy Set6&7Seile;;
-1910208755;P1E=EU Löschvermerk;;Seilsicherungsbolzen Set Synergy 10Seile;;
-1910208756;P1E=EU Löschvermerk;;ZB Fanghebeladapter;;
-1910208760;unbekannt;;ZB Montagekoffer für Hängekabel;;
-1910208833;P1E=EU Löschvermerk;;Temperaturregler TP 7010;;
+1910208747;P1E=EU Löschvermerk;;PSDW Seil 10,2mm für Lasttest 5m;EU;SP5
+1910208753;P1E=EU Löschvermerk;;Motorhebearm;EU;SP5
+1910208754;P1E=EU Löschvermerk;;Seilsicherungsbolzen Synergy Set6&7Seile;EU;SP5
+1910208755;P1E=EU Löschvermerk;;Seilsicherungsbolzen Set Synergy 10Seile;EU;SP5
+1910208756;P1E=EU Löschvermerk;;ZB Fanghebeladapter;EU;SP5
+1910208760;unbekannt;;ZB Montagekoffer für Hängekabel;;SP1
+1910208833;P1E=EU Löschvermerk;;Temperaturregler TP 7010;EU;SP5
 1910208872;unbekannt;;Magnetschalter 1S M8 (Reed-Sensor);EU;SP5
 1910208876;unbekannt;;Hilfsschuetz 230V AC 4S;;SP1
 1910208877;unbekannt;;Hilfsschalter 4OE;;SP1
 1910208891;unbekannt;;Steuerplatine can Türantrieb RT301;;SP1
-1910208900;P1E=EU Löschvermerk;;Leuchtstofflampe 36W;;
+1910208900;P1E=EU Löschvermerk;;Leuchtstofflampe 36W;EU;SP5
 1910208920;unbekannt;;Drehgeber2048 SSI Baumer Konus 5m 3rs;;SP1
-1910208940;P1E=EU Löschvermerk;;Laufrollen Set rechts;;
-1910208962;P1E=EU Löschvermerk;;Drehgeber Kübler;;
-1910208964;P1E=EU Löschvermerk;;Blindelement SM1;;
-1910208965;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. -1;;
-1910208966;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 0;;
-1910208967;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 1;;
-1910208968;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 2;;
-1910208969;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 3;;
-1910208970;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 4;;
-1910208971;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. -1;;
-1910208972;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 0;;
-1910208973;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 1;;
-1910208974;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 2;;
-1910208975;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 3;;
-1910208976;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 4;;
-1910208992;P1E=EU Löschvermerk;;Türmotor OP14;;
-1910209044;P1E=EU Löschvermerk;;ZB Frequenzumrichter CPI40E V3 synchron;;
-1910209046;P1E=EU Löschvermerk;;ZB Frequenzumrichter CPI60E V3 synchron;;
+1910208940;P1E=EU Löschvermerk;;Laufrollen Set rechts;EU;SP5
+1910208962;P1E=EU Löschvermerk;;Drehgeber Kübler;EU;SP5
+1910208964;P1E=EU Löschvermerk;;Blindelement SM1;EU;SP5
+1910208965;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. -1;EU;SP5
+1910208966;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 0;EU;SP5
+1910208967;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 1;EU;SP5
+1910208968;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 2;EU;SP5
+1910208969;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 3;EU;SP5
+1910208970;P1E=EU Löschvermerk;;Taster SM1 Braille Mf Bez. 4;EU;SP5
+1910208971;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. -1;EU;SP5
+1910208972;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 0;EU;SP5
+1910208973;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 1;EU;SP5
+1910208974;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 2;EU;SP5
+1910208975;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 3;EU;SP5
+1910208976;P1E=EU Löschvermerk;;Taster SM1 Braille Bez. 4;EU;SP5
+1910208992;P1E=EU Löschvermerk;;Türmotor OP14;EU;SP5
+1910209044;P1E=EU Löschvermerk;;ZB Frequenzumrichter CPI40E V3 synchron;EU;SP5
+1910209046;P1E=EU Löschvermerk;;ZB Frequenzumrichter CPI60E V3 synchron;EU;SP5
 1910209055;unbekannt;;Grundgeraet CPI15E V3;EU;SP5
 1910209058;unbekannt;;Frequenzumrichter CPI/MFC32 Grund V3;;SP1
 1910209062;unbekannt;;ZB Display RPI;;SP1
 1910209087;unbekannt;;Sensor Barcode Positioniersyst. BPS34;;
 1910209103;unbekannt;;Getriebeoel Optigear 20L;;
-1910209107;P1E=EU Löschvermerk;;Scheibe 4,5/8x8,5;;
+1910209107;P1E=EU Löschvermerk;;Scheibe 4,5/8x8,5;EU;SP5
 1910209112;unbekannt;;DICHTUNGSSATZ KOMPLETT;;SP1
 1910209137;unbekannt;;Kugelgelenk;;SP1
 1910209138;unbekannt;;Fuehrungsschuheinlage 127x34 16mm;;SP1
-1910209142;P1E=EU Löschvermerk;;ZBLaufrolleS8/K8 D71 LF61 o.Sr;;
+1910209142;P1E=EU Löschvermerk;;ZBLaufrolleS8/K8 D71 LF61 o.Sr;EU;SP5
 1910209143;unbekannt;;ZB Mitnehmerrolle fuer Hakenriegel S8;;SP1
 1910209163;unbekannt;;Magnetschalter bistabil 2-polig 3,5m;;SP1
 1910209173;unbekannt;;Schlüssel Manchette U03674;GE;SP1
-1910209187;P1E=EU Löschvermerk;;E/A Baugruppe 24/24;;
-1910209202;P1E=EU Löschvermerk;;BKS PMC 145L und Platine CPI;;
-1910209212;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 mit Schutzrohr;;
-1910209226;P1E=EU Löschvermerk;;ZB Begrenzerspannrolle <=2,5m/s d6,5;;
+1910209187;P1E=EU Löschvermerk;;E/A Baugruppe 24/24;EU;SP5
+1910209202;P1E=EU Löschvermerk;;BKS PMC 145L und Platine CPI;EU;SP5
+1910209212;P1E=EU Löschvermerk;;Leuchtstofflampe 36W D26 mit Schutzrohr;EU;SP5
+1910209226;P1E=EU Löschvermerk;;ZB Begrenzerspannrolle <=2,5m/s d6,5;EU;SP5
 1910209251;unbekannt;;ZB Leiterplatte MP Portmodul;;SP1
-1910209274;66110009219 P1E=EU Löschvermerk;;Frequenzumrichter CPI10E Grundg V3;;
+1910209274;66110009219 P1E=EU Löschvermerk;;Frequenzumrichter CPI10E Grundg V3;EU;SP5
 1910209276;unbekannt;;Frequenzumrichter CPI09F synchron;;SP1
 1910210252;6519030660;;ZB Leiterplatte MT Türmodul;GE;SP1
 1910210253;unbekannt;;Netzgeraet MN6 24V/4A 90/180V 3,4A;EU;SP5
 1910318323;unbekannt;;Dichtungssatz  Ventilblock AZSTBII;GE;SP1
 1910362676;unbekannt;;Kondensator 2µF 4000VAC;;SP1
-1910362681;P1E=EU Löschvermerk;;Leuchtstofflampe 40W D32 Ring DA413mm;;
+1910362681;P1E=EU Löschvermerk;;Leuchtstofflampe 40W D32 Ring DA413mm;EU;SP5
 1910362717;unbekannt;;Pendelrollenlager 22224E;;SP1
 1910362718;unbekannt;;Zylinderrollenlager NJ 2316 E;;SP1
-1910362767;P1E=EU Löschvermerk;;ZB Zusatzteile T125/B Klemmplatte;;
-1910362830;P1E=EU Löschvermerk;;Netzgeraet Aufbau API;;
-1910362831;P1E=EU Löschvermerk;;Netzgeraet Aufbau API72;;
-1910362843;P1E=EU Löschvermerk;;Schwellenprofil 42x23xca.3,5;;
-1910362860;P1E=EU Löschvermerk;;ZB Leiterplatte Rechner Aufzug;;
-1910362861;P1E=EU Löschvermerk;;ZB Leiterplatte Ansteuerung Abtaktwid.;;
-1910362862;P1E=EU Löschvermerk;;ZB Leiterplatte FDI;;
-1910362863;P1E=EU Löschvermerk;;ZB Leiterplatte FEI Steuerspannungserfas;;
-1910362864;P1E=EU Löschvermerk;;ZB Leiterplatte FMC2 Rechner C166;;
-1910362872;P1E=EU Löschvermerk;;ZB Leiterplatte HSR;;
-1910362878;P1E=EU Löschvermerk;;ZB Leiterplatte Interface;;
-1910362881;P1E=EU Löschvermerk;;ZB Leiterplatte Ansteuerung L1,2,3 API;;
+1910362767;P1E=EU Löschvermerk;;ZB Zusatzteile T125/B Klemmplatte;EU;SP5
+1910362830;P1E=EU Löschvermerk;;Netzgeraet Aufbau API;EU;SP5
+1910362831;P1E=EU Löschvermerk;;Netzgeraet Aufbau API72;EU;SP5
+1910362843;P1E=EU Löschvermerk;;Schwellenprofil 42x23xca.3,5;EU;SP5
+1910362860;P1E=EU Löschvermerk;;ZB Leiterplatte Rechner Aufzug;EU;SP5
+1910362861;P1E=EU Löschvermerk;;ZB Leiterplatte Ansteuerung Abtaktwid.;EU;SP5
+1910362862;P1E=EU Löschvermerk;;ZB Leiterplatte FDI;EU;SP5
+1910362863;P1E=EU Löschvermerk;;ZB Leiterplatte FEI Steuerspannungserfas;EU;SP5
+1910362864;P1E=EU Löschvermerk;;ZB Leiterplatte FMC2 Rechner C166;EU;SP5
+1910362872;P1E=EU Löschvermerk;;ZB Leiterplatte HSR;EU;SP5
+1910362878;P1E=EU Löschvermerk;;ZB Leiterplatte Interface;EU;SP5
+1910362881;P1E=EU Löschvermerk;;ZB Leiterplatte Ansteuerung L1,2,3 API;EU;SP5
 1910362940;unbekannt;;Buchse 40x65x34;;SP1
 1910362963;unbekannt;;Zylinderschraube M6x16  8.8 verzinkt;;SP1
 1910362970;unbekannt;;SKT Schraube M6x20 8.8 vz;;SP1
@@ -9613,80 +9613,80 @@ Vulkol.""";GE;SP1
 1910362990;unbekannt;;Sicherungsschraube M8x25;;SP1
 1910362995;unbekannt;;SKT Schraube M12x140 8.8 vz;;SP1
 1910363013;unbekannt;;Flachkopfschraube AM4x30 4.8 vz;;SP1
-1910363022;P1E=EU Löschvermerk;;Senkschraube M8x16 4.8 vz;;
-1910363038;P1E=EU Löschvermerk;;Gewindestift M8x25 14H St vz;;
-1910363051;P1E=EU Löschvermerk;;Schaftschraube M8x175 9S20K vz;;
+1910363022;P1E=EU Löschvermerk;;Senkschraube M8x16 4.8 vz;EU;SP5
+1910363038;P1E=EU Löschvermerk;;Gewindestift M8x25 14H St vz;EU;SP5
+1910363051;P1E=EU Löschvermerk;;Schaftschraube M8x175 9S20K vz;EU;SP5
 1910363061;6073903980;;Halteblech 40x35x2 entgratet;;SP1
 1910363122;unbekannt;;Scheibe 10 St vz;;SP1
 1910363130;unbekannt;;Scheibe 17/33x0,5 St2K50 GK vz;;SP1
 1910363132;unbekannt;;Sicherungsscheibe S10 Federstahl vz;;SP1
 1910363146;unbekannt;;Sicherungsscheibe S12 Federstahl vz;;SP1
 1910363199;unbekannt;;Jumper 2,54mm MAX;;SP1
-1910363271;P1E=EU Löschvermerk;;Schild Tragfaehigkeitsschild;;
+1910363271;P1E=EU Löschvermerk;;Schild Tragfaehigkeitsschild;EU;SP5
 1910363284;unbekannt;;Passfeder A14x9x63;;SP1
 1910363363;unbekannt;;ZB Schachtfahne 41-50;GE;SP2
 1910363364;unbekannt;;ZB Schachtfahne 51-59;GE;SP2
-1910363396;unbekannt;;ZB Türblatt L D4 TB700-900;;SP2
-1910363397;unbekannt;;ZB Türblatt R D4 TB 700-900;;SP2
+1910363396;unbekannt;;ZB Türblatt L D4 TB700-900;GE;SP2
+1910363397;unbekannt;;ZB Türblatt R D4 TB 700-900;GE;SP2
 1910363499;unbekannt;;Mutter fuer Gehaenge K5;;SP1
 1910363501;unbekannt;;Dichtung für hinteres Flanschlager;;
 1910363542;unbekannt;;ZB Schachtfahne 21-30 510mm;GE;SP2
 1910363604;unbekannt;;Buchse 60x80x19;;SP1
 1910363628;unbekannt;;ZB Typenschild C;;SP1
 1910363657;unbekannt;;ZB Spreizschwert R;EU;SP5
-1910363708;P1E=EU Löschvermerk;;Gewicht fuer Schliessgewicht S1;;
-1910363839;unbekannt;;ZB Seilrolle D800x240 / zxd;;SP2
-1910363877;P1E=EU Löschvermerk;;Achse D40x186;;
-1910363878;P1E=EU Löschvermerk;;Achse D60/70x220;;
+1910363708;P1E=EU Löschvermerk;;Gewicht fuer Schliessgewicht S1;EU;SP5
+1910363839;unbekannt;;ZB Seilrolle D800x240 / zxd;GE;SP2
+1910363877;P1E=EU Löschvermerk;;Achse D40x186;EU;SP5
+1910363878;P1E=EU Löschvermerk;;Achse D60/70x220;EU;SP5
 1910363888;unbekannt;;Seilrolle D400x80 4x10;;SP1
-1910364019;P1E=EU Löschvermerk;;ZB Rollenplatte schnell S12 TB900;;
+1910364019;P1E=EU Löschvermerk;;ZB Rollenplatte schnell S12 TB900;EU;SP5
 1910364072;unbekannt;;ZB Fuehrung fuer Tuerblatt;;SP1
 1910364126;unbekannt;;Zugfeder 680;EU;SP5
-1910364133;P1E=EU Löschvermerk;;ZB Zubehoer S8 M8x20 und Scheibe;;
-1910364230;P1E=EU Löschvermerk;;ZB Beschriftungselement 5C;;
+1910364133;P1E=EU Löschvermerk;;ZB Zubehoer S8 M8x20 und Scheibe;EU;SP5
+1910364230;P1E=EU Löschvermerk;;ZB Beschriftungselement 5C;EU;SP5
 1910364354;unbekannt;;ZB Abstreifer für Türblattaufhängung;;SP1
-1910364387;unbekannt;;ZB Seilrolle HL D700 DAB530;;SP3
-1910364415;P1E=EU Löschvermerk;;Fuehrungsleiste fuer Rollen SB150;;
+1910364387;unbekannt;;ZB Seilrolle HL D700 DAB530;GE;SP3
+1910364415;P1E=EU Löschvermerk;;Fuehrungsleiste fuer Rollen SB150;EU;SP5
 1910364424;unbekannt;;Laufrolle ohne Seilrille D50;;
-1910364441;unbekannt;;Achse D80x252;;
+1910364441;unbekannt;;Achse D80x252;EU;SP5
 1910364445;unbekannt;;Schutzgitter SC400;;SP1
-1910364447;P1E=EU Löschvermerk;;Frequenzumrichter CPI 09 V3;;
-1910364456;unbekannt;;ZB Seilrolle D540 ZxD DAF380;;SP2
+1910364447;P1E=EU Löschvermerk;;Frequenzumrichter CPI 09 V3;EU;SP5
+1910364456;unbekannt;;ZB Seilrolle D540 ZxD DAF380;GE;SP2
 1910364465;unbekannt;;Achse D80x322;;SP1
 1910364466;unbekannt;;ZB Transportkit Maschine SC400;;SP1
-1910364467;unbekannt;;ZB Seilrolle D600 DAB450;;SP2
-1910364469;P1E=EU Löschvermerk;;ZB Stator SC400M008 SD;;
+1910364467;unbekannt;;ZB Seilrolle D600 DAB450;GE;SP2
+1910364469;P1E=EU Löschvermerk;;ZB Stator SC400M008 SD;EU;SP5
 1910364474;unbekannt;;Fettzufuhrrohr SC400B AS;;SP1
 1910364475;unbekannt;;Fettauffang SC400B;;SP1
 1910364477;unbekannt;;Rohr Fettzufuhr SW-H 2 SC400B;;SP1
 1910364498;unbekannt;;Bremsabdeckung PMB285 L001-002;;SP1
-1910364578;unbekannt;;ZB Schachtfahne Geschw.kontr. v<=6m/s;;SP2
+1910364578;unbekannt;;ZB Schachtfahne Geschw.kontr. v<=6m/s;GE;SP2
 1910364615;unbekannt;;ZB Bremsbacke TW63B;;
-1910364628;P1E=EU Löschvermerk;;Abdeckung F9 Tuerantrieb;;
+1910364628;P1E=EU Löschvermerk;;Abdeckung F9 Tuerantrieb;EU;SP5
 1910364629;unbekannt;;ZB Bremsbacke TW130 2x200Nm;;
 1910364638;unbekannt;;ZB Bremsbacke TW130 2x125 Nm;;
 1910364648;unbekannt;;ZB Bremsbacke TW160;;
-1910364680;P1E=EU Löschvermerk;;Aufnahmeleiste Rollenfuehrung SB150;;
-1910364703;unbekannt;;Schwellenprofil Alu zwischen Zargen S12;;
+1910364680;P1E=EU Löschvermerk;;Aufnahmeleiste Rollenfuehrung SB150;EU;SP5
+1910364703;unbekannt;;Schwellenprofil Alu zwischen Zargen S12;EU;SP5
 1910364738;unbekannt;;ZB Druckstueck Aushebung SC400;;SP1
-1910364739;P1E=EU Löschvermerk;;ZB Zentralseil Türbreite 900mm;;
-1910364765;P1E=EU Löschvermerk;;Edelstahlprofil Schwelle M2T/M4TZ S8;;
+1910364739;P1E=EU Löschvermerk;;ZB Zentralseil Türbreite 900mm;EU;SP5
+1910364765;P1E=EU Löschvermerk;;Edelstahlprofil Schwelle M2T/M4TZ S8;EU;SP5
 1910364766;unbekannt;;ZB Seilrolle DW D1100 zxd;;SP1
-1910364770;P1E=EU Löschvermerk;;Leitung mit Steckverbinder M12 SF1000;;
-1910364775;P1E=EU Löschvermerk;;Lochblech fuer Zugfeder M2T S12;;
+1910364770;P1E=EU Löschvermerk;;Leitung mit Steckverbinder M12 SF1000;EU;SP5
+1910364775;P1E=EU Löschvermerk;;Lochblech fuer Zugfeder M2T S12;EU;SP5
 1910364818;unbekannt;;ZB Seilklemme DW 14x13 DAF380M1xx SC400;;SP1
 1910364819;unbekannt;;ZB Seilklemme DW 14x12 DAF380M1xx;;SP1
 1910364820;unbekannt;;ZB Seilklemme DW 14x10 DAF380M1xx;;SP1
-1910364826;P1E=EU Löschvermerk;;ZB Bremsbacke DAB530;;
+1910364826;P1E=EU Löschvermerk;;ZB Bremsbacke DAB530;EU;SP5
 1910364846;65680009227;;Rahmen 3C flach;;SP1
 1910364941;unbekannt;;Flachdichtung SC400B Lagerdeckel;;SP1
-1910365041;P1E=EU Löschvermerk;;Schwellenprofil TB900 S11;;
+1910365041;P1E=EU Löschvermerk;;Schwellenprofil TB900 S11;EU;SP5
 1910365118;unbekannt;;ZB Taster RT42 Sammelbestell. Graviert;;SP1
 1910365185;unbekannt;;Aufsetzpuffer T4 165 X 80 mm;;SP1
-1910365315;P1E=EU Löschvermerk;;Einlegeschild 12;;
-1910365436;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""P""";;
+1910365315;P1E=EU Löschvermerk;;Einlegeschild 12;EU;SP5
+1910365436;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""P""";EU;SP5
 1910365682;unbekannt;;Modem analog steckbar mit Voice-Funktion;;SP1
-1910365770;P1E=EU Löschvermerk;;ZB Leiterplatte MPSP Portmodul;;
+1910365770;P1E=EU Löschvermerk;;ZB Leiterplatte MPSP Portmodul;EU;SP5
 1910365800;unbekannt;;ZB Trennschaltverstaerker KFD2-SR-Ex2;;SP3
 1910365802;unbekannt;;ZB Leiterplatte MP Portmodul;;
 1910365833;unbekannt;;Stift 0,5-2;;SP1
@@ -9694,30 +9694,30 @@ Vulkol.""";GE;SP1
 1910366471;2200980;;Kabelkanal BA6 80040x2000;;SP1
 1910366472;2200940;;Kabelkanal BA6 80025x2000;;SP1
 1910366516;0099339660;;FI Schutzschalter 25A 30mA 2pol.230VAC;GE;SP1
-1910366556;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""O""";;
+1910366556;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""O""";EU;SP5
 1910366580;unbekannt;;"ZB Taster STEP C fla. Brail/Tak blau""-1""";EU;SP5
 1910366656;unbekannt;;BA Antrieb TW45C fr;;SP1
-1910366678;P1E=EU Löschvermerk;;Pendelrollenlager BS2 2214 2CSW/GEN4;;
-1910366682;P1E=EU Löschvermerk;;Makrolon opal 1050x860x3;;
+1910366678;P1E=EU Löschvermerk;;Pendelrollenlager BS2 2214 2CSW/GEN4;EU;SP5
+1910366682;P1E=EU Löschvermerk;;Makrolon opal 1050x860x3;EU;SP5
 1910366693;unbekannt;;Schraubendreher Gr.6 nach DIN 911;;SP1
 1910366721;unbekannt;;ZB Taster neutral S;;SP1
-1910366736;P1E=EU Löschvermerk;;Abdeckrahmen Bedienkasten DZS lang;;
+1910366736;P1E=EU Löschvermerk;;Abdeckrahmen Bedienkasten DZS lang;EU;SP5
 1910366738;unbekannt;;Pendelrollenlager 23134;;SP1
 1910366742;unbekannt;;Tastplatte C vergoldet neutral;;
-1910366796;unbekannt;;ZB CPI100R Ersatzgerät;;
+1910366796;unbekannt;;ZB CPI100R Ersatzgerät;;SP1
 1910366807;unbekannt;;Scheibenbremse RSQ800 2x800Nm;;SP1
 1910366808;unbekannt;;Scheibenbremse RTW600 2x550Nm;;SP1
 1910366810;unbekannt;;Scheibenbremse RSQ800 2x550Nm;;SP1
 1910366811;unbekannt;;Frequenzumrichter CPI/MFC32 Grundgeraet;;SP1
 1910366824;unbekannt;;Rohrverschraubung Winkel 90 NW08 D10;;SP1
-1910366825;P1E=EU Löschvermerk;;Bodenbelag Concrete Dark Grey;;
+1910366825;P1E=EU Löschvermerk;;Bodenbelag Concrete Dark Grey;EU;SP5
 1910367014;unbekannt;;ZB Leitung Schachtlicht 10m;;SP1
 1910367162;unbekannt;;Geblaese Radial SC400 CSA;;SP1
 1910367240;unbekannt;;Netzfilter 180A, 3x480V CPI310R;;SP1
 1910367243;unbekannt;;Netzfilter 3x36A 480VAC;;SP1
-1910367286;P1E=EU Löschvermerk;;Stahlseil 30m;;
-1910367288;P1E=EU Löschvermerk;;Stahlseil 60m;;
-1910367290;P1E=EU Löschvermerk;;Stahlseil 100m;;
+1910367286;P1E=EU Löschvermerk;;Stahlseil 30m;EU;SP5
+1910367288;P1E=EU Löschvermerk;;Stahlseil 60m;EU;SP5
+1910367290;P1E=EU Löschvermerk;;Stahlseil 100m;EU;SP5
 1910367410;unbekannt;;Naeherungsschalter NJ8-18GM50-E2;;SP1
 1910367414;unbekannt;;Wellendichtring CR 130x170x12 CRW1 R;;SP1
 1910367426;unbekannt;;LS-3 Hauptbaugruppe 48V;;SP1
@@ -9725,22 +9725,22 @@ Vulkol.""";GE;SP1
 1910367439;unbekannt;;Drehgeber2048 BISSC Baumer Konus 3m 2rs;;SP1
 1910367627;unbekannt;;Passscheibe DIN 988 28x40x0,1;;SP1
 1910367678;unbekannt;;ZB Taster neutral;EU;SP5
-1910367726;P1E=EU Löschvermerk;;Umrichter MFC 31-26 SM V3;;
-1910367727;P1E=EU Löschvermerk;;Umrichter MFC 21-48 SM V1;;
-1910367728;P1E=EU Löschvermerk;;Umrichter MFC 31-60 SM V3;;
-1910367736;P1E=EU Löschvermerk;;Umrichter MFC 31-40 SM V3;;
-1910367819;P1E=EU Löschvermerk;;Seil für Personenwinde auf Trommel 150m;;
-1910367841;P1E=EU Löschvermerk;;ZB Fanglöseseil;;
+1910367726;P1E=EU Löschvermerk;;Umrichter MFC 31-26 SM V3;EU;SP5
+1910367727;P1E=EU Löschvermerk;;Umrichter MFC 21-48 SM V1;EU;SP5
+1910367728;P1E=EU Löschvermerk;;Umrichter MFC 31-60 SM V3;EU;SP5
+1910367736;P1E=EU Löschvermerk;;Umrichter MFC 31-40 SM V3;EU;SP5
+1910367819;P1E=EU Löschvermerk;;Seil für Personenwinde auf Trommel 150m;EU;SP5
+1910367841;P1E=EU Löschvermerk;;ZB Fanglöseseil;EU;SP5
 1910367893;unbekannt;;V Ring V 130A;;SP1
-1910367921;P1E=EU Löschvermerk;;Arretierbolzen M10x1;;
-1910367950;unbekannt;;Taster Bremskontrolle 24VDC 200mA IP65;;
+1910367921;P1E=EU Löschvermerk;;Arretierbolzen M10x1;EU;SP5
+1910367950;unbekannt;;Taster Bremskontrolle 24VDC 200mA IP65;;SP1
 1910367979;unbekannt;;Zylinderschraube M10x110-8.8-A2F;;SP1
-1910368028;P1E=EU Löschvermerk;;Rillenkugellager 6315-2RS-C3;;
+1910368028;P1E=EU Löschvermerk;;Rillenkugellager 6315-2RS-C3;EU;SP5
 1910368092;unbekannt;;SKT Schraube M10x120 10.9 vz;;SP1
-1910368107;P1E=EU Löschvermerk;;ZB Schwellenheizung S8 Nachlieferung;;
-1910368235;P1E=EU Löschvermerk;;Diode 1N4148 100V 200mA;;
+1910368107;P1E=EU Löschvermerk;;ZB Schwellenheizung S8 Nachlieferung;EU;SP5
+1910368235;P1E=EU Löschvermerk;;Diode 1N4148 100V 200mA;EU;SP5
 1910368269;unbekannt;;V Ring V 180A NBR;;SP1
-1910368326;P1E=EU Löschvermerk;;Kombischraube M6x20 Z4-1 8.8 vz;;
+1910368326;P1E=EU Löschvermerk;;Kombischraube M6x20 Z4-1 8.8 vz;EU;SP5
 1910368393;unbekannt;;Zylinderschraube M8x30 8.8 verzinkt;;SP1
 1910368403;unbekannt;;Scheibe 46/70x1 St1203;;SP1
 1910368406;unbekannt;;Zylinderrollenlager NJ2324 E C3;;SP1
@@ -9753,47 +9753,47 @@ Vulkol.""";GE;SP1
 1910368607;unbekannt;;Schachtfahne 8;GE;SP2
 1910368609;unbekannt;;ZB Schachtfahne 13-20;GE;SP2
 1910368610;unbekannt;;ZB Schachtfahne 21-30;GE;SP2
-1910368630;unbekannt;;Treibscheibenkranz W263/. D540xb160;;SP3
-1910368631;unbekannt;;Treibscheibenkranz W263 D640xb160;;SP3
-1910368643;unbekannt;;ZB Seilrolle D740x228 zxd;;SP3
+1910368630;unbekannt;;Treibscheibenkranz W263/. D540xb160;Z0;SP3
+1910368631;unbekannt;;Treibscheibenkranz W263 D640xb160;Z0;SP3
+1910368643;unbekannt;;ZB Seilrolle D740x228 zxd;Z0;SP3
 1910368653;unbekannt;;Befestigungsblech 92x40x3;;SP1
 1910368670;unbekannt;;ZB Leitung Modbus Christ-HIMA RJ45;;
 1910368687;unbekannt;;ZB Seilrolle D400 zxD DAF290;;SP3
 1910368689;unbekannt;;ZB Seilrolle D400 ZxD DAF330;;SP3
 1910368694;unbekannt;;ZB Wippe mit Heber DAF380;;SP1
-1910368728;unbekannt;;ZB Schneckenwelle Hub Unit TW45;;SP2
-1910368730;unbekannt;;ZB Schneckenwelle Hub Unit;;SP2
+1910368728;unbekannt;;ZB Schneckenwelle Hub Unit TW45;GE;SP2
+1910368730;unbekannt;;ZB Schneckenwelle Hub Unit;GE;SP2
 1910368742;unbekannt;;Treibscheibe DAF270 EBS D440 7x10 K40°;;SP1
 1910368744;unbekannt;;Flachdichtung Lagerdeckel AS SC500;;SP1
 1910368745;unbekannt;;Deckel Klemmenkasten SC500L;;SP1
 1910368747;unbekannt;;Abdeckung oben SC500L;;SP1
-1910368751;unbekannt;;ZB Seilrolle D400 ZxD SC300;;SP3
+1910368751;unbekannt;;ZB Seilrolle D400 ZxD SC300;Z0;SP3
 1910368753;unbekannt;;ZB  Rückwand SC500L;;SP1
 1910368795;unbekannt;;Dichtungsring SC400;;SP1
 1910368797;unbekannt;;Lagerdeckel SC400B AS aussen;;SP1
-1910368801;unbekannt;;Treibscheibe SC400 D560 z x d;;SP3
+1910368801;unbekannt;;Treibscheibe SC400 D560 z x d;Z0;SP3
 1910368803;unbekannt;;ZB Blockierungsklemme SC400;;SP1
-1910368805;unbekannt;;ZB Seilrolle SC400 D540;;SP3
-1910368901;P1E=EU Löschvermerk;;Flanschplatte Bremse SC400 Guss;;
-1910369030;P1E=EU Löschvermerk;;ZB Treibscheibe K1 D240 L mit FS mit US;;
+1910368805;unbekannt;;ZB Seilrolle SC400 D540;Z0;SP3
+1910368901;P1E=EU Löschvermerk;;Flanschplatte Bremse SC400 Guss;EU;SP5
+1910369030;P1E=EU Löschvermerk;;ZB Treibscheibe K1 D240 L mit FS mit US;EU;SP5
 1910369043;unbekannt;;Conduithalteblech PMB285 L002;;SP1
-1910369080;P1E=EU Löschvermerk;;Laufrolle II50/150I50/1;;
-1910369185;P1E=EU Löschvermerk;;Begrenzer-Sp.Ø200 494N T90 Linksseitig;;
-1910369276;unbekannt;;ZB Leitung AWG26 4pol var. FBL stecker e;;SP2
-1910369339;P1E=EU Löschvermerk;;ZB Leiterplatte FRP Feldregler;;
-1910369340;P1E=EU Löschvermerk;;ZB Leiterplatte FSK Snubber API26;;
-1910369341;P1E=EU Löschvermerk;;ZB Leiterplatte Impulsgenerator 50Hz;;
-1910369342;P1E=EU Löschvermerk;;ZB Leiterplatte Netzteil GPI;;
-1910369343;P1E=EU Löschvermerk;;ZB Leiterplatte Ueberwachung I;;
-1910369346;P1E=EU Löschvermerk;;ZB Rollenfuehrung RTK300;;
-1910369347;P1E=EU Löschvermerk;;ZB Rollenfuehrung Unterkette;;
-1910369376;P1E=EU Löschvermerk;;Treibscheibe W149B;;
-1910369410;P1E=EU Löschvermerk;;Treibscheibe TW130 D900 6x11 S100;;
-1910369418;unbekannt;;ZB Treibscheibe mit Bremsscheibe SC400;;SP2
-1910369446;P1E=EU Löschvermerk;;Umrichter MFC 21-32 SM V1;;
+1910369080;P1E=EU Löschvermerk;;Laufrolle II50/150I50/1;EU;SP5
+1910369185;P1E=EU Löschvermerk;;Begrenzer-Sp.Ø200 494N T90 Linksseitig;EU;SP5
+1910369276;unbekannt;;ZB Leitung AWG26 4pol var. FBL stecker e;GE;SP2
+1910369339;P1E=EU Löschvermerk;;ZB Leiterplatte FRP Feldregler;EU;SP5
+1910369340;P1E=EU Löschvermerk;;ZB Leiterplatte FSK Snubber API26;EU;SP5
+1910369341;P1E=EU Löschvermerk;;ZB Leiterplatte Impulsgenerator 50Hz;EU;SP5
+1910369342;P1E=EU Löschvermerk;;ZB Leiterplatte Netzteil GPI;EU;SP5
+1910369343;P1E=EU Löschvermerk;;ZB Leiterplatte Ueberwachung I;EU;SP5
+1910369346;P1E=EU Löschvermerk;;ZB Rollenfuehrung RTK300;EU;SP5
+1910369347;P1E=EU Löschvermerk;;ZB Rollenfuehrung Unterkette;EU;SP5
+1910369376;P1E=EU Löschvermerk;;Treibscheibe W149B;EU;SP5
+1910369410;P1E=EU Löschvermerk;;Treibscheibe TW130 D900 6x11 S100;EU;SP5
+1910369418;unbekannt;;ZB Treibscheibe mit Bremsscheibe SC400;GE;SP2
+1910369446;P1E=EU Löschvermerk;;Umrichter MFC 21-32 SM V1;EU;SP5
 1910369451;unbekannt;;ZB Leiterplatte MC3 Microcomputer TCM;EU;SP5
-1910369498;P1E=EU Löschvermerk;;ZB Leitung Spannungsversorgung ADAP;;
-1910369533;unbekannt;;ZB Seilrolle D740x228 zxd;;SP3
+1910369498;P1E=EU Löschvermerk;;ZB Leitung Spannungsversorgung ADAP;EU;SP5
+1910369533;unbekannt;;ZB Seilrolle D740x228 zxd;Z0;SP3
 8001409494;99000011923;;Set Scheibenbremse SC500L;GE;SP1
 1910369546;unbekannt;;Scheibenbremse SC400 3200Nm RSD9 DA;;SP1
 1910369547;unbekannt;;Scheibenbremse SC400 3200Nm RSD9 CSA DA;;SP1
@@ -9813,7 +9813,7 @@ Vulkol.""";GE;SP1
 1910496918;unbekannt;batch4;Induktiver Sensor TK-UCM A3;GE;SP1
 1910497122;unbekannt;batch4;Seilendstück 6,6MM ohne Feder (SYNERGY);GE;SP1
 1910497147;unbekannt;batch4;Kabel Fliehkraftregler 6,5D;GE;SP1
-1910497158;unbekannt;batch4;Zugseil DRAKO 250T 6D;;
+1910497158;unbekannt;batch4;Zugseil DRAKO 250T 6D;GE;SP1
 1910497286;unbekannt;batch4;Radsperre Kompaktstütze;GE;SP1
 1910497314;unbekannt;;Rolle Türe SEMANTIC (2 Stück);;SP1
 1910497425;unbekannt;;Netzteil PSC35A-C;GE;SP1
@@ -9839,7 +9839,7 @@ Vulkol.""";GE;SP1
 1910499069;unbekannt;batch4;Magnethalter-Baugruppe CMC-4;GE;SP1
 1910499202;unbekannt;batch4;Lichtgehäuse CMC4+ 20.50;GE;SP1
 1910499209;unbekannt;;Lichtanzeige 600X600 niedriges Profil;GE;SP1
-1910499258;P1E=EU Löschvermerk;;LED-Beleuchtungsanzeige 300X300;;
+1910499258;P1E=EU Löschvermerk;;LED-Beleuchtungsanzeige 300X300;EU;SP5
 1910499268;unbekannt;batch4;LED-Beleuchtungsanzeige 600x600 NEU;GE;SP1
 1910499275;unbekannt;batch4;Auto-LED-Streifen 24V 250MM;GE;SP1
 1910499276;unbekannt;batch4;LED-Streifen Auto 24V 500MM;GE;SP1
@@ -9857,18 +9857,18 @@ Vulkol.""";GE;SP1
 1910499487;unbekannt;batch4;Tastenfeld LOP-50 Edelstahl 1 Taste;GE;SP1
 1910499488;unbekannt;batch4;Tastenfeld LOP-50 Edelstahl 2 Tasten;GE;SP1
 1910499508;unbekannt;batch4;Vandalisicher Schlüsselschalter EUROKEY;GE;SP1
-1910508646;66600000002;;SP Frequenzumrichter CT Allgemein;;SP1
-1910508647;66600000019;;Frequenzumrichter CT Allgemein;;SP1
-1910508648;66600000022;;SP Bremswiderstände CT;;SP1
-1910508649;66600000023;;SP Netzfilter CT TIS2 MR;;SP1
-1910508650;66600000024;;SP Netzdrossel CT TIS2 MR;;SP1
-1910508651;66600000039;;SP CT Zubehör;;SP1
-1910508652;66600000040;;SP CT Ersatzteile CTxxG MRL;;SP1
-1910508653;66600000041;;SP CT Ersatzteile CTxx MR;;SP1
+1910508646;66600000002;;SP Frequenzumrichter CT Allgemein;GE;SP2
+1910508647;66600000019;;Frequenzumrichter CT Allgemein;GE;SP2
+1910508648;66600000022;;SP Bremswiderstände CT;GE;SP2
+1910508649;66600000023;;SP Netzfilter CT TIS2 MR;GE;SP2
+1910508650;66600000024;;SP Netzdrossel CT TIS2 MR;GE;SP2
+1910508651;66600000039;;SP CT Zubehör;GE;SP2
+1910508652;66600000040;;SP CT Ersatzteile CTxxG MRL;GE;SP2
+1910508653;66600000041;;SP CT Ersatzteile CTxx MR;GE;SP2
 1910508654;66610000005;;CT09 + Variante TKE TIS2;;SP1
 1910508655;880731020091;;CT09 + Variante LE Klemmstecker;;SP1
 1910508656;880731020092;;CT09 + Variante LE DCP-Modul;;SP1
-1910508658;880731030091;;CT09G + Variante LE Klemmstecker;GE;SP4
+1910508658;880731030091;;CT09G + Variante LE Klemmstecker;GE;SP1
 1910508659;880731030092;;CT09G + Variante LE DCP-Modul;GE;SP1
 1910508660;66670000002;;CT15 + Variante TKE TIS2;;SP1
 1910508661;880731020151;;CT15 + Variante LE Klemmstecker;;SP1
@@ -9915,7 +9915,7 @@ Vulkol.""";GE;SP1
 1910512164;unbekannt;;Scheibe 52/68x4 PVC;;SP1
 1910512165;unbekannt;;Scheibe 62/80x4 PVC;;SP1
 1910512166;unbekannt;;Scheibe 82/100x4 PVC;;SP1
-1910512170;P1E=EU Löschvermerk;;Pendelrollenlager 23220-2CS;;
+1910512170;P1E=EU Löschvermerk;;Pendelrollenlager 23220-2CS;EU;SP5
 1910561510;unbekannt;;EasyGate LTE IP-Gateway ohne Modem;;SP1
 1910561995;unbekannt;;Fangzange;GE;SP2
 1910563947;unbekannt;;Achse D50x190;;SP1
@@ -9949,7 +9949,7 @@ Vulkol.""";GE;SP1
 8000786445;unbekannt;;Scheibenbremse SC500 4500 Nm;EU;SP5
 8000812669;unbekannt;;Scheibenbremse SC500 4500 Nm CSA;;SP1
 8000874050;unbekannt;;PWB-KARTE HV05;;SP1
-8000921139;unbekannt;;Haftmagnet D130 100/50VDC;;
+8000921139;unbekannt;;Haftmagnet D130 100/50VDC;EU;SP5
 8001292849;unbekannt;;Flachbeutel 500x300x0,3;;SP1
 8001332309;4007356;;Treibscheibe TW63B D450x132 Rohteil;;
 8001332310;4007366;;Treibscheibe TW63B D510x132 Rohteil;;
@@ -10012,7 +10012,7 @@ Vulkol.""";GE;SP1
 1000260370;60230009913;;ZB Geschw.begrenzer Jungblut HJ 300 L;Z0;SP1
 1000260371;60230009914;;ZB Geschw.begrenzer Jungblut HJ 300 R;Z0;SP1
 8001363426;62480010087;;Zugstange SF700;Z0;SP2
-1910076504;unbekannt;;Gleitschuh-Einlage 5 mm 100x20x30 mm;;
+1910076504;unbekannt;;Gleitschuh-Einlage 5 mm 100x20x30 mm;EU;SP2
 1910160645;unbekannt;batch4;DRUCK TASTEr PFEIL NACH OBEN BST BAMSC037;GE;SP1
 1910046698;unbekannt;batch4;Taster S1 BST LOP 1 Pfeil;GE;SP1
 1000226514;unbekannt;batch4;KABEL WECO TX 03.G5.UF11.AMP;GE;SP1
@@ -10040,7 +10040,7 @@ Vulkol.""";GE;SP1
 8000831075;unbekannt;;ZB Begrenzer GBTK 6024-500S GBTK 6024-50;Z0;SP2
 8000804614;;;ZB GBTK 6024-300M;Z0;SP2
 1000262273;unbekannt;;LED-Röhre T9,Ring, D=216mm Tageslicht;GE;SP1
-1000099485;10082623;batch4;KARTE PIA CMC4+ 20.50;Z0;SP1
+1000099485;10082623;batch4;KARTE PIA CMC4+ 20.50;GE;SP1
 1000234736;10085572 Nr. SBC Spain! P1E=EU Löschvermerk;batch4;Steuerplatine UBF-CMC4+;GE;SP1
 1910497121;10077442 Nr. SBC Spain;batch4;SEILBUCHSE  6, 6 MM MIT FEDER (SYNERGY);GE;SP1
 1910499062;10077204 Nr. SBC Spain;batch4;NIVELLIERMAGNET L=280 mm;GE;SP1
@@ -10118,9 +10118,9 @@ Vulkol.""";GE;SP1
 1910197775;batch5;;ZUBEHÖR FÜR LADEAUFZUG XCA.0075;Z0;SP1
 1910197777;batch5;;Gleitschuhhalter MACLA ASA 0015;Z0;SP1
 1910197779;batch5;;Brugg-Gurt 43 kN;Z0;SP1
-1910498317;batch5;8830000611;Relais Finder 40.52;RELAIS 12 V DC (TYP FINDER);SP1
+1910498317;batch5;8830000611;Relais Finder 40.52;GE;SP1
 1910668161;batch5;8850005551;Luftfilter Set RAS-Wagner;Z0;SP1
-1910668162;batch5;;Luftfilter;;
+1910668162;batch5;;Luftfilter;EU;SP5
 1910668163;batch5;8850005553;Rauchspray;Z0;SP1
 1910668164;batch5;8850005554;Rauchstift;Z0;SP1
 1910668165;batch5;8850005555;Schlüssel;Z0;SP1
@@ -10177,23 +10177,23 @@ Vulkol.""";GE;SP1
 1910668217;batch5;8850008031;Schienenöler 16mm;GE;SP1
 1910668218;batch5;8850008033;Ölauffangbehälter 16mm;GE;SP1
 1910668219;batch5;8850820155;Führungsschuheinlage EM 5 PU;Z0;SP1
-1910668220;batch5;;Ölauffangbehälter, rund D160;;
+1910668220;batch5;;Ölauffangbehälter, rund D160;EU;SP5
 1910668221;batch5;8850820232;Ölauffangbehälter ,eckig;GE;SP1
 1910668222;batch5;8850820851;Türlaufrolle PAG;GE;SP1
 1910668223;batch5;8850820879;Türblattführung PE;GE;SP1
 1910668224;batch5;8860995981;Türlaufrolle VF92 PA6G Lager 6201;GE;SP1
 1910668225;batch5;8840S30003;Einlage 15 PEC Cell-VU;GE;SP1
-1910668226;batch5;;Türkontakt und Brücke 60mm;;
+1910668226;batch5;;Türkontakt und Brücke 60mm;EU;SP5
 1910668227;batch5;8850007136;Zahnriemen HTD 5M 1;GE;SP1
 1910668229;batch5;8850007139;Zahnriemen RPP5;GE;SP1
 1910668230;batch5;8850007143;Synchronisationsseil;GE;SP1
-1910668231;batch5;;Rolle, PFR-04;;
+1910668231;batch5;;Rolle, PFR-04;EU;SP5
 1910668232;batch5;8850007156;Rolle, PFR-38;GE;SP1
-1910668233;batch5;;Rolle, PFR-62;;
-1910668234;batch5;;Rolle, PFR-08;;
-1910668235;batch5;;Rolle, PFR-09;;
-1910668236;batch5;;Ritzel;;
-1910668237;batch5;;Mitnehmerrolle Satz 915mm;;
+1910668233;batch5;;Rolle, PFR-62;EU;SP5
+1910668234;batch5;;Rolle, PFR-08;EU;SP5
+1910668235;batch5;;Rolle, PFR-09;EU;SP5
+1910668236;batch5;;Ritzel;EU;SP5
+1910668237;batch5;;Mitnehmerrolle Satz 915mm;EU;SP5
 1910668238;batch5;8850007168;Mitnehmerrolle Satz;GE;SP1
 1910668239;batch5;8850007273;Sicherheitsfeder, L442 mm;GE;SP1
 1910668240;batch5;8850007289;Gummianschlag Türverriegelung M6x25 mm;GE;SP1
@@ -10203,7 +10203,7 @@ Vulkol.""";GE;SP1
 1910668244;batch5;8850007306;Führungsschuh;GE;SP1
 1910668245;batch5;8850007308;Führungsschuh 140mm;GE;SP1
 1910668246;batch5;8850007313;Führungsschuh 90mm;GE;SP1
-1910668247;batch5;;Türkontakt und Brücke 40mm;;
+1910668247;batch5;;Türkontakt und Brücke 40mm;EU;SP5
 1910668248;batch5;8850007336;Türkontakt und Brücke 50mm;GE;SP1
 1910668249;batch5;8850007353;Türkontakt und Brücke;GE;SP1
 1910668250;batch5;8850007354;Türsteuergerät VF4+;EU;SP5
@@ -10213,14 +10213,14 @@ Vulkol.""";GE;SP1
 1910668255;batch5;8850007384;Mitnehmerschwert mit Kontakt;GE;SP1
 1910668256;batch5;ENC6005010;Akkumulator 12 V 1,2 Ah;Z0;SP1
 1910668257;batch5;8840300782;Notentriegelungsschlüssel Dreikant M5;GE;SP1
-1910668258;batch5;;Schachtumschalter 3-polig;;
+1910668258;batch5;;Schachtumschalter 3-polig;EU;SP5
 1910668260;batch5;8850003188;Betätigungskralle Sicherheitsschalter WZ;GE;SP1
 1910668262;batch5;8850003785;Brücke;GE;SP1
 1910668263;batch5;8850004047;Notentriegelungsschlüssel CS;GE;SP1
 1910668264;batch5;8850004400;Kontaktbrücke PZ 24;GE;SP1
 1910668265;batch5;8850004401;Unterlage PZ - U5;GE;SP1
 1910668266;batch5;8850820644;Türverriegelung Riegelbüchse 'B';GE;SP1
-1910668267;batch5;;Notentriegelungsschlüssel D12;;
+1910668267;batch5;;Notentriegelungsschlüssel D12;Z0;SP1
 1910668268;batch5;8850003008;Schlüssel MAP;Z0;SP1
 1910668269;batch5;8850003076;Türverriegelung SE7/SBE6;GE;SP1
 1910668270;batch5;8850003118;Puffer D20;GE;SP1
@@ -10342,8 +10342,8 @@ Vulkol.""";GE;SP1
 1910668391;batch5;8850820714;Schlüsselschalter Standard;GE;SP1
 1910668392;batch5;8850820730;Kurzhubtaster MT56;Z0;SP1
 1910668393;batch5;8850820735;Kurzhubtaster;Z0;SP1
-1910668394;batch5;;Taster rund VB42M;;
-1910668395;batch5;;KT40 TH, 1NO+1NC, db gelb, S039 TH Alarm;;
+1910668394;batch5;;Taster rund VB42M;Z0;SP1
+1910668395;batch5;;KT40 TH, 1NO+1NC, db gelb, S039 TH Alarm;Z0;SP1
 1910668396;batch5;8850004707;Akku 12V 6.0AH;GE;SP1
 1910668397;batch5;8850005497;Hilfsschütz 1S+1Ö, 230V 50/60Hz;GE;SP1
 1910668398;batch5;8850004361;Relais 12 V DC (Typ DOLD);GE;SP1
@@ -10413,7 +10413,7 @@ Vulkol.""";GE;SP1
 1910668463;batch5;unbekannt;EBRA Steuerungsplatine;GE;SP1
 1910668464;batch5;unbekannt;HAKENRIEGEL KOMPLETT FUER TYP 11/41 LINK;GE;SP1
 1910668465;batch5;unbekannt;ROLLER DIAMETER 200MM WRG WIDE 38MM.;GE;SP1
-1910668466;batch5;;CALL BUT.L-BDU INT.WHITE/BLUE1;;
+1910668466;batch5;;CALL BUT.L-BDU INT.WHITE/BLUE1;Z0;SP1
 1910668467;batch5;unbekannt;ROPE PULLEY, TENSION WEIGHT, D214X20MM;GE;SP1
 1910668469;batch5;unbekannt;ROLLER DIAMETER 150MM WRG WIDE 27MM.;GE;SP1
 1910668470;batch5;unbekannt;OBERE HD PREMIUM LAUFROLLE, D56 MM HYDRA;GE;SP1
@@ -10424,7 +10424,7 @@ Vulkol.""";GE;SP1
 1910668475;batch5;unbekannt;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L440 MM;GE;SP1
 1910668476;batch5;unbekannt;FEDER FÜR SCHACHTTÜRSCHLIEßUNG. L315 MM;GE;SP1
 1910668477;batch5;unbekannt;UNTERE GEGENROLLE FÜR LAUFWAGEN D.36MM;GE;SP1
-1910668478;batch5;;DOORS CONTACT KF9074;;
+1910668478;batch5;;DOORS CONTACT KF9074;EU;SP5
 1910668479;batch5;unbekannt;FILZ FÜR GEGENGEWICHT L=1000 MM;GE;SP1
 1910668480;batch5;unbekannt;SYNCHRON/SCHLIEßROLLE HYDRA D64MM;GE;SP1
 1910668481;batch5;unbekannt;TOOTH BELT, HDT5M 12;Z0;SP1
@@ -10434,10 +10434,10 @@ Vulkol.""";GE;SP1
 1910668485;batch5;unbekannt;CONTACT BRIDGE KF 9075;GE;SP1
 1910668486;batch5;unbekannt;DOOR PANEL SHOES KIT (4PCS);GE;SP1
 1910668487;batch5;unbekannt;EXTENSION SPRING STEEL WIRE;GE;SP1
-1910668488;batch5;;TRÄGERELEMENT / FÜHRUNGSSCHUH;;
+1910668488;batch5;;TRÄGERELEMENT / FÜHRUNGSSCHUH;EU;SP5
 1910668489;batch5;unbekannt;SLIDING ELEMENT EBRA 20;GE;SP1
-1910668490;batch5;;FÜHRUNGSSCHUH GELOCHT;;
-1910668491;batch5;;ÖFFNUNG GERÄTE-ETIKETT, 95X110MM;;
+1910668490;batch5;;FÜHRUNGSSCHUH GELOCHT;EU;SP5
+1910668491;batch5;;ÖFFNUNG GERÄTE-ETIKETT, 95X110MM;Z0;SP1
 8000831073;unbekannt;;ZB Begrenzer GBTK 6024-300S GBTK 6024-30;Z0;SP2
 8000831070;unbekannt;;ZB Begrenzer GBTK 6024-300S GBTK 6024-30;Z0;SP2
 8000831071;unbekannt;;ZB Begrenzer GBTK 6024-300S GBTK 6024-30;Z0;SP2
@@ -10477,7 +10477,7 @@ Vulkol.""";GE;SP1
 1910366091;99500001847;;Widerstand 330R 25W Konfekt. 500mm;Z0;SP1
 1000264937;65100009251_P;;ZB Leiterplatte MHC DB Voice;GE;SP1
 11111111;;;Test Material;;
-8001363202;99000009636;;Pendelrollenlager 23048 C3;Z0;SP1
+8001363202;99000009636;;Pendelrollenlager 23048 C3;GE;SP1
 1910160575;SBC Spain 10084940;;7-Zoll-TFT-Display mit synth. Sprache;GE;SP1
 1000028963;batch5;8850004058;Magnetschalter BN 325-R;GE;SP1
 1000103550;batch5;8850003961;Türschloss rechts 'QKS8';Z0;SP1
@@ -10729,7 +10729,9 @@ Vulkol.""";GE;SP1
 1910671137;batch1+2 Tepper + Schweiz batch1;;RC-GLIED/CIRCUIT RC LAD4 RCU 110-250 V;Z0;SP1
 1910671268;batch1+2 Tepper + Schweiz batch1;;tke Aufzüge set Lift8 3G;Z0;SP1
 1910671269;batch1+2 Tepper + Schweiz batch1;;Umrichter 9114LB;Z0;SP1
-1000265218;neuer Werbeartikel;;TKE Lanyard - Umhängeband;GE;SP1
-1000265221;neuer Werbeartikel;;TKE Thermobecher schwarz;GE;SP1
-8001363362;5601490;;Rillenkugellager 6206-Z;GE;SP1
+1000265218;neuer Werbeartikel;;TKE Lanyard - Umhängeband;Z0;SP1
+1000265221;neuer Werbeartikel;;TKE Thermobecher schwarz;Z0;SP1
+8001363362;5601490;;Rillenkugellager 6206-Z;Z0;SP2
 1910366368;65000009328;;ZB Leiterplatte MX AGILE;GE;SP4
+1910566752;10084464 Nr. SBC Spain!;;Max Antennenverlängerung V2 5 Meter;Z0;SP1
+1910369691;66230000376;;ZB Schaltschrank CPI310R EN SYN/ASM;GE;SP2
