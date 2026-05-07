@@ -904,7 +904,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910206855;2800660;;Oelaufsaugmittel 6Kg;GE;SP1
 1910206856;2800690;;ZB Reiniger R4 in Dose 1 Liter;GE;SP1
 1910206857;2800700;;ZB Reiniger 5 Liter;GE;SP1
-1910206858;2800710;;ZB Putztuecher;GE;SP1
+1910206858;2800710;;Set Putztücher (10 Stück);GE;SP1
 1910561262;unbekannt;batch4;Führung für Schachttüre;GE;SP1
 1910561236;unbekannt;batch4;NRT1XTUSV;GE;SP1
 1910561252;unbekannt;batch4;Notendschalter mit Halter;GE;SP1
@@ -8794,7 +8794,7 @@ Vulkol.""";GE;SP1
 1910367488;99500012485;;Steuergeraet Lichtgitter 03.G5.PWS.FD2;AE;SP6
 1910367489;99500012486;;Leitung LWL OM2 Multimode LC/ST 5m;GE;SP2
 1910369570;99500012491;;Kabelkanaldeckel ver. 100x3000 m.Drehr.;EU;SP5
-1910368754;batch5;8850007381;Türsteuergeraet VF7 CAN TK;GE;SP1
+1910368754;99500012496 batch5;8850007381;Türsteuergeraet VF7 CAN TK;GE;SP1
 1910368755;99500012506;;"Taster Blueton EN81-70 ""Tuer Zu""";GE;SP1
 1910368756;99500012507;;"Taster Blueton EN81-70 ""Tuer Auf""";GE;SP1
 1910368757;99500012508;;"Taster Blueton EN81-70 ""Telefon""";GE;SP2
@@ -11235,3 +11235,4 @@ P1E Nummer [KEY];Material Status [OK];Disponent [OK];(Hinweis) Ohne Header liest
 1910676992;unbekannt;;BUTTON DOT DOUBLE ARROW DB2 MICROMATCH;Z0;SP1
 8000866219;unbekannt;;AY GBTK 6024-260M;GE;SP2
 8000866220;unbekannt;;AY GBTK 6024-300M;GE;SP2
+1000267772;65100009312;;ZB Leiterplatte MS4 Feuerwehraufzug;AE;SP6
