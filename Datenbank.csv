@@ -8034,7 +8034,7 @@ Vulkol.""";GE;SP1
 1910366973;99500006866;;Taster beleuchtbar weiss;GE;SP1
 1910365691;99500006867;;Schalter Wahlschalter 2 rastend Knebel;GE;SP1
 1910368197;99500006868;;Taster beleuchtbar gelb;GE;SP2
-1910208862;99500006869;;Taster beleuchtbar weiss;GE;SP1
+1910208862;99500006869;;Taster ZB5AW31 beleuchtbar weiss;GE;SP1
 1910365690;99500006870;;Schlüsselschalter 2rast Aus abzieh Vors;GE;SP1
 1910365689;99500006871;;Schlüsselschalter 2rast. 2abzieh Vors.;GE;SP1
 1910365688;99500006872;;Hilfskontaktblock 2S;GE;SP1
@@ -11251,3 +11251,5 @@ P1E Nummer [KEY];Material Status [OK];Disponent [OK];(Hinweis) Ohne Header liest
 1000267619;99834070;;Transistor SMD BTS 117 TO 220;AE;SP6
 1000267621;009970912 0;;Buchse Dsub 15p PCB Rastclip UNC;AE;SP6
 1910700506;99500009300;;IC DIG SMD Prozessor IA186ES;AE;SP6
+1000268068;3253290106;;Treibscheibe DAB530 D740 Rohteil;GE;SP1
+1000268067;62430009705;;Treibscheibe DAF270L D440 Rohtei;GE;SP1
