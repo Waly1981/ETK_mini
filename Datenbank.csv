@@ -10850,7 +10850,7 @@ Vulkol.""";GE;SP1
 1910699580;;;EmergencyKeyTool M4, M5, M8, S1D, MAN;Z0;SP1
 1910699582;;;Türrolle D70/60 f. Tür Europa 4St;Z0;SP1
 1910699583;;;Türrolle D70/60/M8*17,Tür ADR/ADM;Z0;SP1
-1910699584;;;Poly-V-belt, STM-PV30-1.73S-PU-42, l=30m;Z0;SP1
+1910699584;unbekannt;;Poly-V-belt, STM-PV30-1.73S-PU-42, l=30m;Z0;SP1
 1910699585;;;Druckknopf Basiselement, COP, Ruftaster;Z0;SP1
 1910699586;;;Führungseinlage SAG5 Gegengew.,Schiene5a;Z0;SP1
 1910699587;;;Türrolle D76/70*14.5, Rundrille, M8;Z0;SP1
@@ -11269,3 +11269,4 @@ P1E Nummer [KEY];Material Status [OK];Disponent [OK];(Hinweis) Ohne Header liest
 1000268421;unbekannt;;Kugelschreiber TKE Modell 26;ES;SP1
 1000268422;6568103140;;Drahtgewebe Zuschnitt rostfrei W0;GE;SP1
 1000268488;99500012941;;Schlüsselblende STEP LED Loch o.Q Basic;GE;SP1
+1000216135;unbekannt;;Belt STM-PV60-1.73S-PU-84 Schindler;GE;SP1
