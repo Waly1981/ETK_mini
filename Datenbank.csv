@@ -704,9 +704,9 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561335;unbekannt;batch4;AKKU 12V 9AH BLEIAKKU GEL;GE;SP1
 1910561339;unbekannt;batch4;AKKU 12V/2,3 AH;GE;SP1
 1910561378;unbekannt;batch4;AKKUPACK;GE;SP1
-1910561379;unbekannt;batch4;Batterie/Akku Typ2;GE;SP1
-1910561248;unbekannt;batch4;Batterie/Akku Typ4;GE;SP1
-1910561380;unbekannt;batch4;Batterie/Akku Typ3;GE;SP1
+1910561379;unbekannt;batch4;Akku Typ2 12V 1,2Ah Multipower;GE;SP1
+1910561248;unbekannt;batch4;Akku Typ4 12V 7Ah Multipower;GE;SP1
+1910561380;unbekannt;batch4;Akku Typ3 12V 2,3Ah Multipower;GE;SP1
 1910561381;unbekannt;batch4;BEL.FAHRKORB NOTBEL.BOX230VAC/12VDC INKL;GE;SP1
 1910561382;unbekannt;batch4;cegard/Lift Tx/Rx-1730-16,;GE;SP1
 1910561383;unbekannt;batch4;Connection pkg for brake resistor 1.5mm²;GE;SP1
@@ -718,7 +718,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561347;unbekannt;batch4;PCB Türsteuerung VF5+ Relay Rechts;GE;SP1
 1910561350;unbekannt;batch4;PCB Türsteuerung VF7+ CAN Links;GE;SP1
 1910561351;unbekannt;batch4;PCB Türsteuerung VF7+ Relay Rechts;GE;SP1
-1910561249;unbekannt;batch4;Batterie/Akku Typ6;GE;SP1
+1910561249;unbekannt;batch4;Akku Typ6 12V 9Ah Multipower;GE;SP1
 1910561356;unbekannt;batch4;PCB Türsteuerung VF7+ Relay Links;GE;SP1
 1910561391;unbekannt;batch4;AB-VORST SITZ/KEGEL;GE;SP1
 1910561392;unbekannt;batch4;Notendschalter - Kurve;GE;SP1
@@ -6993,7 +6993,7 @@ Vulkol.""";GE;SP1
 1910369511;6960106226;;ZB Knopf Glasklar Vands. Bez.5;GE;SP3
 1910369512;6960107226;;ZB Knopf Glasklar Vands. Bez.6;AE;SP6
 1910367676;6960110016;;Drucktaster Transparent 24V;GE;SP1
-1910363798;6960110296;;Kappe V2A config;GE;SP1
+1910363798;6960110296;;Taster MT28M mit config Kappe V2A;GE;SP1
 1910369513;6960142226;;ZB Knopf Glasklar Vandalensicher neutral;GE;SP4
 1910207969;6960174016;;Tastplatte C Bezeichnung 1;GE;SP3
 1910207970;6960175016;;Tastplatte C Bezeichnung 2;GE;SP4
