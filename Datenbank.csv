@@ -4459,7 +4459,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207751;6510020680;;ZB Eprom Satz E60/2;;SP4
 1910363494;6510022670;;ZB Leiterplatte MJ Optokoppler;GE;SP1
 1910363495;6510023670;;ZB Leiterplatte MO Optokoppler;GE;SP1
-1910564210;6510025680;P1E=EU Löschvermerk;ZB Leiterplatte MB2.3 Bremssteuerung;EU;SP5
+1910564210;6510025680;;ZB Leiterplatte MB2.3 Bremssteuerung;GE;SP1
 1910368620;6510026660;;ZB Leiterplatte Relaisplatte 5 Relais;EU;SP5
 1910368663;6510027660;;ZB Leiterplatte Relaisplatte 8 Relais;EU;SP5
 1910048483;6510027680;;ZB Bremsansteuerung 2;GE;SP1
@@ -11270,3 +11270,5 @@ P1E Nummer [KEY];Material Status [OK];Disponent [OK];(Hinweis) Ohne Header liest
 1000268422;6568103140;;Drahtgewebe Zuschnitt rostfrei W0;GE;SP1
 1000268488;99500012941;;Schlüsselblende STEP LED Loch o.Q Basic;GE;SP1
 1000216135;unbekannt;;Belt STM-PV60-1.73S-PU-84 Schindler;GE;SP1
+1000269020;99500007463;;Klemme MKDSV 5HV/2-9,5;GE;SP1
+1000269318;unbekannt;;Schaube für Scheibenbremse TW45C RSZ125;GE;SP1
