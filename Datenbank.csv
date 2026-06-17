@@ -705,7 +705,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561339;unbekannt;batch4;AKKU 12V/2,3 AH;GE;SP1
 1910561378;unbekannt;batch4;AKKUPACK;GE;SP1
 1910561379;unbekannt;batch4;Akku Typ2 12V 1,2Ah Multipower;GE;SP1
-1910561248;unbekannt;batch4;Akku Typ4 12V 7Ah Multipower;GE;SP1
+1910561248;8850820077;batch4;Akku Typ4 12V 7Ah Multipower;GE;SP1
 1910561380;unbekannt;batch4;Akku Typ3 12V 2,3Ah Multipower;GE;SP1
 1910561381;unbekannt;batch4;BEL.FAHRKORB NOTBEL.BOX230VAC/12VDC INKL;GE;SP1
 1910561382;unbekannt;batch4;cegard/Lift Tx/Rx-1730-16,;GE;SP1
@@ -904,7 +904,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910206855;2800660;;Oelaufsaugmittel 6Kg;GE;SP1
 1910206856;2800690;;ZB Reiniger R4 in Dose 1 Liter;GE;SP1
 1910206857;2800700;;ZB Reiniger 5 Liter;GE;SP1
-1910206858;2800710;;Putztuch 386x348x2 mm;GE;SP1
+1910206858;2800710;;Putztücher (10 Stück);GE;SP1
 1910561262;unbekannt;batch4;Führung für Schachttüre;GE;SP1
 1910561236;unbekannt;batch4;NRT1XTUSV;GE;SP1
 1910561252;unbekannt;batch4;Notendschalter mit Halter;GE;SP1
@@ -5563,7 +5563,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910363664;6568903580;;Filterfolie gruen 31,5x31,5;GE;SP1
 1910207898;6568904580;;Filterfolie gruen 31,5x111,5;GE;SP1
 1910564135;6568905580;;Einlegeschild Filmfolie 151,3x31,5x0,1;GE;SP1
-1910364263;6568905950;;Gummidichtung 36x36x5;EU;SP5
+1910364263;6568903950;;Gummidichtung 36x36x6;EU;SP5
 1910363665;6568906580;;Filterfolie gruen 31,5x151,5;GE;SP1
 1910366763;6568907580;;Einlegepapier gruen;GE;SP1
 1910363667;6568908580;;Distanzscheibe Plexiglas klar;GE;SP1
@@ -11272,3 +11272,6 @@ P1E Nummer [KEY];Material Status [OK];Disponent [OK];(Hinweis) Ohne Header liest
 1000216135;unbekannt;;Belt STM-PV60-1.73S-PU-84 Schindler;GE;SP1
 1000269020;99500007463;;Klemme MKDSV 5HV/2-9,5;GE;SP1
 1000269318;unbekannt;;Schaube für Scheibenbremse TW45C RSZ125;GE;SP1
+1000269326;Interne Nr. Material nicht für den Verkauf gedacht;;Putztuch 34X37cm;GE;SP1
+1000269325;62510000617;;Treibscheibe PMC125L D240 Rohteil;GE;SP!
+8001637396;4003486;;Treibscheibe W149 D400x130;GE;SP1
