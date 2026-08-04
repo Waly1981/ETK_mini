@@ -10846,7 +10846,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910699580;;;Notentriegelungsschlü.  M4/M5/M8/S1D/MAN;GE;SP1
 1910699582;;;Türrolle D70/60 f. Tür Europa 4St;GE;SP1
 1910699583;;;Türrolle D70/60/M8x17 Tür ADR/ADM;GE;SP1
-1910699584;unbekannt;;Poly-V-belt, STM-PV30-1.73S-PU-42, l=30m;Z0;SP1
+1910699584;unbekannt;;Poly-V-belt, STM-PV30-1.73S-PU-42, l=30m;EU;SP5
 1910699585;;;Taster-Grundelement Kabine Ruftaster;GE;SP1
 1910699586;;;Führungsschuh-Einsatz SAG X=5 Gegengewi.;GE;SP1
 1910699587;;;Türrolle D76/70x14.5 Rundrille M8;EU;SP1
@@ -11568,4 +11568,4 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001490059;5040280;;Zylinderstift 6M6x20;GE;SP1
 1000271306;unbekannt;unbekannt;Kit Türantrieb DM180 m. Steuerung;GE;SP1
 1910046377;65100009251;65100009251_L 65100009251_P;ZB Leiterplatte MHC mit Grundsoftware;GE;SP3
-1000216132;;1910699584 falsche Mengeneinheit;Belt STM-PV30-1.73S-PU-42 Schindler;EU;SP5
+1000216132;;1910699584;Belt STM-PV30-1.73S-PU-42 Schindler;GE;SP1
