@@ -4416,7 +4416,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910364962;65100009243;;ZB Leiterplatte MC2 CPU voll HV2 48V;GE;SP1
 1910364963;65100009245;;ZB Leiterplatte RJA Schacht-Adap. FOCUS;GE;SP1
 1910364964;65100009246;;ZB Leiterplatte MC3 ohne Software;EU;SP5
-1910364965;65100009251;"65100009251_L; 65100009251_P";ZB Leiterplatte MHC Grundsoftware;GE;SP4
+1910364965;;;ZB Leiterplatte MHC ohne Software;GE;SP1
 1910369448;65100009251-01;;ZB Leiterplatte MHC Anlagen Spez.;GE;SP4
 1910364966;65100009253;;ZB Leiterplatte TSL Überspannungsschutz;GE;SP1
 1910365957;65100009257;65100009257_L;ZB Leiterplatte Umsetzer Verzoegerungsk.;GE;SP1
@@ -11567,3 +11567,5 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001490058;5006350;;Zylinderschraube M6x80 8.8 vz;GE;SP1
 8001490059;5040280;;Zylinderstift 6M6x20;GE;SP1
 1000271306;unbekannt;unbekannt;Kit Türantrieb DM180 m. Steuerung;GE;SP1
+1910046377;65100009251;65100009251_L 65100009251_P;ZB Leiterplatte MHC mit Grundsoftware;GE;SP3
+1000216132;;1910699584 falsche Mengeneinheit;Belt STM-PV30-1.73S-PU-42 Schindler;EU;SP5
