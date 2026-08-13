@@ -9810,7 +9810,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910497158;P1E=EU Löschvermerk;;Zugseil DRAKO 250T 6D;EU;SP5
 1910497286;unbekannt;batch4;RADSPERRE KOMPAKTSTÜTZE;GE;SP1
 1910497314;unbekannt;;Rolle Türe SEMANTIC (2 Stück);EU;SP1
-1910497425;unbekannt;;Netzteil PSC35A-C;GE;SP1
+1910497425;unbekannt;10085570 Nr. SBC Spain!;Netzteil PSC35A-C;GE;SP1
 1910497461;unbekannt;;LED-Anzeige Elektronischer Transformator;GE;SP1
 1910497701;unbekannt;batch4;Flip-Flop-Geschwindigkeitswechsel;GE;SP1
 1910497936;unbekannt;batch4;Präsenzkontakt Geländer Normal/Inspekt.;GE;SP1
@@ -10018,7 +10018,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910148030;unbekannt;batch4;STROMVERSORGUNG LED-PLATTE 40 W;GE;SP1
 1910092476;unbekannt;batch4;LED-Panel 310x310 Notbeleuchtung + Trafo;GE;SP1
 1000229224;unbekannt;batch4;LED-Panel 595X595;GE;SP1
-1910160648;unbekannt;batch4;STROMVERSORGUNG LADEGERÄT PSC35A-C;GE;SP1
+1910160648;unbekannt;batch4 10085647 Nr. SBC Spain!;VACON-Encoder-Schnittstellenkarte;GE;SP1
 1910049170;unbekannt;batch4;Ladegewicht Kabel Q = 630 KG;EU;SP5
 1910060458;10083164 Nr. SBC Spain;batch4;Karte UBF CMC4+ 20-50 & MOD;GE;SP1
 1910046725;unbekannt;batch4;Karte UCC CMC4;GE;SP1
