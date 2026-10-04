@@ -1,4 +1,4 @@
-VERSION 2.2.0
+Version 2.2.0
 
 DATE=04.10.2026
 
