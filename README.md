@@ -1,24 +1,23 @@
 Version 3.0.0
-DATE=09.10.2026
+• DATE=09.10.2026
 
-ÄNDERUNGEN:
-WICHTIGER HINWEIS ZUM UPDATE:
-Bitte exportieren Sie Ihre bisherigen Artikelfavoriten vor dem Update als Liste. So können Sie diese in der neuen Version schnell wieder hinzufügen.
+• ÄNDERUNGEN:
+• WICHTIGER HINWEIS ZUM UPDATE:
+• Bitte exportieren Sie Ihre bisherigen Artikelfavoriten vor dem Update als Liste. So können Sie diese in der neuen Version schnell wieder hinzufügen.
 
-WICHTIG: UPDATE ERFORDERLICH
-ETK mini 3.0 ist eine vollständig überarbeitete Version mit zahlreichen neuen Funktionen und einem komplett neuen Erscheinungsbild.
+• WICHTIG: UPDATE ERFORDERLICH
+• ETK mini 3.0 ist eine vollständig überarbeitete Version mit zahlreichen neuen Funktionen und einem komplett neuen Erscheinungsbild.
 
-Bitte unbedingt auf die neue Version aktualisieren.
-Die bisherige Datenquelle wird abgeschaltet. Ältere ETK mini Versionen erhalten danach keine aktuellen Materialdaten mehr.
+• Bitte unbedingt auf die neue Version aktualisieren.
+• Die bisherige Datenquelle wird abgeschaltet. Ältere ETK mini Versionen erhalten danach keine aktuellen Materialdaten mehr.
 
-DOWNLOAD:
-Im ETK mini oben auf
-Update → ETK mini herunterladen (ZIP)
-klicken.
+• DOWNLOAD:
+• Im ETK mini oben auf
+• Update → ETK mini herunterladen (ZIP) klicken.
 
-Die ZIP-Datei herunterladen, vollständig entpacken und ETK_mini.exe starten.
+• Die ZIP-Datei herunterladen, vollständig entpacken und ETK_mini.exe starten.
 
-NEU IN VERSION 3.0:
+• NEU IN VERSION 3.0:
 
 • Komplett überarbeitetes, modernes Benutzerinterface mit neuem Layout und Design
 • Verschiedene Designvarianten und Hell-/Dunkelmodus
@@ -50,5 +49,6 @@ NEU IN VERSION 3.0:
 • Saisonale Logos für Halloween und Weihnachten
 • Verstecktes Easter Egg – irgendwo fährt noch ein Aufzug ...
 
-BEKANNTES PROBLEM:
-Beim Vergrößern des Fensters kann die Tabellenansicht leicht zeitversetzt reagieren. An einer Optimierung wird gearbeitet.
+• BEKANNTES PROBLEM:
+• Beim Vergrößern des Fensters kann die Tabellenansicht leicht zeitversetzt reagieren. An einer Optimierung wird gearbeitet.
+
