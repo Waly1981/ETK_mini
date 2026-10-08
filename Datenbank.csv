@@ -1847,7 +1847,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910576773;unbekannt;;2N Maschinenraumsprechenstellen;EU;SP5
 1910576774;P1E=EU Löschvermerk;;Externer Lautsprecher;EU;SP5
 1910576775;unbekannt;;cegard/Lift SY-1730-16 LI 0.7-4.0m;EU;SP5
-1910576776;unbekannt;;FK Bremsfangvorrichtungspaar 6071/1;;
+1910576776;unbekannt;;FK Bremsfangvorrichtungspaar 6071/1;EU Ticket;
 1910561286;unbekannt;batch4;Magnetband für Absolutwertgeber;GE;SP1
 8001363264;5370010;;Kabelbinder 102mm x 2,4mm;AE;SP6
 1910512146;5370020;;Kabelbinder BT 2S-M;AE;SP6
@@ -11777,4 +11777,4 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001414685;4006536;;Seilrolle D450x149 Rohteil;GE;SP3
 8001657113;;;WD750 LISA20 MAX FUS.KAB.+DB9 KAB.;Z0;SP1
 8001670933;;;WD750 KABELBAUM LISA20 MAX FUSION;;SP1
-123456789;;;TEST Material;;
+123456;;;Test Material 08.10.2026;;
