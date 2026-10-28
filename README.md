@@ -1,6 +1,5 @@
-Version 3.0.1
-
-• WICHTIG: ETK mini aktualisieren!**
+Version 3.0.2
+• WICHTIG: ETK mini aktualisieren!
 • Die bisherige Datenquelle wird abgeschaltet. Bitte auf Version 3.0.2 aktualisieren.
 • ETK mini starten. Die Update-Info erscheint automatisch.
 • Unten auf „Ja“ klicken, um die ZIP-Datei herunterzuladen. Alternativ oben über „Update“ → „Download ETK mini“.
