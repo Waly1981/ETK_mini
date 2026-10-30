@@ -6932,7 +6932,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910208678;69000009215;;ZB Stromversorgung;GE;SP1
 1910208679;69000009216;;Leuchte Domino;GE;SP1
 1910208680;69000009218;;Türantrieb VF400;GE;SP1
-1910208681;69000009219;;Steuerplatine VF400;GE;SP1
+1910208681;69000009219;;Türsteuergerät VF5+ Relais Links TKAW;GE;SP1
 1910208682;69000009220;;Diagnose 6 Software DTWP;EU;SP5
 1910208683;69000009221;;Diagnose 6 Software DTW;AE;SP6
 1910365355;69000009222;;Umbausatz In Line Sicherung 4At;EU;SP5
@@ -10594,7 +10594,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910671001;batch1+2 Tepper + Schweiz batch1;;REG.SEILSPANNVORRICHTUNG INKL.POSITIONSS;Z0;SP1
 1910671002;batch1+2 Tepper + Schweiz batch1;;Fehlstromschalter Typ B 40A 0,3A;GE;SP1
 1910671003;batch1+2 Tepper + Schweiz batch1;;Schlüsselkasten AP 150x150 Zyl 882;GE;SP1
-1910671004;batch1+2 Tepper + Schweiz batch1;;Türsteuergerät  VF5+ Links  TKAW;GE;SP1
+1910671004;batch1+2 Tepper + Schweiz batch1;;Steckverbinder, 4-polig, Buchse, 5 mm;GE;SP1
 1910671005;batch1+2 Tepper + Schweiz batch1;;Frequenzumrichter 32A FB-10-D-400;GE;SP1
 1910671006;batch1+2 Tepper + Schweiz batch1;;Schmierstoffspender SL14 125ml;EU;SP5
 1910671007;batch1+2 Tepper + Schweiz batch1;;Türantrieb AT40 400kg links;GE;SP1
