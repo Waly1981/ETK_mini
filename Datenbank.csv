@@ -280,7 +280,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910368030;0099315200;;Bremswiderstand 14R 4kW/8kW 100%/40% 498;EU Ticket;SP5
 1910368031;0099315660;;Ueberstromautomat G 8;EU Ticket;SP5
 1910207205;0099315690;;Wannenleuchte 1x40W U-Form IP50;AE;SP6
-1910368033;0099316200;;Bremswiderstand 14R 6,5kW/9,5kW 100%/40%;GE;SP4
+1910368033;0099316200;;Bremswiderstand 14R 6,5kW/9,5kW 100%/40%;GE;SP1
 1910368034;0099317200;;Bremswiderstand 14R 10kW/13kW 100%/40%;EU Ticket;SP5
 1910368035;0099318200;;Bremswiderstand 7R 6,5kW/9,5kW 100%/40%;EU Ticket;SP5
 1910368036;0099318660;;Ueberstromautomat L16;EU;SP5
@@ -705,7 +705,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910561339;450137;batch4;AKKU 12V/2,3 AH;GE;SP1
 1910561378;unbekannt;batch4;AKKUPACK;GE;SP1
 1910561379;8850004810;batch4;Akku Typ2 12V 1,2Ah Multipower;GE;SP1
-1910561248;8850820077;batch4;Blei-Akku SB12-3.4V0;ES;SP5
+1910561248;8850820077;batch4;Blei-Akku SB12-3.4V0;GE;SP1
 1910561380;68100450137;batch4;Akku Typ3 12V 2,3Ah Multipower;GE;SP1
 1910561381;unbekannt;batch4;BEL.FAHRKORB NOTBEL.BOX230VAC/12VDC INKL;GE;SP1
 1910561382;unbekannt;batch4;cegard/Lift Tx/Rx-1730-16,;GE;SP1
@@ -4540,7 +4540,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910365070;65200000006;;ZB Fahrkorbmodul Powerlink/LWL/CAN B&R;GE;SP1
 1910364597;65200000007;;ZB Schachtmodul Powerlink/SI B&R;AE;SP6
 1910364598;65200000010;;ZB Display Power Panel 10.1 Touch B&R;GE;SP1
-1910369147;65200000013;;ZB KVE Fahrkorb-Modul TWIN4;EU Ticket;SP2
+1910369147;65200000013;;ZB KVE Fahrkorb-Modul TWIN4;EU Ticket;SP4
 1910364599;65200000014;;ZB KVE Schachtbox TWIN4;EU;SP5
 1910364600;65200000037;;ZB TSD-Box;AE;SP6
 1910364602;65200000047;;ZB KVE Schachtbox TWIN4 A17.5;EU Ticket;SP5
@@ -5609,7 +5609,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910207919;6570904520;;Filzscheibe;AE;SP6
 1910207920;6571001180;;Hauptkontaktbuegel;AE;SP6
 1910368163;6571001620;;ZB Hauptkontaktbruecke für Typ 6571/1;AE;SP6
-1910207921;6571002620;;ZB Hauptkontaktbruecke für Typ 6571/2;AE;SP6
+1910207921;6571002620;;ZB Hauptkontaktbruecke für Typ 6571/2;GE;SP1
 1910563982;6572001600;;Hauptkontaktbuegel;AE;SP6
 1910564136;6572011620;;ZB Hauptkontaktbruecke;AE;SP6
 1910363702;6576005620;;ZB Federsatz;EU;SP5
@@ -7284,7 +7284,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910369475;8850990012;;TKE USB-Stick;GE;SP1
 1910561453;8850990014;;Kombi-Set Haftnotizen;GE;SP1
 1910561454;8850990015;;Trinkflasche mit Drehverschluss;EU;SP5
-1910561455;8850990016;;Baumwolltasche;ES;SP1
+1910561455;8850990016;;Baumwolltasche;GE;SP1
 1910561456;8850990017;;Schlüsselanhänger;GE;SP1
 1910561511;8850990019;;Kugelschreiber Blau G2;GE;SP1
 1910564215;8850990020;;Einkaufswagen-Chip/Schlüsselanhänger;GE;SP1
@@ -7375,7 +7375,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910208740;90010009353;;ZB Anbindung PSDW an Elementkabine;GE;SP1
 1910208742;90010009358;EOX Spare Part;PRÜFHAKEN 1500 KG;GE;SP1
 1910208743;90010009359;;ZB Anbindung Blocstop an Element Kabine;GE;SP1
-1910208744;90010009367;EOX Spare Part;ZB Aufnahme für Lasttest 1,5t;Z0;SP1
+1910208744;90010009367;EOX Spare Part;ZB Aufnahme für Lasttest 1,5t;GE;SP1
 1910208745;90010009368;;Sicherungsseil 6mm 3,5m lang;GE;SP1
 1910208746;90010009369;;Sicherungsseil 6mm 2,5m lang;GE;SP1
 1910208749;90010009373;;ZB Universal PSDW Anbindung-;GE;SP1
@@ -7865,7 +7865,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910367647;99500001648;;Betaetigungsbuegel IP54 S8;EU;SP5
 1910367645;99500001695;;Relais Netztrennung 12VDC 2S 16A print;GE;SP1
 1910365956;99500001705;;Stift Combicon 4pol ger RM7,62 schraub;GE;SP1
-1910366866;99500001712;;Hilfsschalter fuer SIRIUS 3R 2OE 2S;AE;SP6
+1910366866;99500001712;;Hilfsschalter fuer SIRIUS 3R 2OE 2S;EU;SP5
 1910208817;99500001814;99500001814_L;ZB Alarmtaster Clas.Symb.Alarm Taktil;GE;SP1
 1910368141;99500001826;;Buchse Combicon inv 4p gew RM5,08 print;EU Ticket;SP5
 1910366867;99500001850;;Doppelspreizmagnet SC300S;GE;SP1
@@ -9385,7 +9385,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910067312;unbekannt;;Exzentrischer Nylonstift Schwelle;GE;SP1
 1910067605;unbekannt;;2x Unterer c. Trittrolle D29 ED36;GE;SP1
 1910067867;unbekannt;;Rolle mit einer Nut;EU;SP5
-1910068095;unbekannt;;Einsatz EM 9 PU,  HSM + WSM f. Schiene;Z0;SP1
+1910068095;unbekannt;;Einsatz EM 9 PU,  HSM + WSM f. Schiene;EU;SP5
 1910068106;unbekannt;;FSF-16 Einsatz KH96A rot 140x29,5x30mm;GE;SP1
 1910068108;unbekannt;;FSUGG-16 KH96 rot MWG10 140x29,5x30mm;GE;SP1
 1910068154;unbekannt;;Rollführung AR1 Rollen VU94A D100 EMQ;GE;SP1
@@ -9681,7 +9681,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910365436;P1E=EU Löschvermerk;;"ZB Taster STEP C flach blau ""P""";EU;SP5
 1910365682;unbekannt;;Modem analog steckbar mit Voice-Funktion;GE;SP1
 1910365770;P1E=EU Löschvermerk;;ZB Leiterplatte MPSP Portmodul;EU;SP5
-1910365800;unbekannt;;ZB Trennschaltverstaerker KFD2-SR-Ex2;Z0;SP3
+1910365800;unbekannt;;ZB Trennschaltverstaerker KFD2-SR-Ex2;EU;SP5
 1910365802;unbekannt;;ZB Leiterplatte MP Portmodul;;
 1910365833;unbekannt;;Stift 0,5-2;EU;SP5
 1910365895;unbekannt;;Zylinderschraube M8x16 8.8 verzinkt;EU;SP5
@@ -9747,13 +9747,13 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910368607;unbekannt;;Schachtfahne 8;EU Ticket;SP5
 1910368609;unbekannt;;ZB Schachtfahne 13-20;EU Ticket;SP5
 1910368610;unbekannt;;ZB Schachtfahne 21-30;EU Ticket;SP5
-1910368630;unbekannt;;Treibscheibenkranz W263/. D540xb160;Z0;SP3
-1910368631;unbekannt;;Treibscheibenkranz W263 D640xb160;Z0;SP3
+1910368630;unbekannt;;Treibscheibenkranz W263/. D540xb160;EU;SP5
+1910368631;unbekannt;;Treibscheibenkranz W263 D640xb160;EU;SP5
 1910368643;unbekannt;;ZB Seilrolle D740x228 zxd;EU;SP5
 1910368653;unbekannt;;Befestigungsblech 92x40x3;GE;SP1
 1910368670;unbekannt;;ZB Leitung Modbus Christ-HIMA RJ45;;
-1910368687;unbekannt;;ZB Seilrolle D400 zxD DAF290;Z0;SP3
-1910368689;unbekannt;;ZB Seilrolle D400 ZxD DAF330;Z0;SP3
+1910368687;unbekannt;;ZB Seilrolle D400 zxD DAF290;EU;SP5
+1910368689;unbekannt;;ZB Seilrolle D400 ZxD DAF330;EU;SP5
 1910368694;unbekannt;;ZB Wippe mit Heber DAF380;EU;SP5
 1910368728;unbekannt;;ZB Schneckenwelle Hub Unit TW45;EU Ticket;SP5
 1910368730;unbekannt;;ZB Schneckenwelle Hub Unit;EU Ticket;SP5
@@ -9761,13 +9761,13 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910368744;unbekannt;;Flachdichtung Lagerdeckel AS SC500;GE;SP1
 1910368745;unbekannt;;Deckel Klemmenkasten SC500L;GE;SP1
 1910368747;unbekannt;;Abdeckung oben SC500L;GE;SP1
-1910368751;unbekannt;;ZB Seilrolle D400 ZxD SC300;Z0;SP3
+1910368751;unbekannt;;ZB Seilrolle D400 ZxD SC300;EU;SP5
 1910368753;unbekannt;;ZB  Rückwand SC500L;GE;SP1
 1910368795;unbekannt;;Dichtungsring SC400;GE;SP1
 1910368797;unbekannt;;Lagerdeckel SC400B AS aussen;GE;SP1
-1910368801;unbekannt;;Treibscheibe SC400 D560 z x d;Z0;SP3
+1910368801;unbekannt;;Treibscheibe SC400 D560 z x d;EU;SP5
 1910368803;unbekannt;;ZB Blockierungsklemme SC400;EU;SP5
-1910368805;unbekannt;;ZB Seilrolle SC400 D540;Z0;SP3
+1910368805;unbekannt;;ZB Seilrolle SC400 D540;EU;SP5
 1910368901;P1E=EU Löschvermerk;;Flanschplatte Bremse SC400 Guss;EU;SP5
 1910369030;P1E=EU Löschvermerk;;ZB Treibscheibe K1 D240 L mit FS mit US;EU;SP5
 1910369043;unbekannt;;Conduithalteblech PMB285 L002;GE;SP1
@@ -9926,7 +9926,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910564202;unbekannt;;Seilrolle D540 x 240 Rohteil;GE;SP1
 1910564203;unbekannt;;ZB Leiterplatte MC3 Microcomputer ECOR;GE;SP1
 1910564204;unbekannt;;Leitung 4-polig SlimLop l=1500;GE;SP1
-1910564205;unbekannt;;ZB Leitung Schachtbus kompakt;Z0;SP3
+1910564205;unbekannt;;ZB Leitung Schachtbus kompakt;EU;SP5
 1910564206;unbekannt;;ZB Leiterplatte VQC;EU;SP5
 1910564207;unbekannt;;Leitung CAN-BUS 600mm;GE;SP1
 1910569112;65990009683;;ZB Notbremssteuerung NBS ROBAswitch;EU;SP5
@@ -10528,7 +10528,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910670942;batch1+2 Tepper + Schweiz batch1;Hauer batch;Gleitstück 65mm;GE;SP1
 1910670943;batch1+2 Tepper + Schweiz batch1;Hauer batch;Gleitstück 45mm;GE;SP1
 1910670944;batch1+2 Tepper + Schweiz batch1;Hauer batch;Akku 2N 1,2V 2100mAh NiMH;GE;SP1
-1910670945;batch1+2 Tepper + Schweiz batch1;Hauer batch;Batterie/Akku Typ 512V/7Ah,4,8mm;EU;SP5
+1910670945;batch1+2 Tepper + Schweiz batch1;Hauer batch;Batterie/Akku Typ 512V/7Ah,4,8mm;GE;SP1
 1910670946;batch1+2 Tepper + Schweiz batch1;Hauer batch;Schließzylinder für Schlüsselbehälter;GE;SP1
 1910670947;batch1+2 Tepper + Schweiz batch1;Hauer batch;Schlüsselbehälter;GE;SP1
 1910670948;batch1+2 Tepper + Schweiz batch1;Hauer batch;2N Antenne 10M 9db GSM/UMTS gateway;GE;SP1
@@ -10846,7 +10846,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910699580;Hauer batch;;Notentriegelungsschlü.  M4/M5/M8/S1D/MAN;GE;SP1
 1910699582;Hauer batch;;Türrolle D70/60 f. Tür Europa 4St;GE;SP1
 1910699583;Hauer batch;;Türrolle D70/60/M8x17 Tür ADR/ADM;GE;SP1
-1910699584;unbekannt;;Poly-V-belt, STM-PV30-1.73S-PU-42, l=30m;AE;SP6
+1910699584;unbekannt;;Poly-V-belt, STM-PV30-1.73S-PU-42, l=30m;EU;SP5
 1910699585;Hauer batch;;Taster-Grundelement Kabine Ruftaster;GE;SP1
 1910699586;Hauer batch;;Führungsschuh-Einsatz SAG X=5 Gegengewi.;GE;SP1
 1910699587;Hauer batch;;Türrolle D76/70x14.5 Rundrille M8;EU;SP5
@@ -11021,7 +11021,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001542513;;;MF LSG06A PA00764263 3400-3600 2-3m/s;EU;SP5
 8001542514;;;MF LSG06A PA00764264 3600-3800 2-3m/s;EU;SP5
 8001542515;;;MF LSG06A PA00764265 3800-4000 2-3m/s;EU;SP5
-1000075922;unbekannt;;;Z0;
+1000075922;unbekannt;;;EU;
 1000220641;unbekannt;;;EU;SP5
 1000237043;unbekannt;;;EU;SP5
 1910054646;8850003412;;;EU;SP5
@@ -11288,7 +11288,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910163103;;EOX Spare Part;SCHACHTGRUBENLEITER 1000-1299;GE;SP1
 1910163132;;EOX Spare Part;Zubehörbeutel CWT Q1000 1;GE;SP1
 1910163136;;EOX Spare Part;Zubehörbeutel CWT Q450 - 630 1;GE;SP1
-1910163215;;EOX Spare Part;Spannrollen-Füllvorrichtung;Z0;SP1
+1910163215;;EOX Spare Part;Spannrollen-Füllvorrichtung;GE;SP1
 1910163253;;EOX Spare Part;Führungsschiene T82/B - 2,5 m;GE;SP1
 1910163254;;EOX Spare Part;Führungsschiene T82/B - 5 m;GE;SP1
 1910163255;;EOX Spare Part;Führungen T82/B - 5 m oberer Abschnitt;GE;SP1
@@ -11498,7 +11498,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910084902;;;Türrolle 56 mm 3201231387 Wittur;GE;SP1
 1910092435;;;Magnetfinger FI & FS;GE;SP1
 1910092436;;;T-CAN-Karte für CMC4+;GE;SP1
-1910092437;;;Frequenzumrichter IPG800 CMC4+;Z0;SP1
+1910092437;;;Frequenzumrichter IPG800 CMC4+;EU;SP5
 1910092438;;;DMC-Lastsensor-Kit (1 Sensor);GE;SP1
 1910092441;;;"3,5""-Anzeige mit Sprachsynthesizer";GE;SP1
 1910092447;;;VACON-Frequenzumrichter 4 kW NXPTK4-400;GE;SP1
@@ -11654,11 +11654,11 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 8001360485;5601190;;Zylinderrollenlager NJ224E;;SP1
 1000271887;unberkannt;;USV 3000VA/3000W Sentinel SD2 3000 A5;GE;SP1
 1910775276;;SBC Spain! 10085768;Aufsetzpuffer D2-55, ø100 x 80 mm;;SP1
-1000270175;;;Sensor magnetischer Schalter MK7 1000 W;Z0;SP1
-1000270176;;;Stromversorgung UPS 700VA 5E700I;Z0;SP1
-1000270177;;;Kontakt SEL2‑A1Z;Z0;SP1
-1000270182;;;Relais 24 V DC, 1 Wechsler, Finder;Z0;SP1
-1000270220;;;Türführungsschuh 16 mm (2x);Z0;SP1
+1000270175;;;Sensor magnetischer Schalter MK7 1000 W;GE;SP1
+1000270176;;;Stromversorgung UPS 700VA 5E700I;GE;SP1
+1000270177;;;Kontakt SEL2‑A1Z;GE;SP1
+1000270182;;;Relais 24 V DC, 1 Wechsler, Finder;GE;SP1
+1000270220;;;Türführungsschuh 16 mm (2x);GE;SP1
 1000270247;;;Schütz LC1D128P7, 230 V AC, 5,5 kW, 2NO;GE;SP1
 1000270266;;;Schütz LC1D253MD, 11 kW, 1NC + 1NO;GE;SP1
 1000270268;;;Schütz 3‑polig (3NO) 18 A Spule 220 V DC;GE;SP1
@@ -11670,10 +11670,10 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1000270285;;;Lüfter 120 x 120 EBMPAPST 4890N;GE;SP1
 1000270306;;;Relais Zelio RXM4AB1E7 48VAC 4W 6A;GE;SP1
 1000270308;;;Tastatur für Rekoba 1;GE;SP1
-1000271888;0099123030;;Lautsprecher D35,6 20Ohm 70dB 0,2W;Z0;SP1
+1000271888;0099123030;;Lautsprecher D35,6 20Ohm 70dB 0,2W;EU;SP5
 1000271889;0099848130;;IC DIG Schnittstelle 82C55 DIP40;Z0;SP1
 1000272561;8850005050;;Verlängerungskabel Antenne 10m;GE;SP1
-1000272915;8850820517;;Busmodul LBM9 (Lisa) Tepper;Z0;SP1
+1000272915;8850820517;;Busmodul LBM9 (Lisa) Tepper;GE;SP1
 1000273487;;;Kit Leiterplatte STS T40 Taster Stift;GE;SP1
 1000273488;;;Kit Leiterplatte STS T40 Taster Klemme;GE;SP1
 1000273508;;;Kit Leiterplatte STS T40 Schalter Klemme;GE;SP1
@@ -11686,75 +11686,75 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910164590;;;Projektqualität & Reklamationssvc.;;
 1910700433;0099873150;;IC DIG SMD RTC72423;;SP6
 1910700497;99500002150;;Spannungsregler SMD adj. 5A;;SP6
-1910775232;;;Rollenführung RFGK 2, Rollen gedämpft;Z0;SP1
-1910775233;;;Aufsetzpuffer H12, ø40 x 120 mm;Z0;SP1
-1910775234;;;Rolle VAL ø200/15 x 44/38 mm VU 80° Alu;Z0;SP1
-1910775235;8850003239;;Rolle VSL ø100/M16 x 34/18 mm VU 80°/St.;Z0;SP1
-1910775236;;;Rolle VAL ø150/20 x 30 mm VU 93°/Al.;Z0;SP1
-1910775237;;;"Aufsetzpuffer D4 ø140 x 120 mm ""Thyssen""";Z0;SP1
-1910775238;;;Puffer-Distanzstück ø140 x 126 mm;Z0;SP1
-1910775239;;;Türlaufrolle POM ø70/61,5/10 x 17 mm;Z0;SP1
-1910775240;;;Rollenführung GG 4 für Gegengewicht;Z0;SP1
-1910775241;;;Aufsetzpuffer D7, ø165 x 160 mm;Z0;SP1
-1910775242;;;Pufferstütze Größe 5, Höhe 1005-1405 mm;Z0;SP1
-1910775243;;;Türführung PE 20 x 20 x 30 mm;Z0;SP1
-1910775244;;;Aufsetzpuffer D2-85, ø100 x 80 mm;Z0;SP1
-1910775245;;;Riegelrolle VU 65°, ø39/29/19 x 32 mm;Z0;SP1
-1910775246;;;Rollenführung ETN-GG 2 für Gegengewicht;Z0;SP1
-1910775247;;;Rolle VAL ø180/M24 x 40/35 mm VU 93° Alu;Z0;SP1
-1910775248;;;Rollenführung ETN-GG1 für Gegengewicht;Z0;SP1
-1910775249;;;Rolle VSL ø100/16,1 x 34/18 mm VU 80°/St;Z0;SP1
-1910775250;;;"Aufsetzpuffer D4 ø140 x 210 mm ""Thyssen""";Z0;SP1
-1910775251;;;Aufsetzpuffer D5, ø165 x 80 mm;Z0;SP1
-1910775252;;;Rolle VSL ø125/M20 x 30 mm VU 93°/St.;Z0;SP1
-1910775253;;;Rolle VSL ø128/35 x 24/19 mm VU 80°/St.;Z0;SP1
-1910775254;;;Rolle VAL ø125/M16 x 30 mm VU 93° Alu;Z0;SP1
-1910775255;;;Rolle VSL ø125/35 x 22/12 mm VU 93°/St.;Z0;SP1
-1910775256;;;Rollenführung GGW 4, Winkelausführung;Z0;SP1
-1910775257;;;Türführung PE 29 x 16,5 x 7,5 mm;Z0;SP1
-1910775258;;;Puffer-Distanzstück ø140 x 120 mm;Z0;SP1
-1910775259;8850005420;;Aufsetzpuffer EN 17, ø125 x 200 mm;Z0;SP1
-1910775260;;;Puffer-Distanzstück ø165 x 80 mm;Z0;SP1
-1910775261;;;Rolle VSL ø120/17 x 30 mm VU 93°/St.;Z0;SP1
-1910775262;;;Türsupport, gekröpft, 109 x 60 x 20/4 mm;Z0;SP1
-1910775263;;;Rolle VAL ø100/20 x 25 mm VU 80° Alu;Z0;SP1
-1910775264;;;Rolle VSL ø100/20 x 34/18 mm VU 80°/St.;Z0;SP1
-1910775265;;;Rolle VAL ø200/20 x 30 mm VU 80°/Al.;Z0;SP1
-1910775266;;;Rollenführung GGW 2, Winkelausführung;Z0;SP1
-1910775267;;;Aufsetzpuffer D6, ø220 x 80 mm;Z0;SP1
-1910775268;;;Türlaufrolle PA6 ø54/48/M10 x 17,5mm;Z0;SP1
-1910775269;;;Kupplungs- / Seilfederpuffer ø50/21 x 50;Z0;SP1
-1910775270;;;Aufsetzpuffer D3-85, ø125 x 80 mm;Z0;SP1
-1910775271;;;Türlaufrolle Stahl ø70/63,5/20 x 17,5/14;Z0;SP1
-1910775272;;;Rolle VSL ø123/20 x 32/26 mm VU 93°/St.;Z0;SP1
-1910775273;;;Aufsetzpuffer EN 18, ø165 x 80 mm;Z0;SP1
-1910775274;;;Aufsetzpuffer D7, ø165 x 160 mm;Z0;SP1
-1910775275;;;Einlage EM 16 PEC, für HSM + WSM;Z0;SP1
-1910775277;;;Aufsetzpuffer EN 15, ø125 x 150 mm;Z0;SP1
-1910775278;;;Rolle VAL ø83/12 x 24/12 mm VU 80° Alu;Z0;SP1
-1910775279;;;Türlaufrolle VSL ø70/63,5/20 x 17,5 mm;Z0;SP1
-1910775280;;;Türsupport, gerade, 86 x 40 x 4 mm;Z0;SP1
-1910775281;;;Seilrolle POM ø65/57/15 x 14,5 mm;Z0;SP1
-1910775282;;;Rolle VSL ø60/17 x 18 mm VU 93°/St.;Z0;SP1
-1910775283;;;Türführung 134/100 x 18/11 x 41 mm;Z0;SP1
-1910775284;;;Einlage EM 16 PE, für HSM + WSM;Z0;SP1
-1910775285;;;Rolle VSL ø60/17 x 18 mm VU 65°/St.;Z0;SP1
-1910775286;;;Aufsetzpuffer D3, ø125 x 80 mm;Z0;SP1
-1910775287;;;Türführung 100 x 34 x 7 mm St-PE;Z0;SP1
-1910775288;;;Aufsetzpuffer D2, ø100 x 80 mm;Z0;SP1
-1910775289;;;Türlaufrolle VSL ø59,6/M8 x 13 mm VU 96°;Z0;SP1
-1910775290;;;Seilrolle PA6G ø62/56/12 x 15/10 mm;Z0;SP1
-1910775291;;;Türlaufrolle VSL ø59,6/8,5 x 13 mm VU96°;Z0;SP1
-1910775292;;;Aufsetzpuffer D2-85, ø 100 x 80 mm;Z0;SP1
-1910775293;;;Aufsetzpuffer D4, ø140 x 80 mm;Z0;SP1
-1910775294;;;Türlaufrolle POM ø76/69/M6 x 14,5 mm;Z0;SP1
+1910775232;;;Rollenführung RFGK 2, Rollen gedämpft;GE;SP1
+1910775233;;;Aufsetzpuffer H12, ø40 x 120 mm;GE;SP1
+1910775234;;;Rolle VAL ø200/15 x 44/38 mm VU 80° Alu;GE;SP1
+1910775235;8850003239;;Rolle VSL ø100/M16 x 34/18 mm VU 80°/St.;GE;SP1
+1910775236;;;Rolle VAL ø150/20 x 30 mm VU 93°/Al.;GE;SP1
+1910775237;;;"Aufsetzpuffer D4 ø140 x 120 mm ""Thyssen""";GE;SP1
+1910775238;;;Puffer-Distanzstück ø140 x 126 mm;GE;SP1
+1910775239;;;Türlaufrolle POM ø70/61,5/10 x 17 mm;GE;SP1
+1910775240;;;Rollenführung GG 4 für Gegengewicht;GE;SP1
+1910775241;;;Aufsetzpuffer D7, ø165 x 160 mm;GE;SP1
+1910775242;;;Pufferstütze Größe 5, Höhe 1005-1405 mm;GE;SP1
+1910775243;;;Türführung PE 20 x 20 x 30 mm;GE;SP1
+1910775244;;;Aufsetzpuffer D2-85, ø100 x 80 mm;GE;SP1
+1910775245;;;Riegelrolle VU 65°, ø39/29/19 x 32 mm;GE;SP1
+1910775246;;;Rollenführung ETN-GG 2 für Gegengewicht;GE;SP1
+1910775247;;;Rolle VAL ø180/M24 x 40/35 mm VU 93° Alu;GE;SP1
+1910775248;;;Rollenführung ETN-GG1 für Gegengewicht;GE;SP1
+1910775249;;;Rolle VSL ø100/16,1 x 34/18 mm VU 80°/St;GE;SP1
+1910775250;;;"Aufsetzpuffer D4 ø140 x 210 mm ""Thyssen""";GE;SP1
+1910775251;;;Aufsetzpuffer D5, ø165 x 80 mm;GE;SP1
+1910775252;;;Rolle VSL ø125/M20 x 30 mm VU 93°/St.;GE;SP1
+1910775253;;;Rolle VSL ø128/35 x 24/19 mm VU 80°/St.;GE;SP1
+1910775254;;;Rolle VAL ø125/M16 x 30 mm VU 93° Alu;GE;SP1
+1910775255;;;Rolle VSL ø125/35 x 22/12 mm VU 93°/St.;GE;SP1
+1910775256;;;Rollenführung GGW 4, Winkelausführung;GE;SP1
+1910775257;;;Türführung PE 29 x 16,5 x 7,5 mm;GE;SP1
+1910775258;;;Puffer-Distanzstück ø140 x 120 mm;GE;SP1
+1910775259;8850005420;;Aufsetzpuffer EN 17, ø125 x 200 mm;GE;SP1
+1910775260;;;Puffer-Distanzstück ø165 x 80 mm;GE;SP1
+1910775261;;;Rolle VSL ø120/17 x 30 mm VU 93°/St.;GE;SP1
+1910775262;;;Türsupport, gekröpft, 109 x 60 x 20/4 mm;GE;SP1
+1910775263;;;Rolle VAL ø100/20 x 25 mm VU 80° Alu;GE;SP1
+1910775264;;;Rolle VSL ø100/20 x 34/18 mm VU 80°/St.;GE;SP1
+1910775265;;;Rolle VAL ø200/20 x 30 mm VU 80°/Al.;GE;SP1
+1910775266;;;Rollenführung GGW 2, Winkelausführung;GE;SP1
+1910775267;;;Aufsetzpuffer D6, ø220 x 80 mm;GE;SP1
+1910775268;;;Türlaufrolle PA6 ø54/48/M10 x 17,5mm;GE;SP1
+1910775269;;;Kupplungs- / Seilfederpuffer ø50/21 x 50;GE;SP1
+1910775270;;;Aufsetzpuffer D3-85, ø125 x 80 mm;GE;SP1
+1910775271;;;Türlaufrolle Stahl ø70/63,5/20 x 17,5/14;GE;SP1
+1910775272;;;Rolle VSL ø123/20 x 32/26 mm VU 93°/St.;GE;SP1
+1910775273;;;Aufsetzpuffer EN 18, ø165 x 80 mm;GE;SP1
+1910775274;;;Aufsetzpuffer D7, ø165 x 160 mm;GE;SP1
+1910775275;;;Einlage EM 16 PEC, für HSM + WSM;GE;SP1
+1910775277;;;Aufsetzpuffer EN 15, ø125 x 150 mm;GE;SP1
+1910775278;;;Rolle VAL ø83/12 x 24/12 mm VU 80° Alu;GE;SP1
+1910775279;;;Türlaufrolle VSL ø70/63,5/20 x 17,5 mm;GE;SP1
+1910775280;;;Türsupport, gerade, 86 x 40 x 4 mm;GE;SP1
+1910775281;;;Seilrolle POM ø65/57/15 x 14,5 mm;GE;SP1
+1910775282;;;Rolle VSL ø60/17 x 18 mm VU 93°/St.;GE;SP1
+1910775283;;;Türführung 134/100 x 18/11 x 41 mm;GE;SP1
+1910775284;;;Einlage EM 16 PE, für HSM + WSM;GE;SP1
+1910775285;;;Rolle VSL ø60/17 x 18 mm VU 65°/St.;GE;SP1
+1910775286;;;Aufsetzpuffer D3, ø125 x 80 mm;GE;SP1
+1910775287;;;Türführung 100 x 34 x 7 mm St-PE;GE;SP1
+1910775288;;;Aufsetzpuffer D2, ø100 x 80 mm;GE;SP1
+1910775289;;;Türlaufrolle VSL ø59,6/M8 x 13 mm VU 96°;GE;SP1
+1910775290;;;Seilrolle PA6G ø62/56/12 x 15/10 mm;GE;SP1
+1910775291;;;Türlaufrolle VSL ø59,6/8,5 x 13 mm VU96°;GE;SP1
+1910775292;;;Aufsetzpuffer D2-85, ø 100 x 80 mm;GE;SP1
+1910775293;;;Aufsetzpuffer D4, ø140 x 80 mm;GE;SP1
+1910775294;;;Türlaufrolle POM ø76/69/M6 x 14,5 mm;GE;SP1
 1910776864;;;Notentriegelungsschlüssel PA6.6 110mm;Z0;SP1
 1910776865;;;Schachttür-Winkelsatz Typ 1W, 3 St.;Z0;SP1
 1910776866;;;Schachttür-Winkelsatz Typ V5, 3 St.;Z0;SP1
 1910776867;;;Befestigungswinkelsatz Typ W, 5 St.;Z0;SP1
 1910776868;;;Türblattführung PLUS AGH-44;Z0;SP1
 1910776869;;;Türblattführung BASIC AGH-78;Z0;SP1
-1910776870;;;Türblattführung BASIC AGH-AU;Z0;SP1
+1910776870;;;Türblattführung BASIC AGH-AU;GE;SP1
 1910776871;;;Steckverbinder Anytek 4-polig, 5mm;Z0;SP1
 1910776872;8850007287;;Gummipuffer mit Buchse;Z0;SP1
 1910776873;;;Untere Türblattführung Compact VF;Z0;SP1
@@ -11764,7 +11764,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910776877;;;Kontaktsatz 50mm EDC-61L/DCA-F3;Z0;SP1
 1910776878;;;Rolle PFR-24 Typ C Ø48, Achse 23mm;Z0;SP1
 1910776879;;;Türblattführung LUVOCOM, RAL9005;Z0;SP1
-1910776880;;;Türblattführung PGH-50 PLUS RAL9005;Z0;SP1
+1910776880;;;Türblattführung PGH-50 PLUS RAL9005;GE;SP1
 1910776881;;;Alu-Schwellenergänzung PL800 L799mm;Z0;SP1
 1910776882;;;Gummianschlag Compact/Compact VF;Z0;SP1
 1910776883;;;Druckfeder 0,8x9,1x24mm, verzinkt;Z0;SP1
@@ -11772,7 +11772,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910776885;;;Sechskantmutter DIN934 M4 Kl.8;Z0;SP1
 1910776886;;;Linsenschraube DIN7985 M3x12 8.8;Z0;SP1
 1910776887;;;Kontaktscheibe NF E25-511 M4,1x10;Z0;SP1
-8000886755;62440000233;;ZB Wuchteinheit SC500L;Z0;SP4
+8000886755;62440000233;;ZB Wuchteinheit SC500L;EU;SP5
 8001414683;4004936;;Seilrolle D540x149 Rohteil;GE;SP3
 8001414685;4006536;;Seilrolle D450x149 Rohteil;GE;SP3
 8001657113;;;WD750 LISA20 MAX FUS.KAB.+DB9 KAB.;GE;SP1
@@ -11792,4 +11792,42 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1000273957;Treibscheibenkranz D740x190;;Treibscheibenkranz D740x190;GE;SP1
 1000273958;Treibscheibenkranz D640x160;;Treibscheibenkranz D640x160;GE;SP1
 1000273969;CT09G Grundgerät Refurbished;;CT09G Grundgerät Refurbished;GE;SP1
-1000274959;;;Hilfsschalter SIRIUS 3RV2901-1J 2S/2OE;GE;SP1
+1000274959;;;Hilfsschalter SIRIUS 3RV2901-1J 2S/2OE;Z0;SP1
+1000222410;;;Lichtgitter LT40/46-2000A;Z0;SP1
+1910047083;;;THERMO-RELAIS 12/18A>;Z0;SP1
+1910047340;;;SCHÜTZ 2PF+2PO - 125A 230VAC;Z0;SP1
+1910048467;;;VERZÖGERUNGSBL. T10-180S Ö+SCHL;Z0;SP1
+1910048474;;;SCHÜTZ 3PF+(1O+1F) 12A 230VAC;Z0;SP1
+1910052687;;;;Z0;SP1
+1910052714;;;;Z0;SP1
+1910052831;;;;;SP1
+1910052839;;;;Z0;SP1
+1910192103;;;;Z0;SP1
+1910498446;;;;Z0;SP1
+1910566227;;;;Z0;SP1
+1910777688;;;Hochleistungslaufrolle zweirillig;Z0;SP1
+1910777689;;;Motor M400S rechts IP54;Z0;SP1
+1910777690;;;Türsteuergerät Standard MiDrive IP20;Z0;SP1
+1910777691;;;Mikroschalter (Ex) Typ 07-2501;Z0;SP1
+1910777692;;;Motor M200S links IP54;Z0;SP1
+1910777693;8850005202;;Gegendruckrolle kpl schwarz m. Bund verz;Z0;SP1
+1910777694;;;Motor M200S rechts IP54;Z0;SP1
+1910777695;;;Gegendruckrolle kpl.TG3 langs. Hänger vz;Z0;SP1
+1910777696;;;Zahnriemen f. Siemenssteuerung Breite 12;Z0;SP1
+1910777697;8850003397;;Seil VOLLST. 1350 MM LG.;Z0;SP1
+1910777698;8850003390;;Gummipuffer / Anschlagpuffer Türmitte;Z0;SP1
+1910777699;8850820653;;transparenter Gummipuffer 15x2 s-klebend;Z0;SP1
+1910779313;;;Rolle für WRG125, D125 x 27 mm;Z0;SP1
+1910779314;;;SEMATIC 2000B Evolution-Satz;Z0;SP1
+1910779315;;;Rolle für WRG150HD, D150 x 38 mm;Z0;SP1
+1910779316;;;ROLLENSATZ FUER LAUFWAGEN(2x60MM+2x36MM);Z0;SP1
+1910779317;;;R2G-Satz Hydra LD 01/C 900 Premium;Z0;SP1
+1910779318;;;Seil 6,5 MM KUNSTST.FLEXISTEEL.G5;Z0;SP1
+1910779319;;;R2G-Satz Hydra LD 11R/L 800 Premium;Z0;SP1
+1910779320;;;R2G-Satz Hydra LD 11R/L 900 Premium;Z0;SP1
+1910779321;;;EOS-Display-Satz;Z0;SP1
+1910779322;;;2XROLLE D.52MM (AUßERE 58MM);Z0;SP1
+1910779323;;;2xSeilrolle für Zugseil D56mm;Z0;SP1
+1910779324;;;FUEHRUNGSSCHUH ARIES 55/30/54mm;Z0;SP1
+1910779325;;;15-mm-SLG-Führungsschuheinlage;Z0;SP1
+8000881749;;;DB02 SCHLÜSSELSCHALT OFF S05 SCHWARZ COP;GE;SP4
