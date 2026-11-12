@@ -9115,7 +9115,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910367541;99800000042;;Zahnriemen VF08 P800;EU;SP5
 1910208947;99800000043;;Zahnriemen VF08 P900;GE;SP1
 1910369041;99800000046;;Schwert VF08-C;GE;SP1
-1910209205;99800000048;;Lichtvorhang;GE;SP1
+1910209205;99800000048;SBC Spain 10078559;Lichtvorhang;GE;SP1
 1910367542;99800000049;;Puffer 300.401A;EU;SP5
 1910367543;99800000050;;ZB Standanzeige IP-7;GE;SP1
 1910367546;99800000051;;Steckschlüssel;GE;SP1
@@ -9839,7 +9839,7 @@ P1E Nummer;P89 Nummer;P89 Alternativ;Material Kurztext;Material Status;Disponent
 1910499276;unbekannt;batch4;LED-Streifen Auto 24V 500MM;GE;SP1
 1910499280;unbekannt;batch4;LED-Streifen-Kit Schacht 7 Haltest. Mod;GE;SP1
 1910499294;unbekannt;batch4;600X600 LED-Beleuchtungsanzeige;GE;SP1
-1910499314;unbekannt;batch4;MEMCO Vorhanganker-Kit;GE;SP1
+1910499314;SBC Spain 10082434;batch4;MEMCO Vorhanganker-Kit;GE;SP1
 1910499315;unbekannt;batch4;Lichtvorhang KIT Zentrale Öffnung;GE;SP1
 1910499318;unbekannt;batch4;Montagesatz rechts öffnende Aufzugstür;GE;SP1
 1910499319;unbekannt;batch4;BEFESTIGUNGSSET FÜR TELESKOP COMPACT;GE;SP1
